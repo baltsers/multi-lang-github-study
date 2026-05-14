@@ -1,0 +1,51 @@
+label_id,repository_count,cluster_topics,languages,combinations
+32,48,['extraction wikipedia'],"['c++', 'makefile', 'css', 'javascript', 'html', 'python', 'ruby', 'shell', 'batchfile', 'objective-c', 'c']","{'css html': 8, 'css javascript': 5, 'css html javascript': 3, 'c++ makefile': 2, 'html python': 2, 'makefile ruby': 2, 'html makefile shell': 2, 'python shell': 2, 'javascript shell': 2, 'ruby shell': 2, 'html ruby': 2, 'javascript ruby': 2, 'makefile shell': 2, 'javascript makefile': 1, 'css javascript shell': 1, 'makefile python': 1, 'makefile python shell': 1, 'batchfile shell': 1, 'css html shell': 1, 'c++ python': 1, 'html javascript': 1, 'html javascript shell': 1, 'css html makefile': 1, 'c++ objective-c': 1, 'c c++': 1}"
+31,11,['library admin panel website'],"['css', 'html', 'shell', 'javascript', 'python', 'perl', 'makefile']","{'python shell': 2, 'css html': 2, 'css html shell': 1, 'javascript python': 1, 'perl shell': 1, 'html javascript': 1, 'css javascript': 1, 'makefile shell': 1, 'css html makefile': 1}"
+4,47,['emulator jailbreak'],"['javascript', 'makefile', 'css', 'html', 'python', 'shell', 'perl', 'ruby', 'objective-c', 'c', 'c++']","{'css html': 10, 'ruby shell': 6, 'c makefile shell': 3, 'javascript ruby': 2, 'css html makefile': 2, 'css html javascript': 2, 'javascript shell': 2, 'objective-c python': 2, 'makefile shell': 2, 'javascript makefile': 1, 'python shell': 1, 'perl shell': 1, 'html javascript': 1, 'makefile ruby': 1, 'html javascript shell': 1, 'html makefile': 1, 'makefile python shell': 1, 'css javascript': 1, 'css ruby': 1, 'c ruby': 1, 'c++ makefile': 1, 'html ruby': 1, 'html makefile shell': 1, 'objective-c shell': 1, 'css html shell': 1}"
+29,7,['source software'],"['html', 'makefile', 'python', 'shell', 'c++', 'objective-c', 'css', 'javascript']","{'html makefile python shell': 1, 'c++ objective-c': 1, 'css html': 1, 'css javascript shell': 1, 'javascript makefile': 1, 'css html shell': 1, 'html makefile': 1}"
+16,9,['linux native process android bridge'],"['c++', 'objective-c', 'c', 'makefile', 'shell', 'html', 'python']","{'c++ makefile': 2, 'c makefile': 2, 'c++ objective-c': 1, 'c makefile shell': 1, 'html makefile python shell': 1, 'makefile shell': 1, 'objective-c python': 1}"
+15,1,['desktop'],"['css', 'javascript', 'shell']",{'css javascript shell': 1}
+20,14,['multiplayer party'],"['c', 'c++', 'javascript', 'html', 'makefile', 'shell', 'css', 'python', 'objective-c']","{'html makefile shell': 2, 'html makefile python shell': 2, 'c c++': 1, 'c javascript': 1, 'css html javascript': 1, 'makefile python': 1, 'html python shell': 1, 'c++ makefile': 1, 'javascript shell': 1, 'objective-c python': 1, 'html javascript': 1, 'c python': 1}"
+35,1,['store'],"['css', 'javascript', 'shell']",{'css javascript shell': 1}
+0,2,['reactive socket middleware'],"['html', 'ruby', 'batchfile', 'shell']","{'html ruby': 1, 'batchfile shell': 1}"
+19,8,['cross platform webshell'],"['html', 'makefile', 'python', 'shell', 'css', 'javascript', 'ruby']","{'css html shell': 2, 'python shell': 2, 'html makefile python shell': 1, 'css html': 1, 'css javascript': 1, 'ruby shell': 1}"
+9,5,['responsive'],"['javascript', 'ruby', 'html', 'css']","{'html javascript': 2, 'javascript ruby': 1, 'css javascript': 1, 'css html': 1}"
+42,40,['angular provider progress'],"['html', 'python', 'c', 'makefile', 'javascript', 'ruby', 'shell', 'css', 'c++']","{'css html': 7, 'ruby shell': 3, 'html javascript': 3, 'css javascript': 3, 'javascript ruby': 2, 'makefile python shell': 2, 'html ruby': 2, 'css html javascript': 2, 'css html makefile': 2, 'html shell': 2, 'html python': 1, 'c makefile': 1, 'javascript python': 1, 'css shell': 1, 'css javascript shell': 1, 'html makefile shell': 1, 'html javascript shell': 1, 'c c++': 1, 'html python shell': 1, 'javascript makefile': 1, 'html makefile python shell': 1, 'makefile ruby': 1}"
+7,3,['source'],"['css', 'html', 'shell', 'makefile', 'python', 'javascript']","{'css html shell': 1, 'html makefile python shell': 1, 'css html javascript': 1}"
+48,2,['development'],"['coffeescript', 'html', 'css', 'shell']","{'coffeescript html': 1, 'css shell': 1}"
+30,1,['objective'],"['ruby', 'shell']",{'ruby shell': 1}
+45,1,['unavailable'],"['objective-c', 'python']",{'objective-c python': 1}
+8,27,['experimental scroll behavior'],"['javascript', 'shell', 'css', 'html', 'c', 'python', 'makefile', 'c++', 'objective-c', 'ruby']","{'css html': 9, 'html javascript shell': 2, 'c ruby': 2, 'css javascript': 2, 'css html javascript': 2, 'javascript shell': 1, 'css javascript shell': 1, 'c python': 1, 'css html makefile': 1, 'html python shell': 1, 'c++ objective-c': 1, 'makefile shell': 1, 'html makefile python shell': 1, 'c objective-c': 1, 'c shell': 1}"
+23,1,['digital'],"['html', 'javascript', 'shell']",{'html javascript shell': 1}
+2,7,['librecrypt transparent encryption window compatible'],"['ruby', 'shell', 'perl', 'html', 'makefile', 'css', 'javascript']","{'ruby shell': 2, 'perl shell': 1, 'html makefile shell': 1, 'css makefile': 1, 'css html makefile': 1, 'html javascript shell': 1}"
+33,1,['douban'],"['html', 'makefile', 'python', 'shell']",{'html makefile python shell': 1}
+18,14,['simple plugin field label support label entry'],"['css', 'html', 'javascript', 'shell', 'perl', 'c', 'makefile']","{'css html': 6, 'css javascript': 3, 'html javascript shell': 1, 'html shell': 1, 'perl shell': 1, 'c makefile shell': 1, 'css html javascript': 1}"
+17,2,['image github'],"['ruby', 'shell', 'css', 'html']","{'ruby shell': 1, 'css html': 1}"
+6,4,['commerce component'],"['html', 'javascript', 'css', 'c++', 'shell']","{'html javascript': 1, 'css html': 1, 'c++ shell': 1, 'javascript shell': 1}"
+13,4,['spring example'],"['makefile', 'python', 'shell', 'objective-c', 'css', 'html', 'javascript']","{'makefile python shell': 1, 'objective-c python': 1, 'css html': 1, 'css javascript': 1}"
+3,12,['small project quick prototype'],"['python', 'shell', 'css', 'html', 'javascript', 'objective-c', 'makefile', 'ruby']","{'css html': 3, 'css html javascript': 2, 'python shell': 1, 'css html shell': 1, 'objective-c python': 1, 'html makefile shell': 1, 'ruby shell': 1, 'html shell': 1, 'html javascript shell': 1}"
+11,2,['android'],"['javascript', 'ruby', 'html', 'makefile', 'python', 'shell']","{'javascript ruby': 1, 'html makefile python shell': 1}"
+14,2,['transition'],"['html', 'javascript', 'ruby', 'shell']","{'html javascript': 1, 'ruby shell': 1}"
+22,3,['soundcloud client'],"['css', 'html', 'shell', 'javascript', 'ruby']","{'css html shell': 1, 'html javascript': 1, 'ruby shell': 1}"
+24,2,['simple'],"['ruby', 'shell', 'css', 'html', 'javascript']","{'ruby shell': 1, 'css html javascript': 1}"
+28,2,['scalable'],"['makefile', 'shell', 'css', 'html']","{'makefile shell': 1, 'css html': 1}"
+47,4,['training course repository'],"['html', 'python', 'c', 'shell', 'css']","{'css html': 2, 'html python': 1, 'c shell': 1}"
+10,1,['kibana'],"['css', 'html', 'shell']",{'css html shell': 1}
+12,3,['interactive debugger'],"['css', 'html', 'makefile', 'ruby', 'shell']","{'css html makefile': 1, 'css html': 1, 'ruby shell': 1}"
+21,1,['photo'],"['css', 'html', 'javascript']",{'css html javascript': 1}
+1,2,['modern'],"['makefile', 'python', 'html', 'shell']","{'makefile python': 1, 'html makefile shell': 1}"
+25,1,['implementation'],"['c', 'c++']",{'c c++': 1}
+46,1,['typographic'],"['css', 'html']",{'css html': 1}
+41,2,['evernote replacement'],"['c++', 'makefile', 'shell', 'css', 'html', 'javascript']","{'c++ makefile shell': 1, 'css html javascript': 1}"
+5,2,['level visualisation'],"['html', 'javascript', 'css']","{'html javascript': 1, 'css html': 1}"
+49,2,['github'],"['ruby', 'shell', 'javascript']","{'ruby shell': 1, 'javascript ruby': 1}"
+37,1,['readable'],"['makefile', 'shell']",{'makefile shell': 1}
+39,1,['elegance'],"['html', 'python', 'shell']",{'html python shell': 1}
+43,1,['whole'],"['css', 'html']",{'css html': 1}
+34,1,['lambda'],"['css', 'shell']",{'css shell': 1}
+44,2,['network daemon'],"['python', 'shell', 'c++']","{'python shell': 1, 'c++ python': 1}"
+27,1,['injection'],"['c', 'python']",{'c python': 1}
+26,1,['binding'],"['objective-c', 'shell']",{'objective-c shell': 1}
+36,1,['basic'],"['c++', 'makefile', 'shell']",{'c++ makefile shell': 1}
+38,1,['shadowsocks'],"['html', 'makefile', 'python', 'shell']",{'html makefile python shell': 1}
+40,1,['scroll'],"['html', 'makefile', 'python', 'shell']",{'html makefile python shell': 1}

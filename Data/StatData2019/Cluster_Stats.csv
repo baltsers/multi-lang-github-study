@@ -1,0 +1,51 @@
+label_id,repository_count,cluster_topics,languages,combinations
+1,113,['docker multi environment'],"['css', 'html', 'java', 'javascript', 'dockerfile', 'makefile', 'python', 'shell', 'ruby', 'c++', 'objective-c', 'batchfile', 'c']","{'css html': 15, 'html python shell': 6, 'css html javascript': 6, 'css javascript': 5, 'makefile python shell': 5, 'css html javascript shell': 5, 'dockerfile makefile': 4, 'ruby shell': 4, 'html shell': 4, 'makefile shell': 4, 'python shell': 4, 'objective-c ruby': 4, 'c++ makefile shell': 4, 'dockerfile shell': 4, 'html java': 3, 'css html python': 3, 'javascript shell': 3, 'html makefile shell': 3, 'html javascript': 3, 'c++ python': 3, 'css html shell': 3, 'css html makefile': 2, 'dockerfile html javascript': 2, 'html python': 2, 'makefile python': 2, 'html javascript shell': 2, 'batchfile shell': 2, 'html javascript makefile': 2, 'javascript python': 1, 'css python': 1, 'c makefile': 1, 'dockerfile html': 1}"
+36,5,['socket angular angular material component'],"['css', 'javascript', 'dockerfile', 'html', 'shell']","{'css javascript': 1, 'css dockerfile html': 1, 'css html shell': 1, 'dockerfile html javascript': 1, 'css html javascript': 1}"
+13,49,['ovilia personal'],"['makefile', 'python', 'shell', 'html', 'css', 'javascript', 'ruby', 'c', 'c++', 'objective-c', 'batchfile']","{'css html': 8, 'html javascript': 5, 'css javascript': 4, 'html python shell': 3, 'css html javascript shell': 3, 'makefile shell': 3, 'css html javascript': 3, 'makefile python shell': 2, 'makefile python': 2, 'ruby shell': 2, 'c++ makefile shell': 2, 'c python': 2, 'css makefile shell': 1, 'html python': 1, 'javascript python': 1, 'c c++': 1, 'css javascript shell': 1, 'css html shell': 1, 'html shell': 1, 'objective-c ruby': 1, 'batchfile shell': 1, 'css html makefile': 1}"
+24,3,['framework'],"['css', 'html', 'shell', 'ruby', 'c', 'makefile']","{'css html shell': 1, 'ruby shell': 1, 'c makefile': 1}"
+43,5,['complex application'],"['css', 'html', 'javascript', 'makefile']","{'css html': 2, 'html javascript makefile': 1, 'html makefile': 1, 'css javascript': 1}"
+41,1,['modify'],"['html', 'javascript']",{'html javascript': 1}
+4,30,['bitcoin solution'],"['dockerfile', 'shell', 'html', 'javascript', 'css', 'python', 'c', 'c++', 'ruby', 'makefile', 'batchfile', 'java']","{'css html': 8, 'dockerfile shell': 2, 'python shell': 2, 'css html javascript shell': 2, 'ruby shell': 2, 'c++ makefile shell': 2, 'css html python': 2, 'css html javascript': 2, 'dockerfile html javascript': 1, 'css html shell': 1, 'c c++': 1, 'makefile python shell': 1, 'css html makefile': 1, 'batchfile shell': 1, 'java shell': 1, 'html javascript': 1}"
+19,5,['spring security'],"['css', 'dockerfile', 'html', 'javascript', 'shell']","{'css dockerfile html': 1, 'css html javascript': 1, 'css html': 1, 'css html javascript shell': 1, 'dockerfile html javascript': 1}"
+42,7,['ultimate framework responsive'],"['css', 'javascript', 'batchfile', 'shell', 'html']","{'css html': 4, 'css javascript': 1, 'batchfile shell': 1, 'css shell': 1}"
+45,3,['elegant dashboard'],"['css', 'html', 'javascript', 'python', 'shell', 'java']","{'css html javascript': 1, 'html python shell': 1, 'html java': 1}"
+38,2,['slick progress'],"['css', 'html', 'shell']","{'css html': 1, 'css html shell': 1}"
+39,39,['whatsapp clone'],"['dockerfile', 'html', 'javascript', 'makefile', 'objective-c', 'ruby', 'shell', 'css', 'python', 'c', 'c++', 'batchfile']","{'objective-c ruby': 4, 'css html': 4, 'makefile python shell': 3, 'makefile shell': 3, 'ruby shell': 3, 'html shell': 2, 'css html shell': 2, 'css html python': 2, 'css html javascript shell': 2, 'dockerfile html': 1, 'javascript makefile': 1, 'html javascript shell': 1, 'python shell': 1, 'css html makefile': 1, 'makefile python': 1, 'c python': 1, 'css html javascript': 1, 'html makefile shell': 1, 'css makefile shell': 1, 'html python shell': 1, 'c++ makefile shell': 1, 'batchfile shell': 1, 'c makefile': 1}"
+14,7,['library animate image'],"['css', 'html', 'makefile', 'shell', 'javascript']","{'css html': 2, 'html shell': 2, 'makefile shell': 1, 'css makefile shell': 1, 'css javascript': 1}"
+3,11,['android pagertabstrip'],"['java', 'shell', 'html', 'javascript', 'batchfile', 'css', 'c', 'python', 'objective-c', 'ruby']","{'css html javascript': 3, 'java shell': 2, 'html javascript': 2, 'batchfile shell': 2, 'c python': 1, 'objective-c ruby': 1}"
+6,4,['component mobile robotics'],"['css', 'html', 'javascript', 'shell', 'python']","{'css html javascript shell': 1, 'html javascript': 1, 'css html': 1, 'python shell': 1}"
+16,2,['animation'],"['css', 'html']",{'css html': 2}
+23,19,['rappor privacy'],"['css', 'html', 'javascript', 'shell', 'makefile', 'dockerfile', 'python']","{'css html javascript shell': 3, 'css html shell': 3, 'css html': 3, 'makefile python': 2, 'makefile shell': 2, 'html makefile shell': 1, 'dockerfile html javascript': 1, 'html javascript shell': 1, 'html javascript makefile': 1, 'makefile python shell': 1, 'html javascript': 1}"
+8,8,['honeypot framework'],"['html', 'javascript', 'css', 'shell', 'makefile', 'c', 'c++', 'dockerfile']","{'css html shell': 2, 'html javascript': 1, 'css html': 1, 'makefile shell': 1, 'c c++': 1, 'css javascript': 1, 'dockerfile shell': 1}"
+18,6,['application template'],"['css', 'html', 'javascript', 'dockerfile']","{'css html javascript': 2, 'css html': 2, 'css dockerfile javascript': 1, 'dockerfile html javascript': 1}"
+15,26,['cyclone blueprint collection layout'],"['css', 'makefile', 'html', 'shell', 'c', 'python', 'dockerfile', 'javascript', 'objective-c', 'ruby', 'java']","{'css html': 9, 'css html shell': 2, 'makefile python shell': 2, 'css makefile': 1, 'c shell': 1, 'dockerfile html javascript': 1, 'html javascript': 1, 'objective-c ruby': 1, 'dockerfile shell': 1, 'css html makefile': 1, 'python shell': 1, 'java shell': 1, 'html javascript makefile': 1, 'html javascript shell': 1, 'css shell': 1, 'ruby shell': 1}"
+12,1,['source'],"['makefile', 'python']",{'makefile python': 1}
+31,15,['language model optimization technique huawei'],"['makefile', 'python', 'shell', 'css', 'html', 'javascript', 'dockerfile', 'batchfile']","{'dockerfile makefile': 3, 'makefile python shell': 2, 'css html': 2, 'javascript shell': 1, 'css html javascript shell': 1, 'css html python': 1, 'css html javascript': 1, 'batchfile shell': 1, 'makefile python': 1, 'html shell': 1, 'dockerfile shell': 1}"
+7,8,['medium clone'],"['makefile', 'shell', 'css', 'html', 'c++', 'python', 'javascript']","{'makefile shell': 1, 'css html': 1, 'c++ makefile shell': 1, 'html makefile shell': 1, 'python shell': 1, 'css html shell': 1, 'css javascript': 1, 'css html javascript': 1}"
+32,1,['official'],"['css', 'html', 'javascript', 'shell']",{'css html javascript shell': 1}
+34,2,['github'],"['python', 'shell', 'css', 'html']","{'python shell': 1, 'css html': 1}"
+47,2,['module telegram'],"['html', 'shell', 'css']","{'html shell': 1, 'css html': 1}"
+2,2,['electron'],"['css', 'html', 'shell', 'javascript']","{'css html shell': 1, 'css javascript shell': 1}"
+44,1,['credit'],"['html', 'javascript']",{'html javascript': 1}
+10,3,['monitor command'],"['makefile', 'shell', 'c++', 'objective-c']","{'makefile shell': 1, 'c++ makefile': 1, 'objective-c shell': 1}"
+25,1,['github delos'],"['css', 'html', 'shell']",{'css html shell': 1}
+46,2,['study'],"['makefile', 'shell', 'objective-c', 'ruby']","{'makefile shell': 1, 'objective-c ruby': 1}"
+21,1,['simple'],"['css', 'html']",{'css html': 1}
+0,4,['library native library'],"['css', 'html', 'javascript', 'objective-c', 'ruby', 'makefile', 'python', 'c++', 'shell']","{'css html javascript': 1, 'objective-c ruby': 1, 'makefile python': 1, 'c++ makefile shell': 1}"
+40,1,['blocker'],"['html', 'python', 'shell']",{'html python shell': 1}
+27,2,['dependency plugin plain'],"['css', 'html', 'shell']","{'css html shell': 1, 'html shell': 1}"
+33,1,['unofficial'],"['ruby', 'shell']",{'ruby shell': 1}
+28,1,['technology technology'],"['html', 'python', 'shell']",{'html python shell': 1}
+5,4,['machine_learning'],"['css', 'html', 'python', 'shell', 'javascript', 'makefile']","{'css html python': 1, 'python shell': 1, 'html javascript': 1, 'makefile python shell': 1}"
+37,4,['webodf document engine'],"['python', 'shell', 'css', 'html', 'javascript']","{'python shell': 1, 'css html': 1, 'css html javascript': 1, 'css html shell': 1}"
+49,1,['competition'],"['makefile', 'python', 'shell']",{'makefile python shell': 1}
+20,2,['docker native'],"['css', 'html', 'javascript', 'shell', 'dockerfile']","{'css html javascript shell': 1, 'dockerfile shell': 1}"
+29,2,['angularjs directive bootstrap'],"['css', 'html', 'javascript']","{'css html': 1, 'html javascript': 1}"
+35,1,['certificate'],"['makefile', 'python', 'shell']",{'makefile python shell': 1}
+48,1,['capability'],"['makefile', 'shell']",{'makefile shell': 1}
+9,2,['interface'],"['html', 'javascript', 'makefile', 'css']","{'html javascript makefile': 1, 'css html': 1}"
+26,3,['implementation'],"['python', 'shell', 'makefile', 'css', 'html']","{'python shell': 1, 'makefile python shell': 1, 'css html shell': 1}"
+30,1,['customization'],"['makefile', 'shell']",{'makefile shell': 1}
+11,2,['monkey front'],"['javascript', 'python', 'css', 'html', 'makefile']","{'javascript python': 1, 'css html makefile': 1}"
+22,1,['pixelbeat'],"['html', 'python']",{'html python': 1}
+17,1,['pwaapp'],"['css', 'html', 'javascript']",{'css html javascript': 1}

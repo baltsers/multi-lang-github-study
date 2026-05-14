@@ -1,0 +1,653 @@
+combo_id,combination,count,distribution
+0,css shell,56,0.060935799782372145
+1,css javascript,51,0.055495103373231776
+2,c shell,38,0.041349292709466814
+3,python shell,35,0.03808487486398259
+4,javascript shell,34,0.036996735582154515
+5,c++ shell,34,0.036996735582154515
+6,ruby shell,31,0.03373231773667029
+7,c c++,29,0.031556039173014146
+8,css python,26,0.028291621327529923
+9,css ruby,25,0.02720348204570185
+10,perl shell,25,0.02720348204570185
+11,objective-c shell,24,0.026115342763873776
+12,javascript ruby,23,0.025027203482045703
+13,c++ objective-c,20,0.02176278563656148
+14,css python shell,20,0.02176278563656148
+15,c ruby,20,0.02176278563656148
+16,css javascript shell,19,0.020674646354733407
+17,c objective-c,18,0.01958650707290533
+18,c css,17,0.018498367791077257
+19,coffeescript css,17,0.018498367791077257
+20,c python,16,0.017410228509249184
+21,c++ objective-c shell,14,0.015233949945593036
+22,css php,14,0.015233949945593036
+23,c perl,14,0.015233949945593036
+24,php shell,14,0.015233949945593036
+25,c c++ shell,14,0.015233949945593036
+26,c javascript,14,0.015233949945593036
+27,c perl shell,13,0.014145810663764961
+28,c++ perl,13,0.014145810663764961
+29,javascript perl,13,0.014145810663764961
+30,javascript python,12,0.013057671381936888
+31,c python shell,12,0.013057671381936888
+32,java shell,12,0.013057671381936888
+33,c++ python,12,0.013057671381936888
+34,c++ perl shell,12,0.013057671381936888
+35,coffeescript javascript,11,0.011969532100108813
+36,c++ css,11,0.011969532100108813
+37,css perl,11,0.011969532100108813
+38,groovy shell,11,0.011969532100108813
+39,c++ ruby,11,0.011969532100108813
+40,perl python,10,0.01088139281828074
+41,css ruby shell,10,0.01088139281828074
+42,c++ javascript,10,0.01088139281828074
+43,c++ python shell,10,0.01088139281828074
+44,javascript ruby shell,9,0.009793253536452665
+45,c css shell,9,0.009793253536452665
+46,c ruby shell,9,0.009793253536452665
+47,css perl shell,9,0.009793253536452665
+48,perl python shell,9,0.009793253536452665
+49,css objective-c,9,0.009793253536452665
+50,javascript objective-c,9,0.009793253536452665
+51,css objective-c shell,9,0.0
+52,c objective-c shell,9,0.0
+53,javascript perl shell,9,0.0
+54,assembly c++,8,0.0
+55,c++ css shell,8,0.0
+56,c++ javascript shell,8,0.0
+57,javascript objective-c shell,8,0.0
+58,objective-c perl,8,0.0
+59,objective-c python,8,0.0
+60,objective-c perl shell,8,0.0
+61,objective-c python shell,8,0.0
+62,c++ java,8,0.0
+63,c c++ css,7,0.0
+64,coffeescript css javascript,7,0.0
+65,javascript python shell,7,0.0
+66,python ruby,7,0.0
+67,c++ php,7,0.0
+68,javascript php,7,0.0
+69,perl php,7,0.0
+70,c++ objective-c perl,7,0.0
+71,perl php shell,7,0.0
+72,c++ objective-c perl shell,7,0.0
+73,java python,7,0.0
+74,c++ java shell,7,0.0
+75,c css javascript,7,0.0
+76,c++ ruby shell,7,0.0
+77,java objective-c,7,0.0
+78,css javascript ruby,7,0.0
+79,coffeescript ruby,6,0.0
+80,coffeescript shell,6,0.0
+81,css javascript python,6,0.0
+82,css javascript python shell,6,0.0
+83,perl ruby,6,0.0
+84,css java,6,0.0
+85,c++ php shell,6,0.0
+86,css php shell,6,0.0
+87,javascript php shell,6,0.0
+88,c c++ objective-c,6,0.0
+89,c c++ perl,6,0.0
+90,c++ perl python,6,0.0
+91,c c++ perl shell,6,0.0
+92,c c++ ruby,6,0.0
+93,css javascript perl,6,0.0
+94,assembly objective-c,5,0.0
+95,assembly shell,5,0.0
+96,assembly objective-c shell,5,0.0
+97,makefile shell,5,0.0
+98,php python,5,0.0
+99,css perl python,5,0.0
+100,css perl python shell,5,0.0
+101,css java shell,5,0.0
+102,c++ css javascript,5,0.0
+103,c++ javascript objective-c,5,0.0
+104,c++ javascript php,5,0.0
+105,css javascript objective-c,5,0.0
+106,c++ javascript objective-c shell,5,0.0
+107,css javascript objective-c shell,5,0.0
+108,c javascript shell,5,0.0
+109,c++ objective-c python,5,0.0
+110,c++ perl php,5,0.0
+111,c++ objective-c python shell,5,0.0
+112,c++ perl php shell,5,0.0
+113,c++ perl python shell,5,0.0
+114,java python shell,5,0.0
+115,erlang shell,5,0.0
+116,c java,5,0.0
+117,java javascript,5,0.0
+118,c objective-c++,5,0.0
+119,objective-c objective-c++,5,0.0
+120,objective-c ruby,5,0.0
+121,java objective-c shell,5,0.0
+122,java perl,5,0.0
+123,css javascript ruby shell,5,0.0
+124,coffeescript javascript shell,4,0.0
+125,assembly c++ objective-c,4,0.0
+126,assembly c++ shell,4,0.0
+127,assembly c++ objective-c shell,4,0.0
+128,c css perl,4,0.0
+129,c css python,4,0.0
+130,c perl python,4,0.0
+131,perl ruby shell,4,0.0
+132,c css python shell,4,0.0
+133,c perl python shell,4,0.0
+134,css makefile,4,0.0
+135,objective-c php,4,0.0
+136,c++ css objective-c,4,0.0
+137,c++ objective-c php,4,0.0
+138,objective-c php shell,4,0.0
+139,c++ css objective-c shell,4,0.0
+140,c++ javascript php shell,4,0.0
+141,c++ objective-c php shell,4,0.0
+142,r shell,4,0.0
+143,c c++ javascript,4,0.0
+144,c c++ python,4,0.0
+145,c javascript objective-c,4,0.0
+146,c javascript perl,4,0.0
+147,c objective-c perl,4,0.0
+148,c++ javascript perl,4,0.0
+149,javascript perl php,4,0.0
+150,javascript perl python,4,0.0
+151,php python shell,4,0.0
+152,c c++ python shell,4,0.0
+153,c objective-c perl shell,4,0.0
+154,c++ javascript perl shell,4,0.0
+155,javascript perl php shell,4,0.0
+156,javascript perl python shell,4,0.0
+157,asp css,4,0.0
+158,c css objective-c,4,0.0
+159,c css objective-c shell,4,0.0
+160,c erlang,4,0.0
+161,c erlang shell,4,0.0
+162,c objective-c objective-c++,4,0.0
+163,css javascript perl shell,4,0.0
+164,c++ makefile,4,0.0
+165,emacs lisp objective-c,4,0.0
+166,emacs lisp shell,4,0.0
+167,css objective-c python,4,0.0
+168,emacs lisp objective-c shell,4,0.0
+169,css objective-c python shell,4,0.0
+170,shell tex,4,0.0
+171,c++ java perl,4,0.0
+172,c c++ css shell,4,0.0
+173,css scala,4,0.0
+174,c c++ ruby shell,4,0.0
+175,c++ css python,4,0.0
+176,c++ css python shell,4,0.0
+177,assembly python,4,0.0
+178,scala shell,4,0.0
+179,coffeescript javascript ruby,3,0.0
+180,makefile ruby,3,0.0
+181,css vim script,3,0.0
+182,python vim script,3,0.0
+183,shell vim script,3,0.0
+184,c css ruby,3,0.0
+185,c perl ruby,3,0.0
+186,css python ruby,3,0.0
+187,css python vim script,3,0.0
+188,css shell vim script,3,0.0
+189,python ruby shell,3,0.0
+190,python shell vim script,3,0.0
+191,c css perl shell,3,0.0
+192,css python ruby shell,3,0.0
+193,css python shell vim script,3,0.0
+194,actionscript css,3,0.0
+195,c++ css php,3,0.0
+196,css javascript php,3,0.0
+197,c++ css javascript objective-c,3,0.0
+198,c++ css javascript shell,3,0.0
+199,c++ css javascript objective-c shell,3,0.0
+200,perl r,3,0.0
+201,perl r shell,3,0.0
+202,c php,3,0.0
+203,c c++ php,3,0.0
+204,c javascript php,3,0.0
+205,c objective-c python,3,0.0
+206,objective-c perl php,3,0.0
+207,objective-c perl python,3,0.0
+208,perl php python,3,0.0
+209,c c++ javascript php,3,0.0
+210,c c++ objective-c perl,3,0.0
+211,c c++ objective-c shell,3,0.0
+212,c javascript objective-c shell,3,0.0
+213,c javascript perl shell,3,0.0
+214,c objective-c python shell,3,0.0
+215,c++ javascript perl php,3,0.0
+216,c++ objective-c perl php,3,0.0
+217,c++ objective-c perl python,3,0.0
+218,objective-c perl php shell,3,0.0
+219,objective-c perl python shell,3,0.0
+220,perl php python shell,3,0.0
+221,c c++ objective-c perl shell,3,0.0
+222,c++ javascript perl php shell,3,0.0
+223,c++ objective-c perl php shell,3,0.0
+224,c++ objective-c perl python shell,3,0.0
+225,go shell,3,0.0
+226,c++ java python,3,0.0
+227,idl javascript,3,0.0
+228,idl shell,3,0.0
+229,idl javascript shell,3,0.0
+230,coffeescript css shell,3,0.0
+231,erlang perl,3,0.0
+232,c erlang perl,3,0.0
+233,erlang perl shell,3,0.0
+234,c erlang perl shell,3,0.0
+235,c matlab,3,0.0
+236,css java python,3,0.0
+237,css java python shell,3,0.0
+238,java ruby,3,0.0
+239,c java javascript,3,0.0
+240,c javascript ruby,3,0.0
+241,javascript python ruby,3,0.0
+242,c++ r,3,0.0
+243,javascript r,3,0.0
+244,c++ javascript r,3,0.0
+245,c++ r shell,3,0.0
+246,javascript r shell,3,0.0
+247,c++ javascript r shell,3,0.0
+248,shell tcl,3,0.0
+249,css javascript perl python,3,0.0
+250,css javascript perl python shell,3,0.0
+251,c++ makefile shell,3,0.0
+252,applescript shell,3,0.0
+253,processing python,3,0.0
+254,c emacs lisp,3,0.0
+255,css emacs lisp,3,0.0
+256,c emacs lisp objective-c,3,0.0
+257,c emacs lisp shell,3,0.0
+258,c java shell,3,0.0
+259,css emacs lisp objective-c,3,0.0
+260,css emacs lisp shell,3,0.0
+261,java objective-c python,3,0.0
+262,c emacs lisp objective-c shell,3,0.0
+263,css emacs lisp objective-c shell,3,0.0
+264,java objective-c python shell,3,0.0
+265,c tex,3,0.0
+266,c++ tex,3,0.0
+267,c shell tex,3,0.0
+268,c++ css perl,3,0.0
+269,c++ shell tex,3,0.0
+270,java perl shell,3,0.0
+271,c++ css perl shell,3,0.0
+272,c++ java perl shell,3,0.0
+273,css objective-c perl,3,0.0
+274,css objective-c perl shell,3,0.0
+275,assembly java,3,0.0
+276,assembly c++ java,3,0.0
+277,assembly c++ python,3,0.0
+278,c++ java objective-c,3,0.0
+279,c++ java objective-c shell,3,0.0
+280,emacs lisp perl,3,0.0
+281,css php python,3,0.0
+282,emacs lisp objective-c perl,3,0.0
+283,emacs lisp perl shell,3,0.0
+284,css php python shell,3,0.0
+285,emacs lisp objective-c perl shell,3,0.0
+286,assembly perl,3,0.0
+287,powershell shell,3,0.0
+288,css scala shell,3,0.0
+289,coffeescript ruby shell,2,0.0
+290,makefile ruby shell,2,0.0
+291,c c#,2,0.0
+292,c vim script,2,0.0
+293,c# css,2,0.0
+294,perl vim script,2,0.0
+295,c css vim script,2,0.0
+296,c python ruby,2,0.0
+297,c python vim script,2,0.0
+298,c shell vim script,2,0.0
+299,css perl ruby,2,0.0
+300,css perl vim script,2,0.0
+301,perl python ruby,2,0.0
+302,perl python vim script,2,0.0
+303,perl shell vim script,2,0.0
+304,c css perl ruby,2,0.0
+305,c css python vim script,2,0.0
+306,c css ruby shell,2,0.0
+307,c css shell vim script,2,0.0
+308,c perl ruby shell,2,0.0
+309,c python shell vim script,2,0.0
+310,css perl python vim script,2,0.0
+311,css perl shell vim script,2,0.0
+312,perl python shell vim script,2,0.0
+313,c css python shell vim script,2,0.0
+314,css perl python shell vim script,2,0.0
+315,actionscript shell,2,0.0
+316,actionscript css shell,2,0.0
+317,css objective-c php,2,0.0
+318,javascript objective-c php,2,0.0
+319,c++ css javascript php,2,0.0
+320,c++ css objective-c php,2,0.0
+321,c++ css php shell,2,0.0
+322,c++ javascript objective-c php,2,0.0
+323,css javascript php shell,2,0.0
+324,css objective-c php shell,2,0.0
+325,javascript objective-c php shell,2,0.0
+326,c++ css objective-c php shell,2,0.0
+327,c++ javascript objective-c php shell,2,0.0
+328,c r,2,0.0
+329,c perl r,2,0.0
+330,c r shell,2,0.0
+331,c perl r shell,2,0.0
+332,c javascript python,2,0.0
+333,c perl php,2,0.0
+334,c php shell,2,0.0
+335,c++ javascript python,2,0.0
+336,c++ php python,2,0.0
+337,javascript objective-c perl,2,0.0
+338,javascript objective-c python,2,0.0
+339,javascript php python,2,0.0
+340,objective-c php python,2,0.0
+341,c c++ javascript perl,2,0.0
+342,c c++ javascript shell,2,0.0
+343,c c++ perl php,2,0.0
+344,c c++ perl python,2,0.0
+345,c c++ php shell,2,0.0
+346,c javascript perl php,2,0.0
+347,c javascript php shell,2,0.0
+348,c perl php shell,2,0.0
+349,c++ javascript objective-c perl,2,0.0
+350,c++ javascript objective-c python,2,0.0
+351,c++ javascript perl python,2,0.0
+352,c++ javascript python shell,2,0.0
+353,c++ objective-c php python,2,0.0
+354,c++ perl php python,2,0.0
+355,c++ php python shell,2,0.0
+356,javascript objective-c perl python,2,0.0
+357,javascript objective-c perl shell,2,0.0
+358,javascript objective-c python shell,2,0.0
+359,javascript perl php python,2,0.0
+360,javascript php python shell,2,0.0
+361,objective-c perl php python,2,0.0
+362,objective-c php python shell,2,0.0
+363,c c++ javascript perl php,2,0.0
+364,c c++ javascript perl shell,2,0.0
+365,c c++ javascript php shell,2,0.0
+366,c c++ perl php shell,2,0.0
+367,c c++ perl python shell,2,0.0
+368,c javascript perl php shell,2,0.0
+369,c++ javascript objective-c perl python,2,0.0
+370,c++ javascript objective-c perl shell,2,0.0
+371,c++ javascript objective-c python shell,2,0.0
+372,c++ javascript perl python shell,2,0.0
+373,c++ objective-c perl php python,2,0.0
+374,c++ objective-c php python shell,2,0.0
+375,c++ perl php python shell,2,0.0
+376,javascript objective-c perl python shell,2,0.0
+377,javascript perl php python shell,2,0.0
+378,objective-c perl php python shell,2,0.0
+379,c c++ javascript perl php shell,2,0.0
+380,c++ javascript objective-c perl python shell,2,0.0
+381,c++ objective-c perl php python shell,2,0.0
+382,go objective-c,2,0.0
+383,go objective-c shell,2,0.0
+384,c++ java python shell,2,0.0
+385,asp javascript,2,0.0
+386,asp css javascript,2,0.0
+387,idl objective-c,2,0.0
+388,idl javascript objective-c,2,0.0
+389,idl objective-c shell,2,0.0
+390,c css javascript objective-c,2,0.0
+391,c css javascript shell,2,0.0
+392,idl javascript objective-c shell,2,0.0
+393,c css javascript objective-c shell,2,0.0
+394,coffeescript css ruby,2,0.0
+395,c java python,2,0.0
+396,c java ruby,2,0.0
+397,java javascript ruby,2,0.0
+398,java python ruby,2,0.0
+399,c java javascript ruby,2,0.0
+400,c++ common lisp,2,0.0
+401,c++ idl,2,0.0
+402,common lisp shell,2,0.0
+403,c++ common lisp shell,2,0.0
+404,c++ idl javascript,2,0.0
+405,c++ idl shell,2,0.0
+406,c++ idl javascript shell,2,0.0
+407,clojure shell,2,0.0
+408,css groovy,2,0.0
+409,groovy python,2,0.0
+410,python tcl,2,0.0
+411,css groovy python,2,0.0
+412,css groovy shell,2,0.0
+413,groovy python shell,2,0.0
+414,python shell tcl,2,0.0
+415,css groovy python shell,2,0.0
+416,css graphviz (dot),2,0.0
+417,graphviz (dot) perl,2,0.0
+418,graphviz (dot) shell,2,0.0
+419,css graphviz (dot) perl,2,0.0
+420,css graphviz (dot) shell,2,0.0
+421,graphviz (dot) perl shell,2,0.0
+422,css graphviz (dot) perl shell,2,0.0
+423,c tcl,2,0.0
+424,c++ coq,2,0.0
+425,coq perl,2,0.0
+426,c shell tcl,2,0.0
+427,c++ coq perl,2,0.0
+428,c c++ css javascript,2,0.0
+429,c processing,2,0.0
+430,php r,2,0.0
+431,c++ perl r,2,0.0
+432,c++ php r,2,0.0
+433,javascript perl r,2,0.0
+434,javascript php r,2,0.0
+435,perl php r,2,0.0
+436,php r shell,2,0.0
+437,c++ javascript perl r,2,0.0
+438,c++ javascript php r,2,0.0
+439,c++ perl php r,2,0.0
+440,c++ perl r shell,2,0.0
+441,c++ php r shell,2,0.0
+442,javascript perl php r,2,0.0
+443,javascript perl r shell,2,0.0
+444,javascript php r shell,2,0.0
+445,perl php r shell,2,0.0
+446,c++ javascript perl php r,2,0.0
+447,c++ javascript perl r shell,2,0.0
+448,c++ javascript php r shell,2,0.0
+449,c++ perl php r shell,2,0.0
+450,javascript perl php r shell,2,0.0
+451,c++ javascript perl php r shell,2,0.0
+452,makefile objective-c,2,0.0
+453,makefile perl,2,0.0
+454,c++ makefile objective-c,2,0.0
+455,c++ makefile perl,2,0.0
+456,c++ makefile ruby,2,0.0
+457,c++ objective-c ruby,2,0.0
+458,c++ perl ruby,2,0.0
+459,makefile objective-c perl,2,0.0
+460,makefile objective-c shell,2,0.0
+461,makefile perl shell,2,0.0
+462,objective-c ruby shell,2,0.0
+463,c++ makefile objective-c perl,2,0.0
+464,c++ makefile objective-c shell,2,0.0
+465,c++ makefile perl shell,2,0.0
+466,c++ objective-c ruby shell,2,0.0
+467,makefile objective-c perl shell,2,0.0
+468,c++ makefile objective-c perl shell,2,0.0
+469,css go,2,0.0
+470,emacs lisp python,2,0.0
+471,objective-c vim script,2,0.0
+472,c css emacs lisp,2,0.0
+473,c css java,2,0.0
+474,c java objective-c,2,0.0
+475,css emacs lisp python,2,0.0
+476,css go shell,2,0.0
+477,css java objective-c,2,0.0
+478,css objective-c vim script,2,0.0
+479,emacs lisp objective-c python,2,0.0
+480,emacs lisp python shell,2,0.0
+481,objective-c python vim script,2,0.0
+482,objective-c shell vim script,2,0.0
+483,c css emacs lisp objective-c,2,0.0
+484,c css emacs lisp shell,2,0.0
+485,c css java shell,2,0.0
+486,css emacs lisp objective-c python,2,0.0
+487,css emacs lisp python shell,2,0.0
+488,css java objective-c python,2,0.0
+489,css java objective-c shell,2,0.0
+490,css objective-c python vim script,2,0.0
+491,css objective-c shell vim script,2,0.0
+492,emacs lisp objective-c python shell,2,0.0
+493,objective-c python shell vim script,2,0.0
+494,c css emacs lisp objective-c shell,2,0.0
+495,css emacs lisp objective-c python shell,2,0.0
+496,css java objective-c python shell,2,0.0
+497,css objective-c python shell vim script,2,0.0
+498,css tex,2,0.0
+499,java tex,2,0.0
+500,perl tex,2,0.0
+501,c c++ java,2,0.0
+502,c c++ tex,2,0.0
+503,c css tex,2,0.0
+504,c java perl,2,0.0
+505,c++ css tex,2,0.0
+506,c++ java tex,2,0.0
+507,c++ perl tex,2,0.0
+508,css shell tex,2,0.0
+509,java perl tex,2,0.0
+510,java shell tex,2,0.0
+511,perl shell tex,2,0.0
+512,c c++ css tex,2,0.0
+513,c c++ java perl,2,0.0
+514,c c++ java shell,2,0.0
+515,c c++ shell tex,2,0.0
+516,c css shell tex,2,0.0
+517,c java perl shell,2,0.0
+518,c++ css shell tex,2,0.0
+519,c++ java perl tex,2,0.0
+520,c++ java shell tex,2,0.0
+521,c++ perl shell tex,2,0.0
+522,java perl shell tex,2,0.0
+523,c c++ css shell tex,2,0.0
+524,c c++ java perl shell,2,0.0
+525,c++ java perl shell tex,2,0.0
+526,css f#,2,0.0
+527,erlang php,2,0.0
+528,c++ processing,2,0.0
+529,c m,2,0.0
+530,c++ m,2,0.0
+531,c++ matlab,2,0.0
+532,m matlab,2,0.0
+533,m ruby,2,0.0
+534,matlab ruby,2,0.0
+535,c c++ m,2,0.0
+536,c c++ matlab,2,0.0
+537,c m matlab,2,0.0
+538,c m ruby,2,0.0
+539,c matlab ruby,2,0.0
+540,c++ css ruby,2,0.0
+541,c++ m matlab,2,0.0
+542,c++ m ruby,2,0.0
+543,c++ matlab ruby,2,0.0
+544,m matlab ruby,2,0.0
+545,c c++ m matlab,2,0.0
+546,c c++ m ruby,2,0.0
+547,c c++ matlab ruby,2,0.0
+548,c m matlab ruby,2,0.0
+549,c++ css ruby shell,2,0.0
+550,c++ m matlab ruby,2,0.0
+551,c c++ m matlab ruby,2,0.0
+552,coffeescript python,2,0.0
+553,coffeescript css python,2,0.0
+554,c++ ragel in ruby host,2,0.0
+555,javascript ragel in ruby host,2,0.0
+556,perl ragel in ruby host,2,0.0
+557,ragel in ruby host shell,2,0.0
+558,c++ javascript ragel in ruby host,2,0.0
+559,c++ perl ragel in ruby host,2,0.0
+560,c++ ragel in ruby host shell,2,0.0
+561,javascript perl ragel in ruby host,2,0.0
+562,javascript ragel in ruby host shell,2,0.0
+563,perl ragel in ruby host shell,2,0.0
+564,c++ css objective-c perl,2,0.0
+565,c++ css objective-c python,2,0.0
+566,c++ css perl python,2,0.0
+567,c++ javascript perl ragel in ruby host,2,0.0
+568,c++ javascript ragel in ruby host shell,2,0.0
+569,c++ perl ragel in ruby host shell,2,0.0
+570,css objective-c perl python,2,0.0
+571,javascript perl ragel in ruby host shell,2,0.0
+572,c++ css objective-c perl python,2,0.0
+573,c++ css objective-c perl shell,2,0.0
+574,c++ css objective-c python shell,2,0.0
+575,c++ css perl python shell,2,0.0
+576,c++ javascript perl ragel in ruby host shell,2,0.0
+577,css objective-c perl python shell,2,0.0
+578,c++ css objective-c perl python shell,2,0.0
+579,c++ objective-c++,2,0.0
+580,assembly java objective-c,2,0.0
+581,assembly java python,2,0.0
+582,assembly java shell,2,0.0
+583,assembly c++ java objective-c,2,0.0
+584,assembly c++ java python,2,0.0
+585,assembly c++ java shell,2,0.0
+586,assembly java objective-c shell,2,0.0
+587,assembly c++ java objective-c shell,2,0.0
+588,c++ emacs lisp,2,0.0
+589,c++ emacs lisp objective-c,2,0.0
+590,c++ emacs lisp perl,2,0.0
+591,c++ emacs lisp shell,2,0.0
+592,css emacs lisp perl,2,0.0
+593,css perl php,2,0.0
+594,c++ emacs lisp objective-c perl,2,0.0
+595,c++ emacs lisp objective-c shell,2,0.0
+596,c++ emacs lisp perl shell,2,0.0
+597,css emacs lisp objective-c perl,2,0.0
+598,css emacs lisp perl shell,2,0.0
+599,css perl php python,2,0.0
+600,css perl php shell,2,0.0
+601,c++ emacs lisp objective-c perl shell,2,0.0
+602,css emacs lisp objective-c perl shell,2,0.0
+603,css perl php python shell,2,0.0
+604,assembly makefile,2,0.0
+605,java php,2,0.0
+606,objective-c tex,2,0.0
+607,assembly c++ makefile,2,0.0
+608,assembly c++ perl,2,0.0
+609,assembly java perl,2,0.0
+610,assembly objective-c perl,2,0.0
+611,assembly perl shell,2,0.0
+612,c++ java php,2,0.0
+613,java perl php,2,0.0
+614,java php shell,2,0.0
+615,objective-c shell tex,2,0.0
+616,assembly c++ java perl,2,0.0
+617,assembly objective-c perl shell,2,0.0
+618,c++ java perl php,2,0.0
+619,c++ java php shell,2,0.0
+620,java perl php shell,2,0.0
+621,c++ java perl php shell,2,0.0
+622,c f#,2,0.0
+623,coffeescript css javascript shell,2,0.0
+624,applescript c,2,0.0
+625,applescript c++,2,0.0
+626,applescript c c++,2,0.0
+627,applescript c shell,2,0.0
+628,applescript c++ shell,2,0.0
+629,applescript c c++ shell,2,0.0
+630,c c++ css python,2,0.0
+631,c c++ css python shell,2,0.0
+632,c++ erlang,2,0.0
+633,c c++ erlang,2,0.0
+634,c++ erlang shell,2,0.0
+635,c c++ erlang shell,2,0.0
+636,asp shell,2,0.0
+637,asp css shell,2,0.0
+638,puppet shell,2,0.0
+639,assembly ruby,2,0.0
+640,assembly c++ ruby,2,0.0
+641,javascript objective-c ruby,2,0.0
+642,c emacs lisp perl,2,0.0
+643,c emacs lisp objective-c perl,2,0.0
+644,c emacs lisp perl shell,2,0.0
+645,c emacs lisp objective-c perl shell,2,0.0
+646,php ruby,2,0.0
+647,php ruby shell,2,0.0
+648,javascript scala,2,0.0
+649,css javascript scala,2,0.0
+650,javascript scala shell,2,0.0
+651,css javascript scala shell,2,0.0

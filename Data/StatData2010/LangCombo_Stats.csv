@@ -1,0 +1,888 @@
+combo_id,combination,count,distribution
+0,python shell,27,0.04433497536945813
+1,javascript shell,25,0.041050903119868636
+2,c shell,24,0.03940886699507389
+3,c python,24,0.03940886699507389
+4,javascript python,18,0.029556650246305417
+5,perl python,18,0.029556650246305417
+6,perl shell,18,0.029556650246305417
+7,ruby shell,17,0.027914614121510674
+8,c javascript,17,0.027914614121510674
+9,python ruby,17,0.027914614121510674
+10,c++ shell,17,0.027914614121510674
+11,javascript ruby,16,0.026272577996715927
+12,perl ruby,16,0.026272577996715927
+13,c ruby,14,0.022988505747126436
+14,c++ python,13,0.021346469622331693
+15,c python shell,12,0.019704433497536946
+16,c perl,12,0.019704433497536946
+17,javascript python shell,11,0.0180623973727422
+18,perl python shell,11,0.0180623973727422
+19,c python ruby,11,0.0180623973727422
+20,c c++,11,0.0180623973727422
+21,perl python ruby,11,0.0180623973727422
+22,c javascript python,10,0.016420361247947456
+23,objective-c python,10,0.016420361247947456
+24,c++ javascript,10,0.016420361247947456
+25,c perl python,10,0.016420361247947456
+26,c++ python shell,10,0.016420361247947456
+27,c objective-c,10,0.016420361247947456
+28,java javascript,9,0.014778325123152709
+29,java perl,9,0.014778325123152709
+30,java python,9,0.014778325123152709
+31,java shell,9,0.014778325123152709
+32,javascript perl,9,0.014778325123152709
+33,javascript perl python,9,0.014778325123152709
+34,c c++ python,9,0.014778325123152709
+35,c perl shell,9,0.014778325123152709
+36,c++ javascript shell,9,0.014778325123152709
+37,objective-c shell,9,0.014778325123152709
+38,php python,9,0.014778325123152709
+39,php ruby,9,0.014778325123152709
+40,java perl python,8,0.013136288998357963
+41,c java,8,0.013136288998357963
+42,perl php,8,0.013136288998357963
+43,php python ruby,8,0.013136288998357963
+44,c ruby shell,7,0.011494252873563218
+45,java javascript shell,7,0.011494252873563218
+46,javascript python ruby,7,0.011494252873563218
+47,c++ perl,7,0.011494252873563218
+48,c c++ shell,7,0.011494252873563218
+49,c perl ruby,7,0.011494252873563218
+50,c++ javascript python,7,0.011494252873563218
+51,c++ perl python,7,0.0
+52,perl ruby shell,7,0.0
+53,python ruby shell,7,0.0
+54,c c++ python shell,7,0.0
+55,c perl python shell,7,0.0
+56,objective-c python shell,7,0.0
+57,c php,7,0.0
+58,perl php python,7,0.0
+59,perl php ruby,7,0.0
+60,perl php python ruby,7,0.0
+61,java ruby,7,0.0
+62,java javascript python,6,0.0
+63,java perl shell,6,0.0
+64,java python shell,6,0.0
+65,javascript perl shell,6,0.0
+66,javascript perl python shell,6,0.0
+67,c++ objective-c,6,0.0
+68,c++ ruby,6,0.0
+69,c c++ perl,6,0.0
+70,c++ perl shell,6,0.0
+71,c c++ perl python,6,0.0
+72,c perl python ruby,6,0.0
+73,c++ javascript python shell,6,0.0
+74,c++ perl python shell,6,0.0
+75,c objective-c python,6,0.0
+76,java php,6,0.0
+77,c java perl,6,0.0
+78,java perl ruby,6,0.0
+79,java javascript perl,5,0.0
+80,java javascript perl python,5,0.0
+81,java javascript python shell,5,0.0
+82,java perl python shell,5,0.0
+83,c javascript ruby,5,0.0
+84,c javascript python ruby,5,0.0
+85,c++ objective-c python,5,0.0
+86,c c++ ruby,5,0.0
+87,c javascript shell,5,0.0
+88,c++ python ruby,5,0.0
+89,javascript ruby shell,5,0.0
+90,c c++ perl shell,5,0.0
+91,c c++ python ruby,5,0.0
+92,c javascript python shell,5,0.0
+93,c python ruby shell,5,0.0
+94,perl python ruby shell,5,0.0
+95,c c++ perl python shell,5,0.0
+96,objective-c ruby,5,0.0
+97,c++ objective-c shell,5,0.0
+98,actionscript php,5,0.0
+99,actionscript python,5,0.0
+100,php shell,5,0.0
+101,c++ java,5,0.0
+102,c++ java javascript,5,0.0
+103,javascript php,5,0.0
+104,actionscript ruby,5,0.0
+105,c java python,5,0.0
+106,c java ruby,5,0.0
+107,java perl php,5,0.0
+108,java php python,5,0.0
+109,java php ruby,5,0.0
+110,java python ruby,5,0.0
+111,c java perl python,5,0.0
+112,c java perl ruby,5,0.0
+113,java perl php python,5,0.0
+114,java perl php ruby,5,0.0
+115,java perl python ruby,5,0.0
+116,java php python ruby,5,0.0
+117,java perl php python ruby,5,0.0
+118,java javascript perl shell,4,0.0
+119,java javascript perl python shell,4,0.0
+120,c erlang,4,0.0
+121,emacs lisp shell,4,0.0
+122,erlang python,4,0.0
+123,c c++ javascript,4,0.0
+124,c javascript perl,4,0.0
+125,c++ javascript perl,4,0.0
+126,c++ ruby shell,4,0.0
+127,javascript perl ruby,4,0.0
+128,c c++ javascript python,4,0.0
+129,c c++ ruby shell,4,0.0
+130,c javascript perl python,4,0.0
+131,c perl ruby shell,4,0.0
+132,c++ javascript perl python,4,0.0
+133,c++ python ruby shell,4,0.0
+134,javascript perl python ruby,4,0.0
+135,c c++ python ruby shell,4,0.0
+136,c objective-c shell,4,0.0
+137,objective-c python ruby,4,0.0
+138,c objective-c python shell,4,0.0
+139,c++ objective-c python shell,4,0.0
+140,actionscript php python,4,0.0
+141,c++ java shell,4,0.0
+142,c++ java javascript shell,4,0.0
+143,c++ tcl,4,0.0
+144,shell tcl,4,0.0
+145,c++ shell tcl,4,0.0
+146,actionscript python ruby,4,0.0
+147,c java php,4,0.0
+148,c perl php,4,0.0
+149,c php python,4,0.0
+150,c php ruby,4,0.0
+151,c++ java python,4,0.0
+152,c java perl php,4,0.0
+153,c java php python,4,0.0
+154,c java php ruby,4,0.0
+155,c java python ruby,4,0.0
+156,c perl php python,4,0.0
+157,c perl php ruby,4,0.0
+158,c php python ruby,4,0.0
+159,c++ java javascript python,4,0.0
+160,c java perl php python,4,0.0
+161,c java perl php ruby,4,0.0
+162,c java perl python ruby,4,0.0
+163,c java php python ruby,4,0.0
+164,c perl php python ruby,4,0.0
+165,c java perl php python ruby,4,0.0
+166,c# python,4,0.0
+167,c emacs lisp,4,0.0
+168,objective-c perl,4,0.0
+169,objective-c perl python,4,0.0
+170,javascript objective-c,4,0.0
+171,javascript objective-c python,4,0.0
+172,javascript objective-c shell,4,0.0
+173,javascript objective-c python shell,4,0.0
+174,c r,3,0.0
+175,erlang perl,3,0.0
+176,erlang ruby,3,0.0
+177,c erlang perl,3,0.0
+178,c erlang python,3,0.0
+179,c erlang ruby,3,0.0
+180,c++ javascript ruby,3,0.0
+181,c++ perl ruby,3,0.0
+182,erlang perl python,3,0.0
+183,erlang perl ruby,3,0.0
+184,erlang python ruby,3,0.0
+185,c c++ javascript perl,3,0.0
+186,c c++ javascript ruby,3,0.0
+187,c c++ javascript shell,3,0.0
+188,c c++ perl ruby,3,0.0
+189,c erlang perl python,3,0.0
+190,c erlang perl ruby,3,0.0
+191,c erlang python ruby,3,0.0
+192,c javascript perl shell,3,0.0
+193,c++ javascript perl shell,3,0.0
+194,c++ javascript python ruby,3,0.0
+195,c++ perl python ruby,3,0.0
+196,erlang perl python ruby,3,0.0
+197,javascript python ruby shell,3,0.0
+198,c c++ javascript perl python,3,0.0
+199,c c++ javascript python ruby,3,0.0
+200,c c++ javascript python shell,3,0.0
+201,c c++ perl python ruby,3,0.0
+202,c erlang perl python ruby,3,0.0
+203,c javascript perl python shell,3,0.0
+204,c perl python ruby shell,3,0.0
+205,c++ javascript perl python shell,3,0.0
+206,c c++ objective-c,3,0.0
+207,c objective-c ruby,3,0.0
+208,objective-c ruby shell,3,0.0
+209,c c++ objective-c python,3,0.0
+210,c c++ objective-c shell,3,0.0
+211,c objective-c python ruby,3,0.0
+212,objective-c python ruby shell,3,0.0
+213,c c++ objective-c python shell,3,0.0
+214,actionscript shell,3,0.0
+215,php python shell,3,0.0
+216,actionscript c,3,0.0
+217,actionscript perl,3,0.0
+218,actionscript c python,3,0.0
+219,actionscript c ruby,3,0.0
+220,actionscript perl php,3,0.0
+221,actionscript perl python,3,0.0
+222,actionscript perl ruby,3,0.0
+223,actionscript php ruby,3,0.0
+224,c++ java perl,3,0.0
+225,actionscript c python ruby,3,0.0
+226,actionscript perl php python,3,0.0
+227,actionscript perl php ruby,3,0.0
+228,actionscript perl python ruby,3,0.0
+229,actionscript php python ruby,3,0.0
+230,c++ java javascript perl,3,0.0
+231,c++ java perl python,3,0.0
+232,actionscript perl php python ruby,3,0.0
+233,c++ java javascript perl python,3,0.0
+234,c# java,3,0.0
+235,c# perl,3,0.0
+236,c# java perl,3,0.0
+237,c# java python,3,0.0
+238,c# perl python,3,0.0
+239,c# java perl python,3,0.0
+240,c++ java python shell,3,0.0
+241,c++ java javascript python shell,3,0.0
+242,c java shell,3,0.0
+243,java ruby shell,3,0.0
+244,c java perl shell,3,0.0
+245,java perl ruby shell,3,0.0
+246,c tcl,3,0.0
+247,c++ emacs lisp,3,0.0
+248,emacs lisp perl,3,0.0
+249,emacs lisp python,3,0.0
+250,emacs lisp tcl,3,0.0
+251,perl tcl,3,0.0
+252,python tcl,3,0.0
+253,c c++ emacs lisp,3,0.0
+254,c c++ tcl,3,0.0
+255,c emacs lisp perl,3,0.0
+256,c emacs lisp python,3,0.0
+257,c emacs lisp shell,3,0.0
+258,c emacs lisp tcl,3,0.0
+259,c objective-c perl,3,0.0
+260,c perl tcl,3,0.0
+261,c python tcl,3,0.0
+262,c shell tcl,3,0.0
+263,c++ emacs lisp perl,3,0.0
+264,c++ emacs lisp python,3,0.0
+265,c++ emacs lisp shell,3,0.0
+266,c++ emacs lisp tcl,3,0.0
+267,c++ perl tcl,3,0.0
+268,c++ python tcl,3,0.0
+269,emacs lisp perl python,3,0.0
+270,emacs lisp perl shell,3,0.0
+271,emacs lisp perl tcl,3,0.0
+272,emacs lisp python shell,3,0.0
+273,emacs lisp python tcl,3,0.0
+274,emacs lisp shell tcl,3,0.0
+275,objective-c perl shell,3,0.0
+276,perl python tcl,3,0.0
+277,perl shell tcl,3,0.0
+278,python shell tcl,3,0.0
+279,c c++ emacs lisp perl,3,0.0
+280,c c++ emacs lisp python,3,0.0
+281,c c++ emacs lisp shell,3,0.0
+282,c c++ emacs lisp tcl,3,0.0
+283,c c++ perl tcl,3,0.0
+284,c c++ python tcl,3,0.0
+285,c c++ shell tcl,3,0.0
+286,c emacs lisp perl python,3,0.0
+287,c emacs lisp perl shell,3,0.0
+288,c emacs lisp perl tcl,3,0.0
+289,c emacs lisp python shell,3,0.0
+290,c emacs lisp python tcl,3,0.0
+291,c emacs lisp shell tcl,3,0.0
+292,c objective-c perl python,3,0.0
+293,c perl python tcl,3,0.0
+294,c perl shell tcl,3,0.0
+295,c python shell tcl,3,0.0
+296,c++ emacs lisp perl python,3,0.0
+297,c++ emacs lisp perl shell,3,0.0
+298,c++ emacs lisp perl tcl,3,0.0
+299,c++ emacs lisp python shell,3,0.0
+300,c++ emacs lisp python tcl,3,0.0
+301,c++ emacs lisp shell tcl,3,0.0
+302,c++ perl python tcl,3,0.0
+303,c++ perl shell tcl,3,0.0
+304,c++ python shell tcl,3,0.0
+305,emacs lisp perl python shell,3,0.0
+306,emacs lisp perl python tcl,3,0.0
+307,emacs lisp perl shell tcl,3,0.0
+308,emacs lisp python shell tcl,3,0.0
+309,objective-c perl python shell,3,0.0
+310,perl python shell tcl,3,0.0
+311,c c++ emacs lisp perl python,3,0.0
+312,c c++ emacs lisp perl shell,3,0.0
+313,c c++ emacs lisp perl tcl,3,0.0
+314,c c++ emacs lisp python shell,3,0.0
+315,c c++ emacs lisp python tcl,3,0.0
+316,c c++ emacs lisp shell tcl,3,0.0
+317,c c++ perl python tcl,3,0.0
+318,c c++ perl shell tcl,3,0.0
+319,c c++ python shell tcl,3,0.0
+320,c emacs lisp perl python shell,3,0.0
+321,c emacs lisp perl python tcl,3,0.0
+322,c emacs lisp perl shell tcl,3,0.0
+323,c emacs lisp python shell tcl,3,0.0
+324,c perl python shell tcl,3,0.0
+325,c++ emacs lisp perl python shell,3,0.0
+326,c++ emacs lisp perl python tcl,3,0.0
+327,c++ emacs lisp perl shell tcl,3,0.0
+328,c++ emacs lisp python shell tcl,3,0.0
+329,c++ perl python shell tcl,3,0.0
+330,emacs lisp perl python shell tcl,3,0.0
+331,c c++ emacs lisp perl python shell,3,0.0
+332,c c++ emacs lisp perl python tcl,3,0.0
+333,c c++ emacs lisp perl shell tcl,3,0.0
+334,c c++ emacs lisp python shell tcl,3,0.0
+335,c c++ perl python shell tcl,3,0.0
+336,c emacs lisp perl python shell tcl,3,0.0
+337,c++ emacs lisp perl python shell tcl,3,0.0
+338,c c++ emacs lisp perl python shell tcl,3,0.0
+339,objective-c php,3,0.0
+340,c c#,3,0.0
+341,c# ruby,3,0.0
+342,c c# python,3,0.0
+343,c c# ruby,3,0.0
+344,c# python ruby,3,0.0
+345,c c# python ruby,3,0.0
+346,javascript r,2,0.0
+347,python r,2,0.0
+348,c javascript r,2,0.0
+349,c python r,2,0.0
+350,javascript python r,2,0.0
+351,c javascript python r,2,0.0
+352,erlang shell,2,0.0
+353,c erlang shell,2,0.0
+354,asp c#,2,0.0
+355,c javascript perl ruby,2,0.0
+356,c javascript ruby shell,2,0.0
+357,c++ javascript perl ruby,2,0.0
+358,c++ javascript ruby shell,2,0.0
+359,c++ perl ruby shell,2,0.0
+360,javascript perl ruby shell,2,0.0
+361,c c++ javascript perl ruby,2,0.0
+362,c c++ javascript perl shell,2,0.0
+363,c c++ javascript ruby shell,2,0.0
+364,c c++ perl ruby shell,2,0.0
+365,c javascript perl python ruby,2,0.0
+366,c javascript python ruby shell,2,0.0
+367,c++ javascript perl python ruby,2,0.0
+368,c++ javascript python ruby shell,2,0.0
+369,c++ perl python ruby shell,2,0.0
+370,javascript perl python ruby shell,2,0.0
+371,c c++ javascript perl python ruby,2,0.0
+372,c c++ javascript perl python shell,2,0.0
+373,c c++ javascript python ruby shell,2,0.0
+374,c c++ perl python ruby shell,2,0.0
+375,c++ objective-c ruby,2,0.0
+376,c c++ objective-c ruby,2,0.0
+377,c objective-c ruby shell,2,0.0
+378,c++ objective-c python ruby,2,0.0
+379,c++ objective-c ruby shell,2,0.0
+380,c c++ objective-c python ruby,2,0.0
+381,c c++ objective-c ruby shell,2,0.0
+382,c objective-c python ruby shell,2,0.0
+383,c++ objective-c python ruby shell,2,0.0
+384,c c++ objective-c python ruby shell,2,0.0
+385,lua shell,2,0.0
+386,actionscript php shell,2,0.0
+387,actionscript python shell,2,0.0
+388,c++ php,2,0.0
+389,actionscript c++,2,0.0
+390,actionscript java,2,0.0
+391,actionscript javascript,2,0.0
+392,actionscript c c++,2,0.0
+393,actionscript c java,2,0.0
+394,actionscript c javascript,2,0.0
+395,actionscript c perl,2,0.0
+396,actionscript c php,2,0.0
+397,actionscript c++ javascript,2,0.0
+398,actionscript c++ python,2,0.0
+399,actionscript c++ ruby,2,0.0
+400,actionscript java perl,2,0.0
+401,actionscript java php,2,0.0
+402,actionscript java python,2,0.0
+403,actionscript java ruby,2,0.0
+404,actionscript javascript python,2,0.0
+405,actionscript javascript ruby,2,0.0
+406,c c++ java,2,0.0
+407,c java javascript,2,0.0
+408,c javascript php,2,0.0
+409,java javascript php,2,0.0
+410,java javascript ruby,2,0.0
+411,javascript perl php,2,0.0
+412,javascript php python,2,0.0
+413,javascript php ruby,2,0.0
+414,actionscript c c++ javascript,2,0.0
+415,actionscript c c++ python,2,0.0
+416,actionscript c c++ ruby,2,0.0
+417,actionscript c java perl,2,0.0
+418,actionscript c java php,2,0.0
+419,actionscript c java python,2,0.0
+420,actionscript c java ruby,2,0.0
+421,actionscript c javascript python,2,0.0
+422,actionscript c javascript ruby,2,0.0
+423,actionscript c perl php,2,0.0
+424,actionscript c perl python,2,0.0
+425,actionscript c perl ruby,2,0.0
+426,actionscript c php python,2,0.0
+427,actionscript c php ruby,2,0.0
+428,actionscript c++ javascript python,2,0.0
+429,actionscript c++ javascript ruby,2,0.0
+430,actionscript c++ python ruby,2,0.0
+431,actionscript java perl php,2,0.0
+432,actionscript java perl python,2,0.0
+433,actionscript java perl ruby,2,0.0
+434,actionscript java php python,2,0.0
+435,actionscript java php ruby,2,0.0
+436,actionscript java python ruby,2,0.0
+437,actionscript javascript python ruby,2,0.0
+438,c c++ java javascript,2,0.0
+439,c c++ java perl,2,0.0
+440,c c++ java python,2,0.0
+441,c java javascript perl,2,0.0
+442,c java javascript python,2,0.0
+443,java javascript perl php,2,0.0
+444,java javascript perl ruby,2,0.0
+445,java javascript php python,2,0.0
+446,java javascript php ruby,2,0.0
+447,java javascript python ruby,2,0.0
+448,javascript perl php python,2,0.0
+449,javascript perl php ruby,2,0.0
+450,javascript php python ruby,2,0.0
+451,actionscript c c++ javascript python,2,0.0
+452,actionscript c c++ javascript ruby,2,0.0
+453,actionscript c c++ python ruby,2,0.0
+454,actionscript c java perl php,2,0.0
+455,actionscript c java perl python,2,0.0
+456,actionscript c java perl ruby,2,0.0
+457,actionscript c java php python,2,0.0
+458,actionscript c java php ruby,2,0.0
+459,actionscript c java python ruby,2,0.0
+460,actionscript c javascript python ruby,2,0.0
+461,actionscript c perl php python,2,0.0
+462,actionscript c perl php ruby,2,0.0
+463,actionscript c perl python ruby,2,0.0
+464,actionscript c php python ruby,2,0.0
+465,actionscript c++ javascript python ruby,2,0.0
+466,actionscript java perl php python,2,0.0
+467,actionscript java perl php ruby,2,0.0
+468,actionscript java perl python ruby,2,0.0
+469,actionscript java php python ruby,2,0.0
+470,c c++ java javascript perl,2,0.0
+471,c c++ java javascript python,2,0.0
+472,c c++ java perl python,2,0.0
+473,c java javascript perl python,2,0.0
+474,java javascript perl php python,2,0.0
+475,java javascript perl php ruby,2,0.0
+476,java javascript perl python ruby,2,0.0
+477,java javascript php python ruby,2,0.0
+478,javascript perl php python ruby,2,0.0
+479,actionscript c c++ javascript python ruby,2,0.0
+480,actionscript c java perl php python,2,0.0
+481,actionscript c java perl php ruby,2,0.0
+482,actionscript c java perl python ruby,2,0.0
+483,actionscript c java php python ruby,2,0.0
+484,actionscript c perl php python ruby,2,0.0
+485,actionscript java perl php python ruby,2,0.0
+486,c c++ java javascript perl python,2,0.0
+487,java javascript perl php python ruby,2,0.0
+488,actionscript c java perl php python ruby,2,0.0
+489,c# c++,2,0.0
+490,c# javascript,2,0.0
+491,c# shell,2,0.0
+492,groovy javascript,2,0.0
+493,c# c++ javascript,2,0.0
+494,c# c++ python,2,0.0
+495,c# c++ shell,2,0.0
+496,c# javascript python,2,0.0
+497,c# javascript shell,2,0.0
+498,c# python shell,2,0.0
+499,c# c++ javascript python,2,0.0
+500,c# c++ javascript shell,2,0.0
+501,c# c++ python shell,2,0.0
+502,c# javascript python shell,2,0.0
+503,c++ java perl shell,2,0.0
+504,c# c++ javascript python shell,2,0.0
+505,c++ java javascript perl shell,2,0.0
+506,c++ java perl python shell,2,0.0
+507,c++ java javascript perl python shell,2,0.0
+508,java php shell,2,0.0
+509,perl php shell,2,0.0
+510,php ruby shell,2,0.0
+511,c java python shell,2,0.0
+512,c java ruby shell,2,0.0
+513,java perl php shell,2,0.0
+514,java php python shell,2,0.0
+515,java php ruby shell,2,0.0
+516,java python ruby shell,2,0.0
+517,perl php python shell,2,0.0
+518,perl php ruby shell,2,0.0
+519,php python ruby shell,2,0.0
+520,c java perl python shell,2,0.0
+521,c java perl ruby shell,2,0.0
+522,java perl php python shell,2,0.0
+523,java perl php ruby shell,2,0.0
+524,java perl python ruby shell,2,0.0
+525,java php python ruby shell,2,0.0
+526,perl php python ruby shell,2,0.0
+527,java perl php python ruby shell,2,0.0
+528,emacs lisp objective-c,2,0.0
+529,c emacs lisp objective-c,2,0.0
+530,c++ lua,2,0.0
+531,c scheme,2,0.0
+532,c++ scheme,2,0.0
+533,emacs lisp scheme,2,0.0
+534,perl scheme,2,0.0
+535,python scheme,2,0.0
+536,scheme shell,2,0.0
+537,scheme tcl,2,0.0
+538,c c++ scheme,2,0.0
+539,c emacs lisp scheme,2,0.0
+540,c perl scheme,2,0.0
+541,c python scheme,2,0.0
+542,c scheme shell,2,0.0
+543,c scheme tcl,2,0.0
+544,c++ emacs lisp scheme,2,0.0
+545,c++ perl scheme,2,0.0
+546,c++ python scheme,2,0.0
+547,c++ scheme shell,2,0.0
+548,c++ scheme tcl,2,0.0
+549,emacs lisp perl scheme,2,0.0
+550,emacs lisp python scheme,2,0.0
+551,emacs lisp scheme shell,2,0.0
+552,emacs lisp scheme tcl,2,0.0
+553,perl python scheme,2,0.0
+554,perl scheme shell,2,0.0
+555,perl scheme tcl,2,0.0
+556,python scheme shell,2,0.0
+557,python scheme tcl,2,0.0
+558,scheme shell tcl,2,0.0
+559,c c++ emacs lisp scheme,2,0.0
+560,c c++ perl scheme,2,0.0
+561,c c++ python scheme,2,0.0
+562,c c++ scheme shell,2,0.0
+563,c c++ scheme tcl,2,0.0
+564,c emacs lisp perl scheme,2,0.0
+565,c emacs lisp python scheme,2,0.0
+566,c emacs lisp scheme shell,2,0.0
+567,c emacs lisp scheme tcl,2,0.0
+568,c objective-c perl shell,2,0.0
+569,c perl python scheme,2,0.0
+570,c perl scheme shell,2,0.0
+571,c perl scheme tcl,2,0.0
+572,c python scheme shell,2,0.0
+573,c python scheme tcl,2,0.0
+574,c scheme shell tcl,2,0.0
+575,c++ emacs lisp perl scheme,2,0.0
+576,c++ emacs lisp python scheme,2,0.0
+577,c++ emacs lisp scheme shell,2,0.0
+578,c++ emacs lisp scheme tcl,2,0.0
+579,c++ perl python scheme,2,0.0
+580,c++ perl scheme shell,2,0.0
+581,c++ perl scheme tcl,2,0.0
+582,c++ python scheme shell,2,0.0
+583,c++ python scheme tcl,2,0.0
+584,c++ scheme shell tcl,2,0.0
+585,emacs lisp perl python scheme,2,0.0
+586,emacs lisp perl scheme shell,2,0.0
+587,emacs lisp perl scheme tcl,2,0.0
+588,emacs lisp python scheme shell,2,0.0
+589,emacs lisp python scheme tcl,2,0.0
+590,emacs lisp scheme shell tcl,2,0.0
+591,perl python scheme shell,2,0.0
+592,perl python scheme tcl,2,0.0
+593,perl scheme shell tcl,2,0.0
+594,python scheme shell tcl,2,0.0
+595,c c++ emacs lisp perl scheme,2,0.0
+596,c c++ emacs lisp python scheme,2,0.0
+597,c c++ emacs lisp scheme shell,2,0.0
+598,c c++ emacs lisp scheme tcl,2,0.0
+599,c c++ perl python scheme,2,0.0
+600,c c++ perl scheme shell,2,0.0
+601,c c++ perl scheme tcl,2,0.0
+602,c c++ python scheme shell,2,0.0
+603,c c++ python scheme tcl,2,0.0
+604,c c++ scheme shell tcl,2,0.0
+605,c emacs lisp perl python scheme,2,0.0
+606,c emacs lisp perl scheme shell,2,0.0
+607,c emacs lisp perl scheme tcl,2,0.0
+608,c emacs lisp python scheme shell,2,0.0
+609,c emacs lisp python scheme tcl,2,0.0
+610,c emacs lisp scheme shell tcl,2,0.0
+611,c objective-c perl python shell,2,0.0
+612,c perl python scheme shell,2,0.0
+613,c perl python scheme tcl,2,0.0
+614,c perl scheme shell tcl,2,0.0
+615,c python scheme shell tcl,2,0.0
+616,c++ emacs lisp perl python scheme,2,0.0
+617,c++ emacs lisp perl scheme shell,2,0.0
+618,c++ emacs lisp perl scheme tcl,2,0.0
+619,c++ emacs lisp python scheme shell,2,0.0
+620,c++ emacs lisp python scheme tcl,2,0.0
+621,c++ emacs lisp scheme shell tcl,2,0.0
+622,c++ perl python scheme shell,2,0.0
+623,c++ perl python scheme tcl,2,0.0
+624,c++ perl scheme shell tcl,2,0.0
+625,c++ python scheme shell tcl,2,0.0
+626,emacs lisp perl python scheme shell,2,0.0
+627,emacs lisp perl python scheme tcl,2,0.0
+628,emacs lisp perl scheme shell tcl,2,0.0
+629,emacs lisp python scheme shell tcl,2,0.0
+630,perl python scheme shell tcl,2,0.0
+631,c c++ emacs lisp perl python scheme,2,0.0
+632,c c++ emacs lisp perl scheme shell,2,0.0
+633,c c++ emacs lisp perl scheme tcl,2,0.0
+634,c c++ emacs lisp python scheme shell,2,0.0
+635,c c++ emacs lisp python scheme tcl,2,0.0
+636,c c++ emacs lisp scheme shell tcl,2,0.0
+637,c c++ perl python scheme shell,2,0.0
+638,c c++ perl python scheme tcl,2,0.0
+639,c c++ perl scheme shell tcl,2,0.0
+640,c c++ python scheme shell tcl,2,0.0
+641,c emacs lisp perl python scheme shell,2,0.0
+642,c emacs lisp perl python scheme tcl,2,0.0
+643,c emacs lisp perl scheme shell tcl,2,0.0
+644,c emacs lisp python scheme shell tcl,2,0.0
+645,c perl python scheme shell tcl,2,0.0
+646,c++ emacs lisp perl python scheme shell,2,0.0
+647,c++ emacs lisp perl python scheme tcl,2,0.0
+648,c++ emacs lisp perl scheme shell tcl,2,0.0
+649,c++ emacs lisp python scheme shell tcl,2,0.0
+650,c++ perl python scheme shell tcl,2,0.0
+651,emacs lisp perl python scheme shell tcl,2,0.0
+652,c c++ emacs lisp perl python scheme shell,2,0.0
+653,c c++ emacs lisp perl python scheme tcl,2,0.0
+654,c c++ emacs lisp perl scheme shell tcl,2,0.0
+655,c c++ emacs lisp python scheme shell tcl,2,0.0
+656,c c++ perl python scheme shell tcl,2,0.0
+657,c emacs lisp perl python scheme shell tcl,2,0.0
+658,c++ emacs lisp perl python scheme shell tcl,2,0.0
+659,c c++ emacs lisp perl python scheme shell tcl,2,0.0
+660,java objective-c,2,0.0
+661,java objective-c perl,2,0.0
+662,java objective-c php,2,0.0
+663,java objective-c python,2,0.0
+664,java objective-c ruby,2,0.0
+665,javascript objective-c perl,2,0.0
+666,javascript objective-c ruby,2,0.0
+667,objective-c perl php,2,0.0
+668,objective-c perl ruby,2,0.0
+669,objective-c php python,2,0.0
+670,objective-c php ruby,2,0.0
+671,java objective-c perl php,2,0.0
+672,java objective-c perl python,2,0.0
+673,java objective-c perl ruby,2,0.0
+674,java objective-c php python,2,0.0
+675,java objective-c php ruby,2,0.0
+676,java objective-c python ruby,2,0.0
+677,javascript objective-c perl python,2,0.0
+678,javascript objective-c perl shell,2,0.0
+679,javascript objective-c python ruby,2,0.0
+680,javascript objective-c ruby shell,2,0.0
+681,objective-c perl php python,2,0.0
+682,objective-c perl php ruby,2,0.0
+683,objective-c perl python ruby,2,0.0
+684,objective-c php python ruby,2,0.0
+685,java objective-c perl php python,2,0.0
+686,java objective-c perl php ruby,2,0.0
+687,java objective-c perl python ruby,2,0.0
+688,java objective-c php python ruby,2,0.0
+689,javascript objective-c perl python shell,2,0.0
+690,javascript objective-c python ruby shell,2,0.0
+691,objective-c perl php python ruby,2,0.0
+692,java objective-c perl php python ruby,2,0.0
+693,actionscript c#,2,0.0
+694,c# objective-c,2,0.0
+695,actionscript c c#,2,0.0
+696,actionscript c# python,2,0.0
+697,actionscript c# ruby,2,0.0
+698,c c# objective-c,2,0.0
+699,c javascript objective-c,2,0.0
+700,c# objective-c python,2,0.0
+701,c# objective-c ruby,2,0.0
+702,c++ javascript objective-c,2,0.0
+703,actionscript c c# python,2,0.0
+704,actionscript c c# ruby,2,0.0
+705,actionscript c# python ruby,2,0.0
+706,c c# objective-c python,2,0.0
+707,c c# objective-c ruby,2,0.0
+708,c javascript objective-c python,2,0.0
+709,c javascript objective-c shell,2,0.0
+710,c# objective-c python ruby,2,0.0
+711,c++ javascript objective-c python,2,0.0
+712,c++ javascript objective-c shell,2,0.0
+713,actionscript c c# python ruby,2,0.0
+714,c c# objective-c python ruby,2,0.0
+715,c javascript objective-c python shell,2,0.0
+716,c++ javascript objective-c python shell,2,0.0
+717,nu ruby,2,0.0
+718,c# erlang,2,0.0
+719,c# php,2,0.0
+720,erlang java,2,0.0
+721,erlang php,2,0.0
+722,c c# erlang,2,0.0
+723,c c# java,2,0.0
+724,c c# perl,2,0.0
+725,c c# php,2,0.0
+726,c erlang java,2,0.0
+727,c erlang php,2,0.0
+728,c# erlang java,2,0.0
+729,c# erlang perl,2,0.0
+730,c# erlang php,2,0.0
+731,c# erlang python,2,0.0
+732,c# erlang ruby,2,0.0
+733,c# java php,2,0.0
+734,c# java ruby,2,0.0
+735,c# perl php,2,0.0
+736,c# perl ruby,2,0.0
+737,c# php python,2,0.0
+738,c# php ruby,2,0.0
+739,erlang java perl,2,0.0
+740,erlang java php,2,0.0
+741,erlang java python,2,0.0
+742,erlang java ruby,2,0.0
+743,erlang perl php,2,0.0
+744,erlang php python,2,0.0
+745,erlang php ruby,2,0.0
+746,c c# erlang java,2,0.0
+747,c c# erlang perl,2,0.0
+748,c c# erlang php,2,0.0
+749,c c# erlang python,2,0.0
+750,c c# erlang ruby,2,0.0
+751,c c# java perl,2,0.0
+752,c c# java php,2,0.0
+753,c c# java python,2,0.0
+754,c c# java ruby,2,0.0
+755,c c# perl php,2,0.0
+756,c c# perl python,2,0.0
+757,c c# perl ruby,2,0.0
+758,c c# php python,2,0.0
+759,c c# php ruby,2,0.0
+760,c erlang java perl,2,0.0
+761,c erlang java php,2,0.0
+762,c erlang java python,2,0.0
+763,c erlang java ruby,2,0.0
+764,c erlang perl php,2,0.0
+765,c erlang php python,2,0.0
+766,c erlang php ruby,2,0.0
+767,c# erlang java perl,2,0.0
+768,c# erlang java php,2,0.0
+769,c# erlang java python,2,0.0
+770,c# erlang java ruby,2,0.0
+771,c# erlang perl php,2,0.0
+772,c# erlang perl python,2,0.0
+773,c# erlang perl ruby,2,0.0
+774,c# erlang php python,2,0.0
+775,c# erlang php ruby,2,0.0
+776,c# erlang python ruby,2,0.0
+777,c# java perl php,2,0.0
+778,c# java perl ruby,2,0.0
+779,c# java php python,2,0.0
+780,c# java php ruby,2,0.0
+781,c# java python ruby,2,0.0
+782,c# perl php python,2,0.0
+783,c# perl php ruby,2,0.0
+784,c# perl python ruby,2,0.0
+785,c# php python ruby,2,0.0
+786,erlang java perl php,2,0.0
+787,erlang java perl python,2,0.0
+788,erlang java perl ruby,2,0.0
+789,erlang java php python,2,0.0
+790,erlang java php ruby,2,0.0
+791,erlang java python ruby,2,0.0
+792,erlang perl php python,2,0.0
+793,erlang perl php ruby,2,0.0
+794,erlang php python ruby,2,0.0
+795,c c# erlang java perl,2,0.0
+796,c c# erlang java php,2,0.0
+797,c c# erlang java python,2,0.0
+798,c c# erlang java ruby,2,0.0
+799,c c# erlang perl php,2,0.0
+800,c c# erlang perl python,2,0.0
+801,c c# erlang perl ruby,2,0.0
+802,c c# erlang php python,2,0.0
+803,c c# erlang php ruby,2,0.0
+804,c c# erlang python ruby,2,0.0
+805,c c# java perl php,2,0.0
+806,c c# java perl python,2,0.0
+807,c c# java perl ruby,2,0.0
+808,c c# java php python,2,0.0
+809,c c# java php ruby,2,0.0
+810,c c# java python ruby,2,0.0
+811,c c# perl php python,2,0.0
+812,c c# perl php ruby,2,0.0
+813,c c# perl python ruby,2,0.0
+814,c c# php python ruby,2,0.0
+815,c erlang java perl php,2,0.0
+816,c erlang java perl python,2,0.0
+817,c erlang java perl ruby,2,0.0
+818,c erlang java php python,2,0.0
+819,c erlang java php ruby,2,0.0
+820,c erlang java python ruby,2,0.0
+821,c erlang perl php python,2,0.0
+822,c erlang perl php ruby,2,0.0
+823,c erlang php python ruby,2,0.0
+824,c# erlang java perl php,2,0.0
+825,c# erlang java perl python,2,0.0
+826,c# erlang java perl ruby,2,0.0
+827,c# erlang java php python,2,0.0
+828,c# erlang java php ruby,2,0.0
+829,c# erlang java python ruby,2,0.0
+830,c# erlang perl php python,2,0.0
+831,c# erlang perl php ruby,2,0.0
+832,c# erlang perl python ruby,2,0.0
+833,c# erlang php python ruby,2,0.0
+834,c# java perl php python,2,0.0
+835,c# java perl php ruby,2,0.0
+836,c# java perl python ruby,2,0.0
+837,c# java php python ruby,2,0.0
+838,c# perl php python ruby,2,0.0
+839,erlang java perl php python,2,0.0
+840,erlang java perl php ruby,2,0.0
+841,erlang java perl python ruby,2,0.0
+842,erlang java php python ruby,2,0.0
+843,erlang perl php python ruby,2,0.0
+844,c c# erlang java perl php,2,0.0
+845,c c# erlang java perl python,2,0.0
+846,c c# erlang java perl ruby,2,0.0
+847,c c# erlang java php python,2,0.0
+848,c c# erlang java php ruby,2,0.0
+849,c c# erlang java python ruby,2,0.0
+850,c c# erlang perl php python,2,0.0
+851,c c# erlang perl php ruby,2,0.0
+852,c c# erlang perl python ruby,2,0.0
+853,c c# erlang php python ruby,2,0.0
+854,c c# java perl php python,2,0.0
+855,c c# java perl php ruby,2,0.0
+856,c c# java perl python ruby,2,0.0
+857,c c# java php python ruby,2,0.0
+858,c c# perl php python ruby,2,0.0
+859,c erlang java perl php python,2,0.0
+860,c erlang java perl php ruby,2,0.0
+861,c erlang java perl python ruby,2,0.0
+862,c erlang java php python ruby,2,0.0
+863,c erlang perl php python ruby,2,0.0
+864,c# erlang java perl php python,2,0.0
+865,c# erlang java perl php ruby,2,0.0
+866,c# erlang java perl python ruby,2,0.0
+867,c# erlang java php python ruby,2,0.0
+868,c# erlang perl php python ruby,2,0.0
+869,c# java perl php python ruby,2,0.0
+870,erlang java perl php python ruby,2,0.0
+871,c c# erlang java perl php python,2,0.0
+872,c c# erlang java perl php ruby,2,0.0
+873,c c# erlang java perl python ruby,2,0.0
+874,c c# erlang java php python ruby,2,0.0
+875,c c# erlang perl php python ruby,2,0.0
+876,c c# java perl php python ruby,2,0.0
+877,c erlang java perl php python ruby,2,0.0
+878,c# erlang java perl php python ruby,2,0.0
+879,c c# erlang java perl php python ruby,2,0.0
+880,assembly c++,2,0.0
+881,perl r,2,0.0
+882,r shell,2,0.0
+883,c perl r,2,0.0
+884,c r shell,2,0.0
+885,perl r shell,2,0.0
+886,c perl r shell,2,0.0

@@ -1,0 +1,419 @@
+id,subjects,processed_text,language_combinations,description
+3065454,"['presentation', 'framework', 'transforms', 'modern', 'browser', 'prezi']","['presentation', 'framework', 'based', 'power', 'transforms', 'transition', 'modern', 'browser', 'inspired', 'behind', 'prezi']",['css html'],it s a presentation framework based on the power of css transforms and transitions in modern browsers and inspired by the idea behind prezi com
+29268051,"['material', 'design', 'component']","['material', 'design', 'component']",['css javascript'],material design components in html and css and js
+58836534,"['firework', 'interactive', 'online', 'platform', 'visualizes', 'algorithm']","['firework', 'interactive', 'online', 'platform', 'visualizes', 'algorithm']",['html java'],fireworks interactive online platform that visualizes algorithms from code
+75830968,"['learning', 'chinese', 'translation']","['learning', 'chinese', 'translation']",['makefile python shell'],deep learning book chinese translation
+1844251,['framework'],"['helping', 'select', 'framework', 'react', 'ember']",['css html shell'],helping you select an mv framework todo apps for react ember and many more
+25315643,"['extensible', 'desktop', 'modern']","['extensible', 'desktop', 'built', 'modern', 'welcome']",['html python shell'],an extensible desktop mail app built on the modern web forks welcome
+11620669,['application'],"['codehub', 'application', 'written', 'using', 'xamarin']",['css html'],codehub is an ios application written using xamarin
+15585444,['modify'],"['collection', 'powered', 'hover', 'effect', 'applied', 'featured', 'image', 'easily', 'apply', 'modify', 'inspiration', 'available']",['html javascript'],a collection of css powered hover effects to be applied to featured images and so on easily apply to your own modify or just use for inspiration available in and less
+28751632,"['linux', 'kernel']","['little', 'linux', 'kernel']",['dockerfile shell'],a little bit about a linux kernel
+72907253,"['spring', 'example', 'spring']","['learning', 'spring', 'example', 'spring']",['css dockerfile html'],about learning spring boot via examples spring boot
+9603240,"['responsive', 'module', 'project']","['responsive', 'module', 'every', 'project']",['css javascript'],a set of responsive css modules that you can use in every web project
+24635156,"['beautiful', 'replacement']","['beautiful', 'replacement', 'alert']",['css html javascript'],a beautiful replacement for javascript s alert
+12244426,['progress'],['progress'],['css html'],for slim progress bars like on etc
+32665718,"['terminal', 'emulator', 'century']","['terminal', 'emulator', 'century']",['dockerfile html'],a terminal emulator for the st century
+1580851,"['image', 'gallery']","['image', 'gallery', 'mobile', 'framework', 'independent']",['css html'],javascript image gallery for mobile and framework independent
+18347476,"['google', 'android']","['google', 'android']",['java shell'],the google i and o android app
+18511024,"['starter', 'multi', 'device', 'website']","['starter', 'workflow', 'multi', 'device', 'website']",['css javascript'],web starter kit a workflow for multi device websites
+133251103,"['docker', 'image']","['exploring', 'layer', 'docker', 'image']",['makefile shell'],a tool for exploring each layer in a docker image
+29749635,"['science', 'notebook', 'learning', 'scikit', 'hadoop', 'various', 'command']","['science', 'notebook', 'learning', 'scikit', 'hadoop', 'various', 'command']",['dockerfile makefile'],data science python notebooks deep learning keras scikit big data hadoop hdfs python and various command lines
+3428345,"['click', 'delay', 'touch']","['polyfill', 'remove', 'click', 'delay', 'browser', 'touch']",['javascript makefile'],polyfill to remove click delays on browsers with touch uis
+51728141,"['mobile', 'component']","['mobile', 'component', 'based']",['css html javascript shell'],mobile ui components based on vue weui
+18611173,['animation'],"['accelerated', 'animation']",['css html'],accelerated javascript animation
+24186761,"['pleasant', 'android', 'application', 'development']","['pleasant', 'android', 'application', 'development']",['html java'],pleasant android application development
+6256729,"['frontend', 'knowledge', 'structure']","['frontend', 'knowledge', 'structure']",['css html makefile'],frontend knowledge structure
+21234201,"['motion', 'graphic', 'toolbelt']","['motion', 'graphic', 'toolbelt']",['css html'],the motion graphics toolbelt for the web
+69953445,['mybatis'],"['spring', 'springmvc', 'mybatis']",['css html javascript shell'],spring and springmvc and mybatis jee
+6094683,"['project', 'status', 'native', 'angularjs', 'angular', 'directive', 'footprint', 'party', 'dependency', 'bootstrap', 'readme']","['please', 'project', 'status', 'native', 'angularjs', 'angular', 'directive', 'bootstrap', 'smaller', 'footprint', 'gzipped', 'party', 'dependency', 'bootstrap', 'required', 'please', 'readme', 'submitting', 'issue']",['css html'],please read the project status below native angularjs angular directives for bootstrap smaller footprint kb gzipped no rd party js dependencies bootstrap js required please read the readme md file before submitting an issue
+8538132,"['design', 'framework', 'functional', 'framework']","['design', 'framework', 'based', 'functional', 'framework', 'simplifies', 'development', 'website']",['html javascript'],flat ui free design framework html and css and less and js flat ui is based on a and functional framework that simplifies the development of websites
+5448530,"['mobile', 'component']","['build', 'mobile', 'simple', 'component']",['html javascript'],build mobile apps with simple and javascript components
+619849,"['ultimate', 'distribution']","['ultimate', 'distribution']",['batchfile shell'],the ultimate vim distribution
+1381283,"['precision', 'color', 'multiple', 'application', 'light']","['precision', 'color', 'multiple', 'application', 'light']",['html python shell'],precision color scheme for multiple applications etc with both dark and light modes
+103645588,"['admin', 'management', 'system', 'template']","['admin', 'management', 'system', 'template', 'based', 'iview']",['css html javascript'],vue admin management system template based on iview
+17066884,"['powerful', 'spider', 'crawler', 'system']","['powerful', 'spider', 'crawler', 'system']",['dockerfile html javascript'],a powerful spider web crawler system in python
+45147841,"['bundle', 'optimizer']","['bundle', 'optimizer']",['css html shell'],a javascript bundle optimizer
+28513398,"['simplify', 'animation']","['library', 'simplify', 'animation']",['objective-c ruby'],a library to simplify ios animations in swift
+40808571,['application'],"['share', 'terminal', 'application']",['html javascript makefile'],share your terminal as a web application
+22607013,"['modular', 'front', 'framework']","['amaze', 'mobile', 'first', 'modular', 'front', 'framework']",['css html'],amaze a mobile first and modular front end framework
+21265042,"['smooth', 'asynchronous', 'interface']","['smooth', 'asynchronous', 'interface']",['ruby shell'],smooth asynchronous user interfaces for ios apps
+51994692,['zhongyi'],"['better', 'wechat', 'macos', 'linux', 'built', 'electron', 'zhongyi']",['css html shell'],a better wechat on macos and linux built with electron by zhongyi tong
+108395495,"['modern', 'chart', 'dependency']","['modern', 'chart', 'dependency']",['css makefile'],modern svg charts with zero dependencies
+37829238,['source'],"['typeface', 'designed', 'source']",['makefile python'],a typeface designed for source code
+70202506,"['dependency', 'management']","['dependency', 'management']",['css makefile shell'],go dependency management tool
+42586612,"['neural', 'network']","['recognition', 'neural', 'network']",['makefile python shell'],face recognition with deep neural networks
+743723,"['cross', 'browser', 'storage']","['cross', 'browser', 'storage', 'across']",['makefile shell'],cross browser storage for all use used across the web
+2336578,['official'],"['official', 'bootstrap']",['css html javascript shell'],official sass port of bootstrap and
+25095239,"['performance', 'friendly', 'loader', 'image', 'responsive', 'normal', 'iframes', 'visibility', 'change']","['performance', 'friendly', 'loader', 'image', 'responsive', 'normal', 'iframes', 'detects', 'visibility', 'change', 'triggered', 'without', 'configuration']",['css html'],high performance and seo friendly lazy loader for images responsive and normal iframes and that detects any visibility changes triggered through user css or javascript without configuration
+5344375,"['graphical', 'editor']","['textmate', 'graphical', 'editor', 'macos', 'later']",['html makefile shell'],textmate is a graphical text editor for macos or later
+131789494,"['spring', 'spring', 'shiro', 'spring', 'cloud', 'spring', 'security', 'spring', 'security', 'oauth', 'spring']","['spring', 'spring', 'shiro', 'spring', 'cloud', 'spring', 'security', 'spring', 'security', 'oauth', 'spring']",['css html javascript'],spring boot spring boot shiro spring cloud spring security spring security oauth spring
+1365679,['github'],"['tomorrow', 'theme', 'github', 'chriskempson']",['python shell'],tomorrow theme now lives on at https and and github com and chriskempson and base
+189890377,['mongo'],"['react', 'apollographql', 'mongo', 'written']",['dockerfile html javascript'],react and apollographql and node and mongo demo written in typescript
+501326,"['module', 'loader']","['module', 'loader']",['html shell'],a file and module loader for javascript
+65866559,['fljsbook'],"['balanced', 'fljsbook', 'twitter']",['css html'],balanced fp in javascript fljsbook on twitter
+99234994,"['design', 'block', 'clean', 'modern', 'website']","['bootstrap', 'based', 'design', 'block', 'ready', 'create', 'clean', 'modern', 'website']",['css javascript'],a set of and bootstrap based design blocks ready to be used to create clean modern websites
+71576450,"['perceptual', 'encoder']","['perceptual', 'encoder']",['makefile python shell'],perceptual jpeg encoder
+93354260,"['style', 'paint']","['sketch', 'style', 'paint']",['css html python'],sketch and style paints art
+81057842,"['spring', 'spring', 'openwrite']","['spring', 'spring', 'openwrite']",['css html'],spring boot spring boot openwrite
+198770415,"['source', 'world']","['github', 'source', 'world']",['html python'],github do not ban us from open source world iran
+3744545,"['twitter', 'bootstrap']","['datepicker', 'twitter', 'bootstrap']",['css html'],a datepicker for twitter bootstrap twbs
+17575535,"['simple', 'responsive', 'chart']","['simple', 'responsive', 'chart']",['css html'],simple responsive charts
+13030144,"['library', 'magical', 'scroll', 'interaction']","['library', 'magical', 'scroll', 'interaction']",['css html'],the javascript library for magical scroll interactions
+5901900,"['performance', 'inter', 'thread']","['performance', 'inter', 'thread', 'messaging', 'library']",['html shell'],high performance inter thread messaging library
+10219106,"['stack', 'angular', 'scalable', 'fullstack', 'application']","['stack', 'angular', 'simple', 'scalable', 'fullstack', 'application']",['dockerfile html javascript'],the mean stack uses angular and node for simple and scalable fullstack js applications
+29703871,"['debug', 'bridge', 'powerful', 'chrome', 'developer']","['stetho', 'debug', 'bridge', 'android', 'enabling', 'powerful', 'chrome', 'developer']",['python shell'],stetho is a debug bridge for android enabling the powerful chrome developer tools and much more
+58327877,['modern'],"['fully', 'modern', 'based', 'rendering', 'browser']",['html python shell'],a fully modern text based rendering to tty and browsers
+129860458,"['window', 'linux', 'domestic', 'china', 'mainstream', 'video', 'platform']","['window', 'linux', 'client', 'watch', 'video', 'domestic', 'china', 'mainstream', 'video', 'platform']",['css html'],mac windows linux a client that can watch video of domestic china mainstream video platform
+73929422,"['modern', 'modal', 'editing']","['modern', 'modal', 'editing', 'powered', 'neovim']",['css html javascript shell'],oni modern modal editing powered by neovim
+76413186,"['android', 'componentization', 'android']","['framework', 'assisting', 'renovation', 'android', 'componentization', 'android']",['html javascript'],a framework for assisting in the renovation of android componentization android app
+43640830,"['experimental', 'desktop']","['react', 'native', 'macos', 'experimental', 'writing', 'desktop', 'using', 'cocoa']",['html python shell'],react native for macos is an experimental fork for writing desktop apps using cocoa
+18405734,"['aware', 'image']","['content', 'aware', 'image', 'cropping']",['html shell'],content aware image cropping
+38565895,"['action', 'customizable']","['devtools', 'redux', 'action', 'customizable']",['css html shell'],devtools for redux with hot action and customizable ui
+5101823,"['handsome', 'dashboard', 'framework']","['exceptionally', 'handsome', 'dashboard', 'framework']",['css html'],the exceptionally handsome dashboard framework in ruby and coffeescript
+4637221,"['statusline', 'plugin']","['powerline', 'statusline', 'plugin', 'provides', 'statuslines', 'prompt', 'several', 'including', 'awesome', 'qtile']",['c shell'],powerline is a statusline plugin for and provides statuslines and prompts for several other including awesome and qtile
+96689748,"['wysiwyg', 'editor']","['simplest', 'smallest', 'wysiwyg', 'editor', 'dependency']",['css html'],the simplest and smallest wysiwyg text editor for with no dependencies
+36205608,"['jspatch', 'bridge', 'objective', 'objective', 'runtime', 'objective', 'class', 'small', 'engine', 'jspatch', 'hotfix']","['jspatch', 'bridge', 'objective', 'using', 'objective', 'runtime', 'objective', 'class', 'method', 'including', 'small', 'engine', 'jspatch', 'generally', 'hotfix']",['c c++'],jspatch bridge objective c and javascript using the objective c runtime you can call any objective c class and method in javascript by just including a small engine jspatch is generally used to hotfix ios app
+36674234,"['theme', 'sublime', 'mattia', 'astorino']","['material', 'theme', 'sublime', 'mattia', 'astorino']",['javascript shell'],material the most epic theme for sublime text by mattia astorino
+7544081,"['responsive', 'lightbox', 'script']","['light', 'responsive', 'lightbox', 'script', 'focus', 'performance']",['css html'],light and responsive lightbox script with focus on performance
+25201361,"['android', 'reverse', 'engineering', 'suite', 'debugger']","['android', 'reverse', 'engineering', 'suite', 'debugger']",['html python'],a java and jar android apk reverse engineering suite debugger more
+801795,"['super', 'awesome']","['super', 'awesome', 'fetching']",['ruby shell'],super awesome easy fetching for core data
+9795883,['electron'],"['electron', 'browser']",['css html shell'],the javascript for node nw electron and the browser
+15464772,['credit'],"['credit', 'better']",['html javascript'],make your credit card form better in one line of code
+25804514,"['redis', 'cluster', 'solution']","['proxy', 'based', 'redis', 'cluster', 'solution', 'supporting', 'pipeline', 'scaling', 'dynamically']",['css html javascript shell'],proxy based redis cluster solution supporting pipeline and scaling dynamically
+107258,"['command', 'navigate', 'directory', 'command']","['command', 'learns', 'easily', 'navigate', 'directory', 'command']",['makefile shell'],a cd command that learns easily navigate directories from the command line
+22765472,"['responsive', 'dashboard', 'template']","['responsive', 'dashboard', 'template']",['css dockerfile javascript'],responsive dashboard templates
+55763295,"['angularjs', 'bootstrap', 'admin', 'panel', 'framework']","['angularjs', 'bootstrap', 'admin', 'panel', 'framework']",['css html'],angularjs bootstrap admin panel framework
+5880912,"['server', 'framework']","['server', 'framework']",['css html shell'],a game server framework for node js
+61527215,"['design', 'pattern']","['design', 'pattern', 'technique', 'developing', 'react']",['css html'],a free book that talks about design patterns and techniques used while developing with react
+40380094,"['machine', 'learning', 'edition', 'repository', 'resource']","['machine', 'learning', 'edition', 'repository', 'resource']",['css html python'],the python machine learning st edition book code repository and info resource
+585285,"['sweet', 'local', 'frontend']","['powered', 'sweet', 'local', 'frontend']",['html javascript shell'],a git powered wiki with a sweet api and local frontend
+381979,"['event', 'calendar']","['sized', 'event', 'calendar']",['css html shell'],full sized drag drop event calendar
+31829770,"['angular', 'starter', 'angular', 'module']","['angular', 'starter', 'featuring', 'angular', 'async', 'module', 'webpack']",['css dockerfile html'],tada an angular starter kit featuring angular dev and async and lazy aot via ngc hot module and webpack
+508845,"['restful', 'resource']","['restkit', 'framework', 'consuming', 'modeling', 'restful', 'resource']",['ruby shell'],restkit is a framework for consuming and modeling restful web resources on ios and os x
+12779699,"['github', 'delos']","['raphttps', 'github', 'delos']",['css html shell'],web mock mux and raphttps and and github com and thx and rap delos
+75701562,"['study', 'programmer']","['study', 'programmer']",['makefile shell'],a study path for game programmer
+3502120,"['responsive', 'image', 'polyfill']","['responsive', 'image', 'polyfill', 'picture']",['css html'],a responsive image polyfill for picture and more
+90786246,"['starter', 'template']","['starter', 'template', 'react', 'detailed', 'readme', 'describing', 'together']",['css html'],a starter template for typescript and react with a detailed readme describing how to use the two together
+77073851,"['source', 'transcompiler']","['grumpy', 'source', 'transcompiler', 'runtime']",['makefile python'],grumpy is a python to go source code transcompiler and runtime
+907410,"['mobile', 'framework']","['jquery', 'mobile', 'framework']",['css html'],jquery mobile framework
+15642233,"['learning', 'train', 'convolutional', 'neural', 'network', 'ordinary']","['learning', 'train', 'convolutional', 'neural', 'network', 'ordinary', 'browser']",['css html'],deep learning in javascript train convolutional neural networks or ordinary ones in your browser
+141745951,"['chrome', 'devtools']","['improved', 'debugging', 'experience', 'enabled', 'chrome', 'devtools']",['css html'],ndb is an improved debugging experience for node enabled by chrome devtools
+757363,['responsive'],"['knockout', 'easier', 'create', 'responsive']",['css html'],knockout makes it easier to create responsive uis with javascript
+1358497,"['defacto', 'enable', 'legacy', 'internet', 'explorer']","['script', 'defacto', 'enable', 'sectioning', 'element', 'legacy', 'internet', 'explorer']",['css html'],this script is the defacto way to enable use of html sectioning elements in legacy internet explorer
+3516624,"['light', 'weight', 'proxy']","['light', 'weight', 'proxy', 'memcached', 'redis']",['makefile python shell'],a light weight proxy for memcached and redis
+3022431,"['creative', 'common', 'backbone']","['creative', 'common', 'backbone', 'beginner', 'advanced', 'alike']",['html makefile shell'],book a creative commons book on backbone js for beginners and advanced users alike
+3766706,"['reverse', 'engineering', 'android']","['reverse', 'engineering', 'android']",['batchfile shell'],a tool for reverse engineering android apk files
+2349728,"['pockethub', 'android']","['pockethub', 'android']",['css html javascript'],pockethub android app
+30245748,"['golang', 'terminal', 'dashboard']","['golang', 'terminal', 'dashboard']",['makefile python'],golang terminal dashboard
+5476048,"['picker', 'component']","['picker', 'component']",['css html'],javascript date date and time picker component
+86721514,"['generate', 'photo', 'horse']","['software', 'generate', 'photo', 'horse', 'perform', 'style']",['python shell'],software that can generate photos from turn horses into perform style and more
+23929024,"['various', 'dockerfiles']","['various', 'dockerfiles', 'desktop', 'server']",['makefile python shell'],various dockerfiles i use on the desktop and on servers
+48600412,"['loader', 'setup', 'extraction']","['featured', 'webpack', 'loader', 'setup', 'testing', 'extraction']",['html shell'],a full featured webpack and vue loader setup with hot testing css extraction
+32775739,"['android', 'widget']","['rxjava', 'binding', 'android', 'widget']",['java shell'],rxjava binding apis for android s ui widgets
+30907774,"['opencv', 'example']","['learn', 'opencv', 'example']",['makefile python shell'],learn opencv c and and and python examples
+14259343,"['automatic', 'license', 'plate', 'recognition', 'library']","['automatic', 'license', 'plate', 'recognition', 'library']",['makefile python shell'],automatic license plate recognition library
+15505458,['animation'],"['reveal', 'animation', 'scroll']",['css html'],reveal css animation as you scroll down a page
+19448700,"['notepad', 'golang', 'mongodb', 'leanote']","['notepad', 'golang', 'mongodb', 'leanote']",['css html shell'],not just a notepad golang and mongodb http and and leanote org
+24628923,['android'],"['library', 'component', 'android', 'android']",['css html javascript'],this is a library with components of android l to you use in android
+13622189,"['beautiful', 'dashboard']","['beautiful', 'dashboard', 'linux']",['html python shell'],a beautiful web dashboard for linux
+47925804,"['search', 'thing', 'problem']","['search', 'solve', 'naming', 'thing', 'problem']",['css html'],a search tool helps dev to solve the naming things problem
+1963063,"['priority', 'queue']","['priority', 'queue', 'backed', 'built']",['css html makefile'],kue is a priority job queue backed by built for node js
+112717963,"['simple', 'modify', 'system']","['simple', 'xposed', 'without', 'unlock', 'bootloader', 'modify', 'system']",['makefile python'],a simple app to use xposed without unlock the bootloader or modify system etc
+36353527,"['simple', 'process', 'manager', 'local', 'domain']","['simple', 'process', 'manager', 'developer', 'start', 'browser', 'access', 'using', 'local', 'domain']",['css html'],a simple process manager for developers start apps from your browser and access them using local domains
+7855340,"['level', 'terminal', 'interface', 'library']","['level', 'terminal', 'interface', 'library']",['makefile shell'],a high level terminal interface library for node js
+141910081,"['image', 'player']","['record', 'terminal', 'generate', 'animated', 'image', 'share', 'player']",['css html'],record your terminal and generate animated gif images or share a web player
+40693501,['simple'],"['collection', 'simple', 'webpack']",['css html'],a collection of simple demos of webpack
+68619759,"['material', 'dashboard', 'source', 'bootstrap', 'material', 'design', 'admin']","['material', 'dashboard', 'source', 'bootstrap', 'material', 'design', 'admin']",['html javascript'],material dashboard open source bootstrap material design admin
+43076202,"['plain', 'smoke', 'carrier', 'pigeon']","['generate', 'polished', 'rsums', 'plain', 'smoke', 'carrier', 'pigeon']",['css html'],generate polished rsums and cvs in ms plain smoke and carrier pigeon
+113402414,"['generation', 'electron', 'editor']","['experimental', 'generation', 'electron', 'based', 'editor']",['html javascript shell'],an experimental next generation electron based text editor
+275604,['library'],"['resque', 'redis', 'backed', 'library', 'creating', 'background', 'placing', 'multiple', 'later']",['css html javascript'],resque is a redis backed ruby library for creating background placing them on multiple and processing them later
+15367575,['flexbox'],"['based', 'flexbox']",['css javascript'],grid based on css flexbox
+142422739,"['research', 'framework', 'reinforcement', 'learning', 'algorithm']","['dopamine', 'research', 'framework', 'prototyping', 'reinforcement', 'learning', 'algorithm']",['html python'],dopamine is a research framework for fast prototyping of reinforcement learning algorithms
+99127696,"['linear', 'algebra', 'automatic', 'differentiation']","['webgl', 'accelerated', 'linear', 'algebra', 'automatic', 'differentiation']",['html python shell'],webgl accelerated ml and and linear algebra and and automatic differentiation for javascript
+13753838,"['display', 'online', 'offline', 'indication']","['automatically', 'display', 'online', 'offline', 'indication']",['html javascript'],automatically display online and offline indication to your users
+16096681,"['markdown', 'editor', 'encryption', 'support', 'source']","['laverna', 'taking', 'application', 'markdown', 'editor', 'encryption', 'support', 'consider', 'source', 'alternative', 'evernote']",['css html'],laverna is a javascript note taking application with markdown editor and encryption support consider it like open source alternative to evernote
+34798315,"['exciting', 'artificial', 'intelligence']","['exciting', 'programming', 'artificial', 'intelligence']",['css html'],an exciting game of programming and artificial intelligence
+56728437,"['various', 'contribution']","['collection', 'tutorial', 'learning', 'docker', 'various', 'contribution', 'welcome']",['dockerfile html javascript'],this is a collection of tutorials for learning how to use docker with various tools contributions welcome
+46383222,"['store', 'ready', 'interface', 'builder']","['design', 'prototype', 'customized', 'transition', 'animation', 'store', 'ready', 'interface', 'builder', 'ibanimatable']",['ruby shell'],design and prototype customized transition and animation for app store ready apps in interface builder with ibanimatable
+2688455,"['color', 'palette']","['color', 'palette', 'image', 'using', 'browser']",['css html'],grab the color palette from an image using just javascript works in the browser and in node
+13395052,"['powerful', 'parser', 'large']","['powerful', 'delimited', 'parser', 'gracefully', 'handle', 'large', 'malformed', 'input']",['css html'],fast and powerful csv delimited text parser that gracefully handles large files and malformed input
+24993138,"['brotli', 'compression', 'format']","['brotli', 'compression', 'format']",['python shell'],brotli compression format
+46891997,"['github', 'brave', 'browser', 'current', 'version']","['deprecated', 'please', 'github', 'brave', 'brave', 'browser', 'current', 'version', 'brave']",['html python shell'],deprecated please see https and and github com and brave and brave browser for the current version of brave
+2269353,['camera'],"['camera', 'image']",['css html'],camera javascript is all like you images done yet or what
+21299916,"['extract', 'inline', 'critical']","['extract', 'inline', 'critical']",['css html'],extract inline critical path css in html pages
+90961634,"['cross', 'platform', 'database', 'framework']","['cross', 'platform', 'database', 'framework', 'developed', 'wechat']",['c++ makefile shell'],wcdb is a cross platform database framework developed by wechat
+117360777,"['elegant', 'dashboard']","['rainbow', 'elegant', 'dashboard']",['html java'],rainbow an elegant dashboard
+17065530,['command'],"['chisel', 'collection', 'command', 'assist', 'debugging']",['c++ makefile'],chisel is a collection of lldb commands to assist debugging ios apps
+2677676,"['email', 'client', 'friendly', 'encryption']","['email', 'client', 'friendly', 'encryption', 'privacy', 'feature']",['css html javascript shell'],a free open fast email client with user friendly encryption and privacy features
+11621778,"['lightweight', 'angular', 'directive', 'upload', 'optional', 'fileapi', 'cross', 'browser', 'support']","['lightweight', 'angular', 'directive', 'upload', 'optional', 'fileapi', 'cross', 'browser', 'support']",['html shell'],lightweight angular directive to upload files with optional fileapi shim for cross browser support
+21108956,['blocker'],"['ublock', 'blocker', 'safari']",['html python shell'],ublock a and lean blocker for and safari
+48301282,"['manage', 'lambda', 'function']","['manage', 'lambda', 'function']",['makefile python shell'],and manage aws lambda functions with ease
+5552858,"['proxy', 'parent', 'proxy']","['proxy', 'written', 'automatically', 'identify', 'blocked', 'parent', 'proxy', 'access']",['javascript shell'],http proxy written in go cow can automatically identify blocked sites and use parent proxies to access
+71297170,"['chaos', 'monkey', 'resiliency', 'application', 'tolerate', 'random', 'instance', 'failure']","['chaos', 'monkey', 'resiliency', 'application', 'tolerate', 'random', 'instance', 'failure']",['makefile shell'],chaos monkey is a resiliency tool that helps applications tolerate random instance failures
+9467421,['github'],"['project', 'maintained', 'anymore', 'please', 'github', 'visjs']",['css html'],this project is not maintained anymore please go to https and and github com and visjs
+33082868,"['microservice', 'architecture', 'spring', 'spring', 'cloud']","['microservice', 'architecture', 'spring', 'spring', 'cloud', 'docker']",['css html javascript shell'],microservice architecture with spring spring cloud and docker
+7379964,"['tooltip', 'library', 'lovely', 'website']","['tooltip', 'library', 'lovely', 'website']",['html javascript'],a css only tooltip library for your lovely websites
+6580000,"['native', 'cross', 'platform', 'mongodb', 'management']","['native', 'cross', 'platform', 'mongodb', 'management']",['html python shell'],native cross platform mongodb management tool
+44402056,['electron'],"['explore', 'electron']",['css javascript shell'],explore the electron apis
+2823326,"['terminal', 'session', 'recorder']","['terminal', 'session', 'recorder']",['makefile shell'],terminal session recorder
+6714787,"['lightweight', 'jquery', 'input', 'picker']","['mobile', 'lightweight', 'jquery', 'input', 'picker']",['css html'],the mobile and lightweight jquery date time input picker
+93205465,"['darwin', 'kernel', 'mirror']","['darwin', 'kernel', 'mirror']",['makefile python shell'],the darwin kernel mirror
+55058317,"['exploitation', 'framework']","['exploitation', 'framework', 'embedded', 'device']",['makefile shell'],exploitation framework for embedded devices
+9330072,"['simple', 'minecraft', 'clone', 'modern', 'opengl', 'shaders']","['simple', 'minecraft', 'clone', 'written', 'using', 'modern', 'opengl', 'shaders']",['c++ python'],a simple minecraft clone written in c using modern opengl shaders
+14329321,"['minimal', 'ubuntu', 'image', 'docker', 'friendliness']","['minimal', 'ubuntu', 'image', 'modified', 'docker', 'friendliness']",['makefile python'],a minimal ubuntu base image modified for docker friendliness
+12484808,"['command', 'argument']","['match', 'command', 'argument']",['css html javascript shell'],match command line arguments to their help text
+50213667,"['input', 'plain']","['input', 'plain']",['css html shell'],input mask for plain javascript
+3693021,"['email', 'address']","['reduce', 'misspelled', 'email', 'address']",['css html shell'],reduce misspelled email addresses in your web apps
+303762,"['software', 'version', 'control', 'visualization']","['software', 'version', 'control', 'visualization']",['makefile python shell'],software version control visualization
+34222505,['unofficial'],"['unofficial', 'macos']",['ruby shell'],the unofficial wwdc app for macos
+94949504,"['scalable', 'serverless']","['deploy', 'infinitely', 'scalable', 'serverless', 'second']",['makefile shell'],deploy infinitely scalable serverless and sites in seconds to aws
+1280658,"['easel', 'library', 'hierarchical', 'display', 'interaction', 'helper', 'class', 'canvas', 'element']","['easel', 'library', 'provides', 'hierarchical', 'display', 'interaction', 'helper', 'class', 'working', 'canvas', 'element', 'easier']",['css html'],the easel javascript library provides a hierarchical display a core interaction and helper classes to make working with the html canvas element much easier
+5334951,"['quick', 'reference']","['quick', 'reference', 'accepted', 'coding', 'around']",['css javascript'],an easy to quick reference for js best accepted coding and links around the web
+8418302,"['customizable', 'checkboxes', 'radio', 'button', 'jquery', 'zepto']","['highly', 'customizable', 'checkboxes', 'radio', 'button', 'jquery', 'zepto']",['html javascript'],highly customizable checkboxes and radio buttons jquery zepto
+31365325,"['android', 'wechat', 'webview', 'jsbridge']","['android', 'inspired', 'wechat', 'webview', 'jsbridge']",['html javascript'],android java and javascript inspired by wechat webview jsbridge
+73968389,"['image', 'translation', 'conditional', 'adversarial']","['image', 'image', 'translation', 'conditional', 'adversarial']",['python shell'],image to image translation with conditional adversarial nets
+45363955,"['offline', 'location', 'library', 'accuracy', 'millseconds', 'performance', 'address']","['ipregion', 'offline', 'location', 'library', 'accuracy', 'millseconds', 'searching', 'performance', 'address', 'stored', 'binding', 'searching', 'algorithm']",['javascript python'],ipregion is a offline ip location library with accuracy rate of and x millseconds searching performance db file is less then mb with all ip address stored binding for searching algorithm
+14224695,"['mariadb', 'database', 'management']","['mysql', 'mariadb', 'database', 'management', 'macos']",['html makefile shell'],mysql and mariadb database management for macos
+51308720,"['framework', 'server']","['framework', 'server']",['css html shell'],a swift web framework and http server
+16930617,"['platform', 'native', 'library']","['platform', 'native', 'library']",['c c++'],platform native gui library for go
+68627122,"['beautiful', 'source', 'podcast', 'getstream']","['beautiful', 'source', 'podcast', 'powered', 'getstream']",['css javascript shell'],a beautiful open source rss podcast app powered by getstream io
+7680774,"['jeesite', 'spring', 'spring', 'apache', 'shiro', 'mybatis', 'bootstrap']","['jeesite', 'spring', 'spring', 'apache', 'shiro', 'mybatis', 'bootstrap']",['html java'],jeesite java java ee jee spring spring mvc apache shiro mybatis bootstrap ui
+11893084,"['uploader', 'solution']","['uploader', 'solution']",['css html makefile'],it s a new file uploader solution
+5279091,"['dependency', 'injector']","['dependency', 'injector', 'android']",['css html shell'],a fast dependency injector for android and java
+21190654,"['experimental', 'graceful']","['experimental', 'graceful', 'morphing', 'effect', 'uilabel', 'written']",['objective-c ruby'],experimental graceful morphing effects for uilabel written in swift
+54808920,"['vulnerability', 'scanner', 'language', 'network', 'device']","['agent', 'vulnerability', 'scanner', 'container', 'running', 'programming', 'language', 'network', 'device']",['dockerfile makefile'],agent less vulnerability scanner for container running programming language network devices
+32313383,"['android', 'class']","['android', 'class']",['batchfile shell'],tools to work with android dex and java class files
+155437620,"['source', 'animation', 'support']","['beautifully', 'crafted', 'source', 'animation', 'support']",['css html javascript'],a pack of more than beautifully crafted open source icons web font and animations support
+24306221,"['slick', 'progress']","['responsive', 'slick', 'progress']",['css html shell'],responsive and slick progress bars
+2536697,"['easiest', 'google']","['easiest', 'google']",['css html'],the easiest way to use google maps
+36778364,"['syncable', 'database']","['syncable', 'database']",['python shell'],the syncable database
+48953775,"['technology', 'technology']","['learn', 'technology', 'every', 'technology', 'every', 'sunday']",['html python shell'],let s learn a new technology every week a new technology blog every sunday in
+20940824,"['declarative', 'layout', 'iphone']","['declarative', 'layout', 'iphone']",['objective-c ruby'],a declarative auto layout dsl for swift iphone
+53982546,"['machine', 'learning', 'classifier']","['explaining', 'prediction', 'machine', 'learning', 'classifier']",['css html python'],lime explaining the predictions of any machine learning classifier
+3159966,"['source', 'typeface', 'beautifulwebtype']","['depth', 'guide', 'source', 'typeface', 'beautifulwebtype']",['css javascript'],in depth guide to the best open source typefaces https and and beautifulwebtype com
+15452925,"['machine', 'learning']","['machine', 'learning']",['python shell'],machine learning for go
+9639981,"['apple', 'xcodebuild', 'macos']","['extension', 'apple', 'xcodebuild', 'easier', 'macos']",['makefile python shell'],an extension for apple s xcodebuild that makes it easier to test ios and macos apps
+73927383,"['android', 'database']","['library', 'debugging', 'android', 'database', 'shared', 'preference', 'debugging', 'great']",['css html javascript'],a library for debugging android databases and shared preferences make debugging great again
+73007219,"['iphone', 'instant', 'offline', 'access', 'documentation']","['iphone', 'instant', 'offline', 'access', 'documentation']",['css html javascript'],dash gives your ipad and iphone instant offline access to and api documentation sets
+12631084,"['modern', 'dialog', 'library', 'style', 'hubspot', 'source']","['modern', 'dialog', 'library', 'highly', 'configurable', 'style', 'hubspot', 'source']",['html javascript'],a modern dialog library which is highly configurable and easy to style hubspot open source
+1903338,"['front', 'elastic', 'search', 'cluster']","['front', 'elastic', 'search', 'cluster']",['css html shell'],a web front end for an elastic search cluster
+27844645,"['custom', 'jupyter', 'notebook', 'theme']","['custom', 'jupyter', 'notebook', 'theme']",['javascript python'],custom jupyter notebook themes
+40092232,"['package', 'store', 'command', 'interface']","['package', 'store', 'command', 'interface']",['ruby shell'],package mac app store command line interface
+56897766,"['github', 'command', 'interface', 'official', 'integration', 'github', 'enterprise', 'github', 'desktop']","['supercharged', 'github', 'command', 'interface', 'official', 'integration', 'github', 'github', 'enterprise', 'github', 'category', 'desktop']",['html makefile shell'],a supercharged git and github command line interface cli an official integration for github and github enterprise https and and github com and works with and category and desktop tools
+2525502,['comprehensive'],"['comprehensive', 'finding', 'library', 'based']",['css html makefile'],a comprehensive path finding library for grid based games
+12495928,"['picker', 'widget', 'twitter', 'bootstrap']","['picker', 'widget', 'based', 'twitter', 'bootstrap']",['css html'],date and time picker widget based on twitter bootstrap
+15115183,"['clojurescript', 'interface', 'facebook']","['clojurescript', 'interface', 'facebook', 'react']",['html javascript shell'],clojurescript interface to facebook s react
+6072443,"['android', 'filter', 'opengl']","['android', 'filter', 'based', 'opengl', 'gpuimage']",['c python'],android filters based on opengl idea from gpuimage for ios
+53171300,['geospatial'],"['geospatial', 'geofencing']",['makefile shell'],real time geospatial and geofencing
+30987756,"['beautiful', 'autocomplete', 'dependency']","['ultra', 'beautiful', 'autocomplete', 'dependency']",['css html'],ultra beautiful autocomplete with zero dependencies
+198441611,"['studio', 'science', 'integration', 'source', 'science', 'framework']","['studio', 'based', 'application', 'science', 'integration', 'source', 'science', 'framework', 'language']",['html python shell'],grid studio is a web based application for data science with full integration of open source data science frameworks and languages
+24293205,"['apple', 'reachability']","['replacement', 'apple', 'reachability', 'written', 'closure']",['objective-c ruby'],replacement for apple s reachability re written in swift with closures
+88254582,"['jimmysong', 'kubernetes', 'handbook']","['kubernetes', 'jimmysong', 'kubernetes', 'handbook']",['dockerfile makefile'],kubernetes and https and and jimmysong io and kubernetes handbook
+43175432,"['implementation', 'github', 'official', 'version']","['faster', 'implementation', 'github', 'shaoqingren', 'official', 'version']",['c++ makefile shell'],faster r cnn python implementation see https and and github com and shaoqingren and for the official matlab version
+9155431,"['memory', 'usage']","['approximate', 'nearest', 'neighbor', 'optimized', 'memory', 'usage', 'loading', 'saving']",['c python'],approximate nearest neighbors in c and and and python optimized for memory usage and loading and saving to disk
+44050066,"['proguard', 'resource', 'wechat']","['proguard', 'resource', 'android', 'wechat']",['batchfile shell'],proguard resource for android by wechat team
+82436691,"['avmoo', 'javbus', 'javlibrary', 'japanese', 'adult', 'video', 'video', 'magnet', 'japanese', 'adult', 'video', 'database']","['avmoo', 'javbus', 'javlibrary', 'japanese', 'adult', 'video', 'video', 'magnet', 'japanese', 'adult', 'video', 'database']",['css html'],av avmoo javbus javlibrary av av japanese adult video video magnet links japanese adult video database
+16957000,"['kittenphp', 'engine', 'suite']","['kittenphp', 'engine', 'suite']",['python shell'],vk kittenphp and db and engine suite
+33323837,"['crazy', 'crisp', 'larsenwork']","['customisable', 'coding', 'ligature', 'contextual', 'positioning', 'crazy', 'crisp', 'larsenwork', 'monoid']",['html shell'],customisable coding font with ligatures and contextual positioning crazy crisp at px and pt http and and larsenwork com and monoid and
+2798959,"['cleanest', 'vimrc']","['plugins', 'cleanest', 'vimrc']",['dockerfile shell'],yadr the best plugins and the cleanest vimrc you ve ever seen
+47799229,"['tensorflow', 'implementation', 'convolutional', 'generative', 'adversarial', 'network']","['tensorflow', 'implementation', 'convolutional', 'generative', 'adversarial', 'network']",['css html python'],a tensorflow implementation of deep convolutional generative adversarial networks
+62500776,"['source', 'productivity', 'booster']","['source', 'productivity', 'booster', 'brain']",['css html'],open source productivity booster with a brain
+2616595,"['toolkit', 'graph']","['toolkit', 'creating', 'interactive', 'graph']",['css html makefile'],javascript toolkit for creating interactive real time graphs
+175366155,"['interesting', 'example', 'crawler']","['interesting', 'example', 'crawler', 'friendly', 'beginner']",['css html javascript'],qq some interesting examples of python crawlers that are friendly to beginners
+6761380,"['place', 'editing', 'twitter', 'jquery', 'jquery']","['place', 'editing', 'twitter', 'jquery', 'jquery']",['css html'],in place editing with twitter jquery ui or pure jquery
+60266911,"['friendly', 'unusual', 'display']","['friendly', 'anyone', 'build', 'unusual', 'display']",['css html python'],a web friendly way for anyone to build unusual displays
+28405578,['qrcode'],['qrcode'],['c++ makefile shell'],qrcode logo qq
+41482296,"['plugin', 'framework', 'party']","['plugin', 'framework', 'third', 'party', 'without', 'modification', 'repackage']",['c c++'],a plugin framework on any third party apk without modification or repackage
+28266028,"['android', 'pagertabstrip']","['android', 'pagertabstrip']",['objective-c ruby'],android pagertabstrip for ios
+4471940,"['runtime', 'injection', 'objective']","['runtime', 'injection', 'objective']",['java shell'],runtime code injection for objective c swift
+24650236,"['relational', 'database', 'cross', 'browser']","['lovefield', 'relational', 'database', 'written', 'cross', 'browser', 'provides']",['css html shell'],lovefield is a relational database for web apps written in works cross browser provides sql like apis that are and easy to use
+3605299,"['functional', 'reactive']","['functional', 'reactive', 'programming', 'library']",['html javascript shell'],functional reactive programming library for typescript and javascript
+3411652,"['iconic', 'scissors']","['iconic', 'scissors']",['html makefile shell'],iconic fonts scissors
+29882262,"['public', 'slack', 'organization']","['public', 'slack', 'organization']",['dockerfile shell'],public slack organizations made easy
+7985525,"['image', 'optimizer']","['image', 'optimizer']",['css makefile shell'],gui image optimizer for mac
+74236755,"['fathom', 'privacy', 'website', 'analytics', 'golang', 'preact']","['fathom', 'privacy', 'focused', 'website', 'analytics', 'built', 'golang', 'preact']",['html javascript makefile'],fathom lite privacy focused website analytics built with golang preact
+72974961,"['admin', 'template']","['admin', 'template', 'based', 'vuejs', 'element']",['css html javascript'],admin template based on vuejs and element
+53877810,['competition'],"['platform', 'capture', 'competition']",['makefile python shell'],platform to host capture the flag competitions
+11589713,['docker'],"['coreos', 'docker']",['css html javascript shell'],deis the coreos and docker paas your paas your rules
+13911118,"['yeoman', 'generator', 'angular', 'express', 'server']","['yeoman', 'generator', 'angular', 'express', 'server']",['css html shell'],yeoman generator for an angular app with an express server
+39233228,['future'],"['embrace', 'future', 'developing', 'simple', 'simpler']",['html shell'],embrace the apis of the future hug aims to make developing apis as simple as but no simpler
+134030857,"['foreign', 'language', 'reading', 'translation', 'assistant']","['foreign', 'language', 'reading', 'translation', 'assistant', 'based', 'translate']",['css html javascript'],foreign language reading and translation assistant based on copy and translate
+9252533,"['numenta', 'platform', 'hierarchical', 'temporal', 'memory']","['numenta', 'platform', 'intelligent', 'computing', 'implementation', 'hierarchical', 'temporal', 'memory', 'theory', 'intelligence', 'based', 'strictly', 'neuroscience', 'neocortex']",['ruby shell'],numenta platform for intelligent computing is an implementation of hierarchical temporal memory htm a theory of intelligence based strictly on the neuroscience of the neocortex
+116252,['framework'],"['object', 'oriented', 'framework']",['ruby shell'],object oriented css framework
+5676886,"['reference', 'application']","['reference', 'application', 'angularjs']",['css html'],reference application for angularjs
+102057483,"['analysis', 'project']","['analysis', 'project', 'mxnet']",['c++ makefile shell'],face analysis project on mxnet
+28320207,"['google', 'snippet']","['hassle', 'google', 'snippet']",['css html'],a hassle free way to self host google fonts get woff and woff files and css snippets
+28059374,"['flickable', 'carousel']","['flickable', 'carousel']",['css html'],leaves flickable carousels
+261335,"['edition', 'edition', 'progit', 'github']","['edition', 'content', 'deprecated', 'edition', 'progit', 'github', 'progit', 'progit']",['css html javascript shell'],pro git book st edition this content is deprecated see nd edition at progit https and and github com and progit and progit
+139205847,"['wheel', 'rover']","['build', 'wheel', 'rover', 'based', 'rover']",['python shell'],a build it wheel rover based on the rovers on mars
+11178512,"['source', 'performance', 'system', 'major', 'function', 'capacity', 'balance', 'wechat', 'public', 'account', 'chinese', 'language', 'fastdfs']","['fastdfs', 'source', 'performance', 'distributed', 'system', 'major', 'function', 'include', 'syncing', 'design', 'capacity', 'balance', 'wechat', 'weixin', 'public', 'account', 'chinese', 'language', 'fastdfs']",['c++ makefile shell'],fastdfs is an open source high performance distributed file system dfs it s major functions include file file syncing and file and design for high capacity and load balance wechat and weixin public account chinese language fastdfs
+774606,"['command', 'utility', 'installer']","['command', 'utility', 'installer', 'window']",['batchfile shell'],unix command line utilities installer for windows
+3056094,"['mutation', 'library']","['mutation', 'library']",['css html'],javascript url mutation library
+1145832,"['runtime', 'developer', 'console', 'powerful', 'introspection', 'capability']","['runtime', 'developer', 'console', 'alternative', 'powerful', 'introspection', 'capability']",['dockerfile shell'],a runtime developer console and irb alternative with powerful introspection capabilities
+33361723,"['overview', 'comparison']","['ecmascript', 'feature', 'overview', 'comparison']",['css makefile shell'],ecmascript feature overview comparison
+76954504,['tetri'],"['immutable', 'tetri']",['css html'],use immutable to code tetris
+21294600,"['redis', 'source']","['redis', 'annotated', 'redis', 'source']",['ruby shell'],redis annotated redis source code
+45946078,"['simple', 'tutorial', 'google', 'tensorflow', 'framework']","['simple', 'tutorial', 'using', 'google', 'tensorflow', 'framework']",['python shell'],simple tutorials using google s tensorflow framework
+57430416,"['music', 'china', 'chrome']","['music', 'china', 'chrome', 'firefox']",['css html'],one for all free music in china chrome also works for firefox
+60427361,"['multi', 'player', 'simulation']","['multi', 'player', 'simulation']",['css html javascript'],a work in open multi player city simulation game
+51711443,['study'],['study'],['objective-c ruby'],mini swift apps for self study
+11098077,"['development', 'environment']","['installing', 'development', 'environment', 'macos']",['css html python'],installing development environment on macos
+19360616,"['docker', 'native']","['swarm', 'docker', 'native', 'clustering', 'system']",['dockerfile shell'],swarm a docker native clustering system
+45547,"['selector', 'engine']","['sizzlin', 'selector', 'engine']",['css html'],a sizzlin hot selector engine
+5499847,"['remote', 'network', 'native', 'chrome', 'developer']","['remote', 'network', 'debugging', 'native', 'using', 'chrome', 'developer']",['css html python'],remote network and data debugging for your native ios app using chrome developer tools
+2321051,"['proxychains', 'generation', 'proxy', 'continuation', 'proxychains', 'project', 'github', 'release']","['proxychains', 'generation', 'preloader', 'socket', 'dynamically', 'linked', 'program', 'redirects', 'proxy', 'continuation', 'unmaintained', 'proxychains', 'project', 'currently', 'release', 'github', 'release', 'instead']",['c++ makefile shell'],proxychains ng new generation a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks and http proxies continuation of the unmaintained proxychains project the sf net page is currently not use releases from github release page instead
+3523632,"['spring', 'framework', 'pragmatic', 'style', 'javaee', 'application', 'reference', 'architecture']","['spring', 'framework', 'pragmatic', 'style', 'javaee', 'application', 'reference', 'architecture']",['batchfile shell'],a spring framework pragmatic style javaee application reference architecture
+137935980,"['machine', 'learning', 'andrew']","['machine', 'learning', 'yearning', 'andrew']",['html javascript'],machine learning yearning andrew ng
+89322848,"['powerful', 'parameter', 'server', 'large', 'scale', 'machine', 'learning']","['flexible', 'powerful', 'parameter', 'server', 'large', 'scale', 'machine', 'learning']",['dockerfile shell'],a flexible and powerful parameter server for large scale machine learning
+27494663,"['machine', 'management', 'container', 'centric', 'world']","['machine', 'management', 'container', 'centric', 'world']",['makefile shell'],machine management for a container centric world
+37175929,"['lightweight', 'virtualization', 'solution']","['lightweight', 'virtualization', 'solution']",['c++ makefile shell'],a lightweight os x virtualization solution
+4641606,"['client', 'image', 'placeholder']","['client', 'image', 'placeholder']",['html shell'],client side image placeholders
+166535378,"['public', 'failure', 'horror', 'story']","['compilation', 'public', 'failure', 'horror', 'story', 'related', 'kubernetes']",['python shell'],compilation of public failure and horror stories related to kubernetes
+3450268,"['generates', 'bootstrap', 'color']","['generates', 'bootstrap', 'color', 'image']",['html javascript'],a rails app that generates bootstrap color scheme from an image
+52301805,"['interactive', 'extension']","['interactive', 'extension']",['javascript shell'],the interactive extensions for javascript
+9086522,"['angularjs', 'directive', 'angularjs']","['angularjs', 'chosen', 'directive', 'angularjs', 'directive', 'brings', 'chosen', 'jquery', 'angularjs']",['css html'],angularjs chosen directive is an angularjs directive that brings the chosen jquery in a angularjs way
+24243349,"['standalone', 'local', 'interface', 'repository']","['standalone', 'local', 'based', 'interface', 'repository']",['html python shell'],a standalone local web based user interface for git repositories
+40495024,"['module', 'telegram']","['module', 'creating', 'telegram']",['css html'],node module for creating telegram bots
+562972,"['small', 'parser', 'library']","['small', 'based', 'parser', 'library', 'hacking']",['css html shell'],a small peg based parser library see the hacking page in the wiki as well
+9824723,"['dependency', 'plugin', 'plain']","['linkify', 'dependency', 'plugin', 'finding', 'plain', 'converting']",['html shell'],linkify is a zero dependency javascript plugin for finding links in plain text and converting them to html a tags
+165179509,"['tetri', 'flutter', 'flutter']","['tetri', 'powered', 'flutter', 'flutter']",['c++ makefile shell'],a tetris game powered by flutter flutter
+24549457,"['socket', 'client', 'library']","['socket', 'client', 'library']",['html javascript'],socket io client library for net
+141040549,"['social', 'engineering']","['accurately', 'locate', 'smartphones', 'using', 'social', 'engineering']",['css html javascript shell'],accurately locate smartphones using social engineering
+126996636,"['library', 'animate', 'image']","['library', 'animate', 'image', 'hover']",['css javascript'],javascript library to draw and animate images on hover
+369782,"['database', 'migration', 'utility', 'source', 'control']","['roundhouse', 'database', 'migration', 'utility', 'using', 'versioning', 'based', 'source', 'control']",['html shell'],roundhouse is a database migration utility for net using sql files and versioning based on source control
+81271141,"['microsoft', 'katana', 'project']","['microsoft', 'katana', 'project']",['css html javascript'],microsoft s owin the katana project
+27382852,"['bigpicture', 'library']","['bigpicture', 'library', 'allows', 'infinite', 'panning', 'infinite', 'zooming']",['css html'],bigpicture js is a javascript library that allows infinite panning and infinite zooming in html pages
+79157500,['gitlab'],"['mirror', 'gitlab', 'cmdchallenge']",['makefile python shell'],this repo is mirror of https and and gitlab com and jarv and cmdchallenge
+40619925,"['machine', 'learning']","['course', 'machine', 'learning']",['makefile python shell'],a course in machine learning
+113487978,"['display', 'apple', 'system', 'status', 'alert']","['display', 'apple', 'system', 'hiding', 'status', 'alert', 'suited', 'notifying', 'without', 'interrupting']",['objective-c ruby'],display apple system like self hiding status alerts it is well suited for notifying user without interrupting user flow in ios like way
+118182130,"['puppeteer', 'bridge', 'entire']","['puppeteer', 'bridge', 'supporting', 'entire']",['css html javascript'],a puppeteer bridge for supporting the entire api
+48962505,['label'],"['repel', 'overlapping', 'label']",['css python'],repel overlapping text labels away from each other
+33849718,"['multi', 'websockets', 'communication']","['multi', 'disposable', 'service', 'written', 'websockets', 'communication']",['css html javascript'],a multi room disposable chat service written in go that uses websockets for live communication
+3422923,"['google', 'engine', 'boilerplate']","['google', 'engine', 'boilerplate']",['css html javascript'],google app engine boilerplate
+102030660,"['fluid', 'powerful', 'simulation', 'plugin', 'quality', 'fluid', 'source', 'creation', 'suite']","['fluid', 'powerful', 'simulation', 'plugin', 'ability', 'create', 'quality', 'fluid', 'effect', 'within', 'source', 'creation', 'suite']",['c python'],flip fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within the free and open source d creation suite
+105666776,"['reusable', 'library']","['reusable', 'library']",['objective-c ruby'],ios reusable form library in swift
+89835496,"['online', 'activation']","['online', 'activation', 'steam']",['css html shell'],online activation tool for steam
+163549671,"['mysql', 'binlog', 'storage', 'system']","['distributed', 'mysql', 'binlog', 'storage', 'system', 'built']",['makefile shell'],a distributed mysql binlog storage system built on raft
+10066282,"['dimensional', 'collision', 'detection', 'library']","['dimensional', 'collision', 'detection', 'library']",['makefile shell'],and dimensional collision detection library in rust
+15646954,"['script', 'download', 'subtitle', 'series', 'episode']","['script', 'automatically', 'download', 'subtitle', 'movie', 'series', 'episode']",['batchfile shell'],python script to automatically download subtitles for any movie and tv series episode
+109392373,"['spring', 'security']","['springboot', 'spring', 'security']",['dockerfile html javascript'],springboot and spring security
+19989605,['certificate'],"['auditing', 'certificate']",['makefile python shell'],auditing for tls certificates
+58395340,['capability'],"['toolkit', 'embedding', 'capability', 'application']",['makefile shell'],a toolkit for embedding vpn capabilities in your application
+138679609,['cloudcpp'],['cloudcpp'],['html javascript makefile'],https and and tz cloudcpp com and
+569495,"['source', 'phone', 'system']","['openvbx', 'based', 'source', 'phone', 'system', 'business']",['css html javascript shell'],openvbx is a web based open source phone system for business
+95213972,"['simple', 'parallax', 'header']","['simple', 'parallax', 'header', 'uiscrollview', 'uitableview', 'written']",['objective-c ruby'],simple way to add parallax header to uiscrollview and uitableview written in swift
+4008167,"['simple', 'jquery', 'table', 'sorter', 'plugin']","['stupidly', 'small', 'simple', 'jquery', 'table', 'sorter', 'plugin']",['css html'],a stupidly small and simple jquery table sorter plugin
+87239202,"['angular', 'firebase', 'progressive', 'starter']","['angular', 'firebase', 'progressive', 'starter']",['dockerfile html javascript'],fire angular and firebase progressive web app starter
+12780291,['interface'],"['dashboard', 'interface', 'monitor', 'accessibility', 'website']",['html javascript makefile'],pay dashboard is a web interface which helps you monitor the accessibility of your websites
+38764670,['oracle'],"['oracle', 'alpinelinux', 'glibc']",['java shell'],oracle java over alpinelinux with glibc
+4975854,"['window', 'driver', 'installer', 'library', 'device']","['window', 'driver', 'installer', 'library', 'device']",['c++ makefile shell'],windows driver installer library for usb devices
+9355482,"['noriben', 'malware', 'analysis', 'sandbox']","['noriben', 'malware', 'analysis', 'sandbox']",['batchfile shell'],noriben malware analysis sandbox
+555313,"['happy', 'editor', 'gitlab']","['happy', 'hacking', 'editor', 'gitlab', 'pipeline']",['makefile shell'],happy haskell hacking for editors ci https and and gitlab com and dxld and ghc mod and pipelines
+771294,"['iconv', 'binding']","['iconv', 'binding', 'recoding', 'profit']",['c++ python'],node js iconv bindings text recoding for fun and profit
+12179932,"['angularjs', 'directive', 'bootstrap']","['angularjs', 'directive', 'creates', 'based', 'bootstrap']",['html javascript'],an angularjs directive that creates a tree based on a bootstrap nav list
+83496974,['mongodb'],"['state', 'mongodb']",['css html shell'],state of the art mongodb ide
+28889353,"['application', 'epichrome', 'epichrome', 'helper']","['application', 'epichrome', 'chrome', 'extension', 'epichrome', 'helper', 'create', 'chrome', 'based']",['html javascript makefile'],an application epichrome app and chrome extension epichrome helper to create and use chrome based ssbs on mac osx
+88608345,"['kubernetes', 'reboot', 'daemon']","['kubernetes', 'reboot', 'daemon']",['dockerfile makefile'],kubernetes reboot daemon
+53374688,"['bayesian', 'classification', 'service']","['bayesian', 'classification', 'service', 'based', 'redis', 'built', 'tornado', 'react']",['css html python'],bayesian text classification service based on redis built on top of tornado and react js
+86668534,['framework'],"['another', 'framework']",['c makefile'],yet another hook framework for art
+23081251,"['framework', 'library']","['framework', 'library', 'bootstrap']",['css javascript'],a play framework library for bootstrap
+3499459,"['copycopter', 'server', 'source', 'service']","['copycopter', 'server', 'source', 'service']",['css html javascript'],copycopter server is open source run it as a web service
+66083213,"['template', 'bootstrap', 'clean', 'vinyl', 'bower', 'support', 'template', 'contains', 'htaccess', 'server']","['optimizedhtml', 'optimized', 'google', 'pagespeed', 'start', 'template', 'bootstrap', 'clean', 'vinyl', 'rsync', 'bower', 'support', 'template', 'contains', 'htaccess', 'caching', 'server']",['css html'],optimizedhtml is all optimized for google pagespeed start html template with bootstrap grid only clean vinyl ftp and rsync and bower libs path support the template contains a htaccess file with caching rules for web server
+188316989,"['quick', 'scanner', 'bluekeep', 'vulnerability']","['quick', 'scanner', 'bluekeep', 'vulnerability']",['dockerfile makefile'],a quick scanner for the cve bluekeep vulnerability
+126034926,"['tensorflow', 'implementation', 'pyramid', 'network', 'multi', 'person', 'estimation']","['tensorflow', 'implementation', 'cascaded', 'pyramid', 'network', 'multi', 'person', 'estimation']",['c++ makefile shell'],the tensorflow implementation of cpn cascaded pyramid network for multi person pose estimation
+37421331,"['daily', 'packt', 'ebook', 'packtpub', 'learning']","['download', 'daily', 'packt', 'publishing', 'ebook', 'packtpub', 'packt', 'offer', 'learning']",['html javascript'],download your daily free packt publishing ebook https and and www packtpub com and packt and offers and free learning
+84097963,"['manage', 'composer', 'config']","['easily', 'manage', 'composer', 'config']",['dockerfile makefile'],easily manage git hooks in your composer config
+103062798,"['youtube', 'tutorial']","['companion', 'youtube', 'tutorial']",['css html javascript'],the companion to the youtube tutorials
+46496316,"['arduino', 'library', 'device', 'arduino', 'leonardo', 'arduino', 'micro']","['arduino', 'library', 'joystick', 'device', 'arduino', 'leonardo', 'arduino', 'micro', 'support']",['batchfile shell'],an arduino library that adds one or more joysticks to the list of hid devices an arduino leonardo or arduino micro can support
+53626965,"['performant', 'module', 'making', 'native', 'position', 'sticky', 'statefull', 'sticky', 'browser']","['stickystate', 'performant', 'module', 'making', 'native', 'position', 'sticky', 'statefull', 'polyfilling', 'missing', 'sticky', 'browser', 'feature']",['css html'],stickystate is a high performant module making native position sticky statefull and polyfilling the missing sticky browser feature
+59773356,"['dynamic', 'background', 'color', 'uivisualeffectview', 'subclass']","['dynamic', 'background', 'color', 'uivisualeffectview', 'subclass']",['objective-c ruby'],dynamic blur background view with tint color uivisualeffectview subclass
+80581591,['library'],"['library', 'library']",['objective-c ruby'],swift library for font icons this library
+73436648,"['socket', 'angular', 'angular', 'material', 'component']","['application', 'implemented', 'using', 'socket', 'angular', 'angular', 'material', 'component']",['css html javascript'],a chat application implemented using socket angular and angular material components
+120207630,"['iconic', 'toolkit']","['iconic', 'toolkit']",['html javascript makefile'],a fork of the iconic font and css toolkit
+16677055,['visualization'],['visualization'],['css html shell'],d visualization of npm
+102099689,"['vuejs', 'notification', 'center']","['vuejs', 'notification', 'center']",['css html javascript shell'],vuejs notification center
+1872254,"['programmatic', 'support']","['programmatic', 'browsing', 'module', 'support']",['html javascript shell'],programmatic web browsing module with ajax support for python
+4220253,"['ultimate', 'framework', 'responsive']","['ultimate', 'framework', 'building', 'validating', 'responsive']",['css shell'],the ultimate framework for building and validating responsive html forms
+3329435,['interface'],"['write', 'great', 'testing', 'interface']",['css html'],write json unit tests in less code great for testing rest interfaces
+163480400,"['tensorflow', 'implementation']","['tensorflow', 'implementation']",['python shell'],tensorflow implementation
+74888257,['customization'],['customization'],['makefile shell'],arc kde customization
+15657128,['front'],"['apart', 'front']",['javascript python'],the a list apart front end repo
+57257111,"['simple', 'header', 'argument', 'parser', 'library', 'standard', 'argparse', 'library']","['simple', 'header', 'argument', 'parser', 'library', 'supposed', 'flexible', 'attempt', 'compatible', 'functionality', 'standard', 'argparse', 'library', 'though', 'necessarily']",['makefile python'],a simple header only c and and argument parser library supposed to be flexible and and attempts to be compatible with the functionality of the python standard argparse library though not necessarily the api
+155203510,['frozen'],"['discontinued', 'frozen', 'exist', 'forever', 'mpdehaan', 'vespene']",['css html javascript shell'],discontinued a frozen fork will exist forever at mpdehaan and vespene
+37613809,"['efficient', 'usenet', 'downloader']","['efficient', 'usenet', 'downloader']",['css html javascript shell'],efficient usenet downloader
+120264700,"['bitcoin', 'protocol', 'toolkit']","['bitcoin', 'protocol', 'toolkit']",['ruby shell'],bitcoin protocol toolkit for swift
+22494900,"['monitor', 'command']","['monitor', 'control', 'brightness', 'command']",['objective-c shell'],ddc monitor controls brightness for mac osx command line
+28763547,['mutiple'],"['xychart', 'designed', 'chart', 'compare', 'mutiple', 'limited', 'range', 'value']",['ruby shell'],xychart is designed for line bar of charts which can compare mutiple datas in form and limited the range of values to and so on
+56901410,"['interface', 'webrtc', 'voice', 'activity']","['interface', 'webrtc', 'voice', 'activity', 'detector']",['c++ python'],python interface to the webrtc voice activity detector
+209379,"['maxmind', 'geoip', 'geographic', 'location', 'address']","['querying', 'maxmind', 'geoip', 'return', 'geographic', 'location', 'server', 'given', 'address']",['css html python'],the ruby gem for querying maxmind com s geoip which returns the geographic location of a server given its ip address
+50424341,"['radeon', 'intersection', 'acceleration', 'library', 'software', 'multiplatforms']","['radeon', 'intersection', 'acceleration', 'library', 'hardware', 'software', 'multiplatforms', 'using']",['c python'],radeon rays is ray intersection acceleration library for hardware and software multiplatforms using cpu and gpu
+9667424,"['webgl', 'earth', 'source']","['unmaintained', 'webgl', 'earth', 'source', 'project']",['css html makefile'],unmaintained webgl earth the source code of the project
+17181837,"['source', 'typography']","['source', 'webtypography', 'practical', 'guide', 'typography']",['css javascript'],the source code for webtypography a practical guide to web typography
+15216146,"['monkey', 'front']","['monkey', 'front', 'tooling', 'single', 'dependency']",['css html makefile'],monkey front end tooling in a single dependency
+56289751,"['versatile', 'video', 'library']","['vireo', 'lightweight', 'versatile', 'video', 'library', 'written']",['makefile shell'],vireo is a lightweight and versatile video processing library written in c and and
+1323052,"['foreign', 'function', 'layer']","['abstracted', 'foreign', 'function', 'layer']",['c makefile'],java abstracted foreign function layer
+592109,"['bloom', 'filter']","['bloom', 'filter', 'using']",['makefile python'],fast python bloom filter using mmap
+16865424,"['synchronize', 'calendar']","['synchronize', 'calendar', 'contact']",['makefile shell'],synchronize calendars and contacts
+46008487,"['reality', 'application']","['mixedrealitytoolkit', 'collection', 'script', 'component', 'intended', 'accelerate', 'development', 'mixed', 'reality', 'application', 'targeting', 'window', 'mixed', 'reality']",['html makefile'],the mixedrealitytoolkit is a collection of scripts and components intended to accelerate the development of mixed reality applications targeting windows mixed reality
+70405572,"['simple', 'customizable', 'calendar', 'component', 'calendar']","['simple', 'customizable', 'calendar', 'component', 'calendar']",['objective-c ruby'],simple customizable calendar component in swift calendar
+8309253,"['stack', 'implementation']","['picotcp', 'stack', 'implementation']",['makefile python shell'],picotcp is a free tcp and ip stack implementation
+59018415,"['lexvec', 'result', 'multiple']","['implementation', 'lexvec', 'embedding', 'model', 'similar', 'wordvec', 'glove', 'achieves', 'state', 'result', 'multiple']",['makefile python shell'],this is an implementation of the lexvec word embedding model similar to wordvec and glove that achieves state of the art results in multiple nlp tasks
+53397944,"['application', 'image', 'image', 'rotation', 'option', 'abstract', 'storage', 'store', 'image', 'provider']","['dockerized', 'application', 'microservice', 'resize', 'image', 'optimised', 'image', 'using', 'imagemagick', 'includes', 'image', 'rotation', 'option', 'abstract', 'storage', 'based', 'flysystem', 'order', 'store', 'image', 'provider']",['dockerfile shell'],dockerized php application runs as a microservice to resize and crop images on the fly get optimised images with webp or png using imagemagick includes face face image rotation and many other options abstract storage based on flysystem in order to store images on any provider aws s
+27509416,"['simple', 'virtual', 'library']","['simple', 'virtual', 'library']",['css html javascript'],pure and simple virtual dom library
+4769450,"['jquery', 'socialshareprivacy', 'klick', 'datenschutz', 'heise']","['jquery', 'socialshareprivacy', 'klick', 'datenschutz', 'heise', 'extra', 'socialshareprivacy', 'extensible']",['css shell'],fork of jquery socialshareprivacy js and klicks fuer mehr datenschutz http and and www heise de and extras and socialshareprivacy and that is extensible
+88831074,"['source', 'reference', 'implementation']","['source', 'reference', 'implementation']",['css html javascript shell'],the open source java ee reference implementation
+72463633,"['serverless', 'reference', 'authorization', 'pattern', 'amazon', 'amazon']","['serverless', 'reference', 'backend', 'showcasing', 'authentication', 'authorization', 'pattern', 'using', 'amazon', 'amazon']",['css html javascript shell'],serverless reference app and backend showcasing authentication and authorization patterns using amazon amazon api aws and aws iam
+108945912,"['fastq', 'preprocessor']","['ultra', 'fastq', 'preprocessor', 'adapter', 'trimming', 'filtering', 'splitting', 'merging']",['c makefile'],an ultra fast all in one fastq preprocessor qc and adapters and trimming and filtering and splitting and merging
+36959719,"['docker', 'tutorial', 'series']","['repository', 'learned', 'getting', 'started', 'jenkins', 'docker', 'tutorial', 'series']",['dockerfile makefile'],a repository for items learned in my getting started with jenkins and docker tutorial series
+12526458,['library'],"['mocking', 'simple', 'header', 'library', 'mocking']",['makefile python'],c and and mocking made easy a simple yet very headers only library for c and and mocking
+174852500,"['complex', 'application']","['build', 'complex', 'application', 'without']",['css javascript'],build complex applications without pain
+10113876,"['bootstrap', 'layoutit']","['bootstrap', 'layoutit']",['css javascript'],bootstrap layoutit com
+25056806,"['strava', 'elevate', 'track', 'analyse', 'activity', 'segment', 'thomaschampagne', 'github']","['browser', 'extension', 'strava', 'elevate', 'track', 'fitness', 'progression', 'analyse', 'deeper', 'activity', 'segment', 'thomaschampagne', 'github', 'elevate', 'formerly', 'named', 'stravistix']",['dockerfile html javascript'],browser extension for strava elevate tracks your fitness and progressions over time analyse deeper your activities segments and more https and and thomaschampagne github io and elevate and formerly named stravistix
+8358935,"['project', 'language', 'agnostic', 'backend']","['project', 'implement', 'editor', 'language', 'agnostic', 'backend']",['makefile python'],this project aims to implement an editor and language agnostic backend
+15600117,"['gesture', 'recognition', 'toolkit']","['gesture', 'recognition', 'toolkit']",['makefile python shell'],gesture recognition toolkit
+20745736,"['command', 'argument', 'parser']","['docopt', 'command', 'argument', 'parser']",['makefile python shell'],docopt for rust command line argument parser
+66172698,"['collection', 'social', 'medium', 'analytics']","['collection', 'social', 'medium', 'analytics']",['html javascript'],data collection tool for social media analytics
+745678,['pixelbeat'],"['script', 'pixelbeat']",['html python'],scripts from pixelbeat org
+60985120,"['native', 'macos', 'application', 'bundle']","['frugal', 'native', 'macos', 'syncthing', 'application', 'bundle']",['makefile python shell'],frugal and native macos syncthing application bundle
+1177157,"['jquery', 'range', 'selection', 'slider', 'support']","['jquery', 'range', 'selection', 'slider', 'support']",['css html'],a jquery ui range selection slider that supports dates
+131020675,"['curtain', 'lightweight', 'vanilla', 'webgl', 'library', 'element']","['curtain', 'lightweight', 'vanilla', 'webgl', 'library', 'element', 'interactive', 'textured', 'plane']",['css javascript'],curtains js is a lightweight vanilla webgl javascript library that turns html dom elements into interactive textured planes
+25606702,"['security', 'researcher', 'drupal', 'silverstripe']","['plugin', 'based', 'scanner', 'security', 'researcher', 'identifying', 'issue', 'several', 'mainly', 'drupal', 'silverstripe']",['dockerfile html'],a plugin based scanner that aids security researchers in identifying issues with several mainly drupal silverstripe
+133618047,['pwaapp'],['pwaapp'],['css html javascript'],vue typescript pwaapp
+162036134,"['pytorch', 'implementation', 'instagan', 'instance', 'aware', 'image', 'translation']","['pytorch', 'implementation', 'instagan', 'instance', 'aware', 'image', 'translation']",['html shell'],pytorch implementation of instagan instance aware image translation iclr
+1675632,['implementation'],"['implementation', 'openscenegraph']",['css html shell'],javascript implementation of openscenegraph
+30487824,"['medium', 'editor', 'markdown', 'support']","['pencil', 'medium', 'editor', 'extension', 'markdown', 'support']",['css html'],pencil a medium editor extension to add markdown support
+81348108,"['honeypot', 'framework']","['advanced', 'honeypot', 'framework']",['dockerfile shell'],advanced honeypot framework
+1762831,['integration'],['integration'],['html javascript'],pjax integration for rails
+298328,"['small', 'library', 'console', 'output']","['jansi', 'small', 'library', 'allows', 'escape', 'sequence', 'format', 'console', 'output', 'window']",['css html'],jansi is a small java library that allows you to use ansi escape sequences to format your console output which works even on windows
+143447275,"['baidu', 'tqgcanlosqzvopbq']","['baidu', 'tqgcanlosqzvopbq']",['makefile python'],https and and pan baidu com and s and tqgcanlosqzvopbq izm
+48436495,"['elegant', 'theme']","['another', 'simple', 'elegant', 'theme']",['css html'],hexo another simple and elegant theme for hexo
+73010429,"['library', 'native', 'library']","['library', 'native', 'library', 'consumed', 'linux', 'platform']",['c++ makefile shell'],tools to turn net libraries into native libraries that can be consumed on linux and other platforms
+78737622,"['token', 'authentication']","['token', 'authentication', 'devise']",['dockerfile shell'],jwt token authentication with devise and rails
+124406046,"['handy', 'filepond', 'adapter', 'component']","['handy', 'filepond', 'adapter', 'component', 'react']",['css html'],a handy filepond adapter component for react
+38416915,"['movie', 'recommender', 'movielens', 'dataset']","['movie', 'recommender', 'using', 'movielens', 'dataset']",['python shell'],an on line movie recommender using python and the movielens dataset
+74377565,"['simple', 'refresh', 'control', 'graphic']","['simple', 'refresh', 'control', 'based', 'spritekit', 'graphic']",['ruby shell'],simple refresh control for ios based on spritekit and core graphics
+632350,"['lightweight', 'jquery', 'plugin']","['lightweight', 'jquery', 'plugin', 'enables', 'expanding', 'collapsing', 'content']",['css html'],a lightweight kb jquery plugin that enables expanding and collapsing content
+205403,"['apache', 'ofbiz']","['mirror', 'apache', 'ofbiz']",['css html javascript shell'],mirror of apache ofbiz
+41223710,"['column', 'jekyll', 'theme']","['simple', 'clean', 'column', 'jekyll', 'theme']",['html javascript'],a simple and clean two columns jekyll theme
+91004353,"['tandem', 'cross', 'collaborative', 'editing']","['typing', 'tandem', 'cross', 'collaborative', 'editing']",['javascript shell'],typing in tandem cross collaborative text editing
+847744,"['tobias', 'template', 'language']","['tobias', 'template', 'language']",['css html'],net port of tobias ltke s liquid template language
+12957983,"['webodf', 'document', 'engine']","['webodf', 'document', 'engine']",['css html shell'],webodf javascript document engine
+52634092,"['control', 'manages', 'configuration', 'workflow']","['control', 'manages', 'lifecycle', 'cluster', 'infrastructure', 'allows', 'deployment', 'application', 'deployment', 'configuration', 'workflow', 'running', 'kubernetes', 'faster']",['css html javascript shell'],control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via helm its deployment and configuration workflows will help you to get up and running with kubernetes faster
+25319462,"['rappor', 'privacy']","['rappor', 'privacy', 'preserving', 'reporting', 'algorithm']",['css html javascript shell'],rappor privacy preserving reporting algorithms
+111306296,"['source', 'inbox', 'gmail', 'desktop']","['source', 'inbox', 'gmail', 'desktop']",['css html'],free and open source inbox by gmail desktop app
+109823996,"['attacker', 'website', 'vulnerability', 'scanner', 'exploiter']","['attacker', 'website', 'vulnerability', 'scanner', 'exploiter']",['html shell'],x attacker tool website vulnerability scanner auto exploiter
+225393289,"['language', 'model', 'optimization', 'technique', 'huawei']","['pretrained', 'language', 'model', 'related', 'optimization', 'technique', 'developed', 'huawei']",['dockerfile shell'],pretrained language model and its related optimization techniques developed by huawei noah s ark lab
+48928882,"['medium', 'clone']","['medium', 'clone', 'built']",['css html javascript'],medium clone built with ruby on rails
+18365504,"['openjdk', 'hotspot', 'javac']","['openjdk', 'hotspot', 'javac']",['html makefile shell'],openjdk hotspot jvm javac
+93194639,"['laravel', 'blade', 'directive']","['collection', 'laravel', 'blade', 'directive']",['css html javascript'],a collection of nice laravel blade directives
+102761243,"['component', 'mobile', 'robotics']","['perception', 'component', 'autonomous', 'mobile', 'robotics']",['python shell'],perception and ai components for autonomous mobile robotics
+124128297,"['cyclone', 'blueprint', 'collection', 'layout']","['cyclone', 'blueprint', 'framework', 'meant', 'easier', 'working', 'collection', 'layout']",['ruby shell'],cyclone blueprints a framework that is meant to make your life easier when working with collection view flow layouts
+109095871,"['tailwind', 'frontend', 'preset', 'laravel', 'framework']","['tailwind', 'frontend', 'preset', 'laravel', 'framework']",['css javascript'],a tailwind css frontend preset for the laravel framework
+31089409,"['airplane', 'conjunto', 'experincias', 'burocracias', 'poder', 'trabalhar', 'remotamente', 'empresas', 'mundo']","['airplane', 'conjunto', 'experincias', 'burocracias', 'poder', 'trabalhar', 'remotamente', 'empresas', 'mundo']",['css javascript'],airplane conjunto de experincias e burocracias para poder trabalhar remotamente para empresas do mundo todo
+11825056,"['additional', 'resource']","['project', 'please', 'readme', 'additional', 'resource']",['html python shell'],this project is please see the readme for additional resources
+14247166,"['docker', 'multi', 'environment']","['orchestration', 'docker', 'multi', 'environment']",['makefile shell'],orchestration of docker multi host environments
+58500595,"['simple', 'google', 'login']","['simple', 'implement', 'facebook', 'google', 'login']",['objective-c ruby'],a simple way to implement facebook and google login in your ios apps
+129113077,"['whatsapp', 'clone']","['building', 'whatsapp', 'clone', 'flutter']",['ruby shell'],building a whatsapp clone in flutter
+9062260,"['bitcoin', 'solution']","['bitcoin', 'solution', 'written', 'golang']",['css html javascript'],full bitcoin solution written in go golang
+16585506,"['application', 'template']","['opinionated', 'application', 'template']",['dockerfile html javascript'],opinionated rails application templates
+6813862,"['ovilia', 'personal']","['ovilia', 'personal']",['css html'],ovilia s personal site

@@ -1,0 +1,11 @@
+antecedents,consequents,confidience,cluster_topics
+objective-c_shell,10,1.0,['monitor command']
+c++_makefile,10,1.0,['monitor command']
+c_shell,15,1.0,['cyclone blueprint collection layout']
+css_makefile,15,1.0,['cyclone blueprint collection layout']
+javascript_shell,1,0.75,['docker multi environment']
+javascript_makefile,39,1.0,['whatsapp clone']
+html_makefile,43,1.0,['complex application']
+html_java,1,0.75,['docker multi environment']
+css_python,1,1.0,['docker multi environment']
+c++_python,1,1.0,['docker multi environment']

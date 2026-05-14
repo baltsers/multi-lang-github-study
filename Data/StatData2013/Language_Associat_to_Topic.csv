@@ -1,0 +1,10 @@
+antecedents,consequents,confidience,cluster_topics
+perl_python,21,1.0,['bootstrap heroku simple sinatra server']
+javascript_perl,13,1.0,['quartz composer webgl compiler']
+javascript_objective-c,13,1.0,['quartz composer webgl compiler']
+assembly_c++,21,1.0,['bootstrap heroku simple sinatra server']
+perl_ruby,21,1.0,['bootstrap heroku simple sinatra server']
+c_python,21,1.0,['bootstrap heroku simple sinatra server']
+c++_python,21,1.0,['bootstrap heroku simple sinatra server']
+c++_javascript,34,1.0,['johnson embrace']
+c++_ruby,16,1.0,['concurrency']

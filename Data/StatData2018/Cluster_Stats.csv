@@ -1,0 +1,51 @@
+label_id,repository_count,cluster_topics,languages,combinations
+14,5,['android system viewer android phone'],"['css', 'javascript', 'python', 'shell', 'html', 'c', 'objective-c', 'makefile']","{'css javascript': 1, 'python shell': 1, 'css html': 1, 'c objective-c': 1, 'c makefile shell': 1}"
+2,43,['official chain'],"['html', 'python', 'shell', 'makefile', 'css', 'ruby', 'javascript', 'java', 'dockerfile', 'php', 'c', 'objective-c', 'c++']","{'css html': 10, 'makefile python shell': 3, 'java python': 3, 'html python shell': 2, 'makefile ruby': 2, 'html shell': 2, 'html javascript': 2, 'c objective-c': 2, 'ruby shell': 2, 'c++ shell': 2, 'css html makefile': 1, 'javascript shell': 1, 'dockerfile shell': 1, 'css html javascript': 1, 'css php': 1, 'java shell': 1, 'css html python': 1, 'makefile shell': 1, 'css python shell': 1, 'css html shell': 1, 'html ruby shell': 1, 'css html javascript shell': 1, 'c makefile': 1}"
+15,126,['legacy browser application integration keepass password github browser addon version'],"['css', 'html', 'php', 'makefile', 'shell', 'ruby', 'python', 'javascript', 'c', 'java', 'dockerfile', 'batchfile', 'c++', 'objective-c']","{'css html': 22, 'makefile shell': 9, 'css html javascript shell': 9, 'makefile python shell': 8, 'ruby shell': 7, 'css html javascript': 5, 'css html shell': 4, 'makefile python': 4, 'html ruby shell': 4, 'css html makefile': 3, 'html python': 3, 'c makefile shell': 3, 'batchfile shell': 3, 'html makefile': 3, 'html javascript': 3, 'css php': 2, 'css javascript': 2, 'dockerfile shell': 2, 'css html python': 2, 'html makefile shell': 2, 'html javascript shell': 2, 'javascript python shell': 2, 'c++ makefile': 2, 'python shell': 2, 'html ruby': 2, 'c shell': 2, 'c++ makefile shell': 2, 'css javascript shell': 2, 'makefile ruby': 1, 'java shell': 1, 'css ruby': 1, 'java python': 1, 'html shell': 1, 'c python shell': 1, 'objective-c shell': 1, 'html python shell': 1, 'javascript python': 1, 'c objective-c': 1}"
+19,50,['technology company'],"['css', 'javascript', 'ruby', 'shell', 'makefile', 'python', 'html', 'php', 'c++', 'java']","{'css html': 11, 'css javascript': 3, 'ruby shell': 3, 'makefile python shell': 3, 'html makefile shell': 3, 'html ruby shell': 2, 'html makefile': 2, 'css html javascript': 2, 'html shell': 2, 'html javascript': 2, 'html javascript shell': 2, 'css html shell': 2, 'makefile python': 1, 'css html javascript shell': 1, 'javascript shell': 1, 'html python shell': 1, 'css shell': 1, 'python shell': 1, 'css php': 1, 'makefile shell': 1, 'javascript python shell': 1, 'css html python': 1, 'c++ makefile shell': 1, 'java python': 1, 'html ruby': 1}"
+33,1,['runtime'],"['c', 'javascript']",{'c javascript': 1}
+27,1,['router'],"['css', 'html']",{'css html': 1}
+3,11,['source platform digital downloads'],"['html', 'ruby', 'css', 'shell', 'c', 'makefile', 'python', 'javascript', 'java', 'php']","{'css html javascript': 3, 'html ruby': 1, 'css html shell': 1, 'c shell': 1, 'css ruby': 1, 'makefile python shell': 1, 'python shell': 1, 'java shell': 1, 'css php': 1}"
+1,16,['voxelizer'],"['css', 'html', 'javascript', 'makefile', 'shell', 'python', 'ruby', 'c++']","{'css html': 6, 'css javascript': 3, 'makefile shell': 2, 'ruby shell': 2, 'css html javascript': 1, 'python shell': 1, 'c++ makefile': 1}"
+8,4,['wrapper component transition'],"['makefile', 'shell', 'html', 'css']","{'html shell': 2, 'makefile shell': 1, 'css html': 1}"
+36,1,['physical'],"['javascript', 'python', 'shell']",{'javascript python shell': 1}
+43,1,['native'],"['java', 'python']",{'java python': 1}
+24,9,['themekraft starter theme'],"['makefile', 'python', 'shell', 'css', 'javascript', 'html', 'php']","{'css javascript': 2, 'css html': 2, 'makefile python shell': 1, 'css makefile': 1, 'css php': 1, 'css html javascript': 1, 'css shell': 1}"
+28,2,['website instant'],"['python', 'shell', 'css', 'html', 'makefile']","{'python shell': 1, 'css html makefile': 1}"
+6,11,['visualization framework'],"['html', 'ruby', 'shell', 'css', 'javascript', 'makefile', 'python']","{'html ruby shell': 2, 'css html shell': 2, 'css html javascript': 2, 'html javascript': 1, 'ruby shell': 1, 'css html': 1, 'makefile python shell': 1, 'css shell': 1}"
+20,1,['precision'],"['makefile', 'python']",{'makefile python': 1}
+26,1,['technique comparison'],"['css', 'html', 'makefile']",{'css html makefile': 1}
+17,2,['unobtrusive'],"['html', 'javascript', 'ruby', 'shell']","{'html javascript': 1, 'html ruby shell': 1}"
+46,1,['polyfill'],"['css', 'html']",{'css html': 1}
+45,1,['vagrant'],"['java', 'python']",{'java python': 1}
+44,14,['yeoman generator'],"['css', 'html', 'javascript', 'shell', 'makefile', 'python', 'c', 'dockerfile', 'ruby']","{'css html javascript shell': 2, 'makefile shell': 2, 'css html': 2, 'javascript python shell': 1, 'html makefile shell': 1, 'css javascript': 1, 'css html shell': 1, 'c makefile shell': 1, 'dockerfile shell': 1, 'ruby shell': 1, 'css html javascript': 1}"
+11,1,['socket'],"['css', 'html']",{'css html': 1}
+7,9,['opengl graphic engine'],"['javascript', 'python', 'shell', 'c++', 'cmake', 'css', 'html', 'c', 'objective-c']","{'css html shell': 2, 'css html': 2, 'javascript python shell': 1, 'c++ shell': 1, 'cmake shell': 1, 'css javascript shell': 1, 'c objective-c': 1}"
+42,1,['github'],"['css', 'html']",{'css html': 1}
+5,9,['audio compatibility layer'],"['css', 'html', 'makefile', 'shell', 'javascript', 'dockerfile', 'python', 'cmake']","{'css html': 2, 'html makefile shell': 2, 'css html javascript shell': 1, 'dockerfile shell': 1, 'makefile python shell': 1, 'css html shell': 1, 'cmake shell': 1}"
+23,2,['cross_platform sniffer'],"['css', 'html', 'javascript', 'shell']","{'css html': 1, 'css html javascript shell': 1}"
+30,1,['animation'],"['css', 'html', 'javascript', 'shell']",{'css html javascript shell': 1}
+0,8,['jquery touch finger'],"['css', 'html', 'ruby', 'javascript', 'shell']","{'css html': 4, 'css ruby': 1, 'html javascript': 1, 'css html javascript': 1, 'css javascript shell': 1}"
+25,1,['phone'],"['html', 'javascript']",{'html javascript': 1}
+9,3,['editor markdown'],"['css', 'php', 'html']","{'css html': 2, 'css php': 1}"
+41,1,['sample'],"['css', 'html', 'shell']",{'css html shell': 1}
+32,5,['browser'],"['html', 'python', 'shell', 'css', 'javascript']","{'html python shell': 1, 'css html javascript': 1, 'css html shell': 1, 'html python': 1, 'javascript python': 1}"
+16,1,['parser'],"['html', 'ruby']",{'html ruby': 1}
+49,1,['elegant'],"['c++', 'makefile']",{'c++ makefile': 1}
+13,1,['visualise'],"['css', 'html']",{'css html': 1}
+18,1,['property'],"['css', 'html']",{'css html': 1}
+29,1,['static'],"['css', 'html']",{'css html': 1}
+4,1,['reactcnode'],"['css', 'html']",{'css html': 1}
+40,2,['raspberry suite'],"['makefile', 'shell', 'python']","{'makefile shell': 1, 'makefile python shell': 1}"
+10,1,['conversion'],"['html', 'shell']",{'html shell': 1}
+12,3,['cross browser animation animation fabulous animate project'],"['css', 'html']",{'css html': 3}
+34,1,['example'],"['css', 'html', 'javascript', 'shell']",{'css html javascript shell': 1}
+39,1,['ground'],"['html', 'javascript']",{'html javascript': 1}
+35,1,['macos'],"['makefile', 'ruby']",{'makefile ruby': 1}
+38,2,['development environment'],"['css', 'html', 'makefile', 'shell']","{'css html makefile': 1, 'css html shell': 1}"
+48,1,['application'],"['html', 'shell']",{'html shell': 1}
+21,1,['objective'],"['ruby', 'shell']",{'ruby shell': 1}
+22,1,['password'],"['css', 'html', 'shell']",{'css html shell': 1}
+31,1,['educational'],"['css', 'html', 'javascript', 'shell']",{'css html javascript shell': 1}
+47,2,['performance parser'],"['makefile', 'shell', 'javascript', 'python']","{'makefile shell': 1, 'javascript python shell': 1}"
+37,2,['linux speech recognition'],"['ruby', 'shell', 'c', 'makefile']","{'ruby shell': 1, 'c makefile shell': 1}"

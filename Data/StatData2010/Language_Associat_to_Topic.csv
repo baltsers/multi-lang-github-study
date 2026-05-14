@@ -1,0 +1,6 @@
+antecedents,consequents,confidience,cluster_topics
+java_javascript,5,1.0,['application personal scalability experiment']
+c++_shell,8,0.6,['']
+javascript_perl_python,20,1.0,['content management framework']
+perl_php,16,1.0,['store']
+c_java,47,1.0,['google android']

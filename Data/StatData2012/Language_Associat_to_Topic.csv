@@ -1,0 +1,9 @@
+antecedents,consequents,confidience,cluster_topics
+java_python,2,1.0,['driver implementation apple source voodoops']
+javascript_python,2,1.0,['driver implementation apple source voodoops']
+perl_racket,2,1.0,['driver implementation apple source voodoops']
+javascript_objective-c,2,1.0,['driver implementation apple source voodoops']
+c_python,2,1.0,['driver implementation apple source voodoops']
+objective-c_python,2,1.0,['driver implementation apple source voodoops']
+c++_javascript,2,1.0,['driver implementation apple source voodoops']
+php_python,32,1.0,['serial driver']

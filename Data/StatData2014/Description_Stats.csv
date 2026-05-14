@@ -1,0 +1,224 @@
+id,subjects,processed_text,language_combinations,description
+3497763,"['realtime', 'dashboard']","['graphene', 'realtime', 'dashboard', 'graphing', 'toolkit', 'based', 'backbone']",['javascript ruby shell'],graphene is a realtime dashboard graphing toolkit based on d and backbone
+14127490,"['realtime', 'server', 'metric']","['realtime', 'server', 'metric', 'browser']",['css ruby'],realtime server metrics in your browser
+7116973,"['angular', 'application']","['implement', 'authentication', 'authorization', 'angular', 'application']",['css shell'],one way to implement authentication and authorization in angular applications
+24094708,['dream'],"['dream', 'greenlight']",['c++ objective-c shell'],keen dreams on greenlight
+16093309,"['simple', 'graph', 'drawing']","['simple', 'graph', 'drawing', 'plotting']",['c++ css'],a simple graph drawing and data plotting app for os x and ipad
+3510440,['binding'],['binding'],['javascript python'],c and and qt bindings for node js
+11221326,['apple'],"['apple', 'torrent', 'streaming', 'chrome']",['css shell'],apple tv for torrent streaming in js node and chrome
+122471,"['simple', 'prebuilt', 'application']","['simple', 'prebuilt', 'application']",['css javascript'],simple prebuilt applications
+19466626,"['source', 'event', 'analytics', 'platform']","['source', 'event', 'analytics', 'platform']",['css python shell'],an open source event analytics platform
+6584052,"['remote', 'preview', 'large', 'number', 'mobile', 'device']","['remote', 'preview', 'allows', 'preview', 'large', 'number', 'mobile', 'device', 'simultaneously']",['css php'],remote preview allows you to preview any url on large number of mobile devices simultaneously
+785859,"['acceptance', 'native']","['automated', 'acceptance', 'native']",['c ruby'],automated acceptance tests for native ios apps
+4207315,"['seamless', 'custom', 'action', 'android', 'application']","['deprecated', 'easily', 'create', 'attractive', 'seamless', 'custom', 'action', 'style', 'android', 'application']",['java shell'],deprecated easily create a attractive and seamless custom action bar style for your android application
+20093507,"['service', 'personal', 'phimpme']","['service', 'generate', 'personal', 'phimpme']",['css javascript'],web service to generate your personal phimpme app
+7977879,['project'],"['start', 'project', 'sassaparilla']",['javascript ruby'],start your web projects fast with sassaparilla
+5075922,"['documentation', 'developer', 'source', 'issue', 'tracker', 'submit', 'request', 'social', 'service']","['documentation', 'developer', 'source', 'branch', 'please', 'issue', 'tracker', 'submit', 'request', 'build', 'social', 'service', 'developer', 'advertiser']",['javascript ruby'],app net api documentation is on the web at https and and developers app net source for these docs is in the new docs branch here please use the issue tracker and submit pull requests help us build the real time social service where users and developers come not advertisers
+13153048,"['source', 'writing']","['closed', 'source', 'writing']",['css javascript'],closed source code of writings io
+2276340,"['issue', 'tracker']","['backed', 'issue', 'tracker']",['css ruby'],a git backed issue tracker
+1745628,"['trojan', 'horse', 'author']","['trojan', 'horse', 'leaked', 'author', 'created', 'repository', 'access', 'study', 'possible']",['css javascript shell'],not my code zeus trojan horse leaked in i am not the author i have created this repository to make the access for study as easy as possible
+14056672,"['parallax', 'uiscrollview', 'uitableviews', 'parallax', 'scrollview', 'tableview', 'header']","['parallax', 'uiscrollview', 'uitableviews', 'parallax', 'scrollview', 'tableview', 'header']",['c ruby shell'],add a parallax top view to any uiscrollview incl uitableviews parallax scrollview tableview header
+6970537,"['learning', 'algorithm']","['implementation', 'learning', 'algorithm']",['c c++ shell'],implementation of some deep learning algorithms
+1130505,"['facebook', 'realtime', 'apache', 'hadoop', 'append']","['facebook', 'realtime', 'distributed', 'based', 'apache', 'hadoop', 'append']",['perl python shell'],facebook s realtime distributed fs based on apache hadoop append
+8825809,"['pythonjs', 'development']","['pythonjs', 'development', 'moved', 'rusthon']",['javascript perl'],pythonjs development has moved to rusthon
+18707202,"['official', 'repository']","['official', 'repository', 'slide', 'gophercon']",['objective-c shell'],this is the official repository for slides and talks from gophercon
+15179404,"['sample', 'autofac']","['sample', 'autofac']",['css javascript'],sample web app for asp net mvc ef code autofac and tdd
+2846200,"['small', 'functional', 'language']","['small', 'functional', 'language', 'compiles']",['css python shell'],small functional language that compiles to javascript
+7379987,"['jailbroken', 'iphones']","['record', 'display', 'jailbroken', 'iphones']",['c++ objective-c'],record the display even on non jailbroken iphones
+16017872,"['beautiful', 'ember']","['beautiful', 'written', 'ember']",['css ruby shell'],beautiful team chat app written in elixir ember js
+4334373,['visualizer'],"['visualizer', 'webgl']",['coffeescript css'],midi visualizer in webgl
+7028490,"['original', 'emulator', 'animation', 'specification', 'animation']","['original', 'emulator', 'animation', 'specification', 'please', 'animation', 'instead']",['css python shell'],the original emulator of the web animations specification please use web animations js instead
+981997,"['lightweight', 'framework', 'composable', 'design']","['lightweight', 'framework', 'featuring', 'purely', 'asynchronous', 'extremely', 'massive', 'composable', 'design']",['javascript shell'],a lightweight web framework for featuring a purely asynchronous extremely high massive high and a composable design
+239681,['client'],"['client', 'cassandra', 'distributed', 'database']",['c perl shell'],a ruby client for the cassandra distributed database
+9286207,"['refresh', 'button', 'progress', 'indicator']","['android', 'action', 'refresh', 'button', 'progress', 'indicator']",['groovy shell'],android an action bar item which acts both as a refresh button and as a progress indicator
+1323471,"['audiolib', 'powerful', 'audio', 'library']","['audiolib', 'powerful', 'audio', 'library']",['coffeescript css'],audiolib js is a powerful audio tools library for javascript
+17388691,"['sandbox', 'project']","['sandbox', 'project', 'different', 'blurring', 'technique']",['groovy shell'],sandbox project for different blurring techniques
+6412660,"['unistroke', 'recognizer', 'dollar', 'gesture', 'recognizer']","['unistroke', 'recognizer', 'dollar', 'gesture', 'recognizer', 'uigesturerecognizer']",['c javascript'],a port of the unistroke recognizer aka dollar gesture recognizer to ios as a uigesturerecognizer
+3446222,"['opengl', 'camera', 'filter']","['opengl', 'based', 'image', 'camera', 'filter']",['c ruby'],opengl es based image and real time camera filters for ios
+2529750,"['blinkdb', 'approximate', 'query', 'large']","['blinkdb', 'second', 'approximate', 'query', 'large']",['css python shell'],blinkdb sub second approximate queries on very large data
+21591788,"['framework', 'application']","['polyglot', 'distributed', 'framework', 'allows', 'programmer', 'create', 'application', 'multiple', 'programming', 'language']",['javascript ruby'],polyglot is a distributed web framework that allows programmers to create web applications in multiple programming languages
+5927407,['tesseract'],['tesseract'],['c objective-c'],tesseract ocr for ios
+2605322,"['android', 'framework', 'application']","['android', 'framework', 'application']",['c++ objective-c'],android framework for node js applications
+16999938,"['uikit', 'dynamic', 'runtime', 'visualisation', 'introspection', 'library']","['uikit', 'dynamic', 'runtime', 'visualisation', 'introspection', 'library']",['c++ ruby'],ios uikit dynamics runtime visualisation and introspection library
+16632650,"['berkeley', 'release']","['berkeley', 'release']",['c++ objective-c shell'],uc berkeley release of plan under the gplv
+1372117,['value'],"['distributed', 'database', 'specialized', 'exporting', 'value', 'hadoop']",['python shell'],distributed database specialized in exporting key and value data from hadoop
+2575466,['framework'],['framework'],['css python shell'],an html game framework
+533032,"['searchable', 'database']","['distributed', 'realtime', 'searchable', 'database']",['css python shell'],distributed realtime searchable database
+666025,"['orchestration', 'layer', 'system', 'diagram', 'provision', 'openstack']","['orchestration', 'layer', 'system', 'diagram', 'provision', 'openstack', 'vagrant', 'without', 'change', 'cookbook', 'configuration']",['javascript shell'],chef orchestration layer your system diagram come to life provision openstack or vagrant without changes to cookbooks or configuration
+12072364,"['source', 'email', 'client']","['thatinbox', 'source', 'email', 'client']",['c javascript'],thatinbox is a free and open source email client
+15585891,"['javascriptbridge', 'javascriptcore', 'framework']","['write', 'javascriptbridge', 'provides', 'write', 'powered', 'javascriptcore', 'framework']",['javascript ruby'],write ios apps in javascript javascriptbridge provides the way to write ios apps with javascript powered by javascriptcore framework
+1977044,['transition'],"['around', 'hardware', 'accelerated', 'transition', 'custom', 'easing', 'function']",['css php'],a javascript work around for hardware accelerated css transitions with custom easing functions
+114885,"['effective', 'hadoop', 'micro', 'script', 'terabyte', 'scale']","['hadoop', 'effective', 'hadoop', 'streaming', 'write', 'micro', 'script', 'terabyte', 'scale']",['perl python shell'],ruby on hadoop effective hadoop streaming bulk data processing write micro scripts for terabyte scale data
+15741676,"['source', 'original', 'taskpaper']","['source', 'original', 'taskpaper']",['c perl shell'],source code for the original taskpaper for ios
+9274534,"['npapi', 'plugin', 'expose', 'device']","['npapi', 'plugin', 'expose', 'device']",['perl python shell'],npapi plugin to expose fun vr devices to javascript
+3973122,"['theme', 'option', 'framework', 'fluent', 'framework', 'fluent', 'framework']","['theme', 'option', 'framework', 'replaced', 'fluent', 'framework', 'please', 'direct', 'issue', 'request', 'fluent', 'framework']",['css javascript'],nhp theme options framework has been replaced by the fluent framework which is out now please direct all issues and requests to the fluent framework
+1825225,"['small', 'compatibility', 'layer', 'backbone', 'django', 'tastypie']","['small', 'compatibility', 'layer', 'backbone', 'django', 'tastypie', 'together', 'happily']",['css python'],a small compatibility layer to make backbone js and django tastypie work together happily
+643902,"['clone', 'panic', 'status', 'board']","['clone', 'panic', 'status', 'board']",['css javascript'],a php clone of panic s status board
+925028,"['jsperf', 'source']","['jsperf', 'source']",['php shell'],jsperf com source code
+22551498,"['graphic', 'engine']","['graphic', 'engine']",['c++ perl shell'],gpl v d and d graphics engine in verilog
+13497609,['library'],['library'],['coffeescript css'],svg icons library for the web
+18763996,"['eksperter', 'landsbyen']","['eksperter', 'landsbyen']",['c objective-c'],code for tpg eksperter i team vr landsbyen
+4363835,"['example', 'parisi', 'webgl']","['example', 'parisi', 'webgl', 'running']",['css php'],code examples for tony parisi s webgl up and running
+8171899,"['pattern', 'module', 'responsive', 'email']","['collection', 'pattern', 'module', 'responsive', 'email']",['javascript ruby'],a collection of patterns modules for responsive emails
+26020081,['github'],"['project', 'please', 'github', 'espressif']",['c++ shell'],this project is not please use https and and github com and espressif and esp at
+4242986,"['library', 'target', 'local', 'worker']","['library', 'target', 'local', 'worker', 'replaced', 'serviceworkers']",['css python shell'],an ajax library that can target local js code and web workers replaced by serviceworkers
+5745699,"['development', 'environment']","['development', 'environment', 'mruby']",['objective-c shell'],ios app development environment on mruby
+3556021,"['default', 'jquery', 'mobile']","['extending', 'default', 'jquery', 'mobile']",['javascript ruby'],extending the default jquery mobile icons
+2397102,"['flask', 'template']","['flask', 'template', 'heroku']",['javascript python'],an easy to use flask template for heroku
+23211861,"['sketch', 'plugins', 'developer']","['sketch', 'plugins', 'developer']",['css javascript'],a set of tools for sketch app plugins developers
+10722073,"['library', 'parallax', 'effect', 'screen']","['parallax', 'library', 'reproduces', 'parallax', 'effect', 'screen']",['c ruby'],parallax is an ios library that reproduces the parallax effect of the ios home screen
+3580227,"['automation', 'acceptance']","['automation', 'yuitest', 'driven', 'acceptance', 'hooked', 'jenkins']",['ruby shell'],ui automation and yuitest driven acceptance tests that can be hooked into jenkins
+380244,['paste'],"['screenshot', 'paste', 'somewhere', 'second', 'later']",['php shell'],take a screenshot in os x paste the url somewhere a second later
+1672983,"['reprap', 'printer', 'similar', 'device']","['firmware', 'reprap', 'printer', 'similar', 'device']",['c python'],firmware for reprap printers and similar devices
+18433946,"['insert', 'theme']","['insert', 'theme']",['groovy shell'],insert star wars theme here
+19729445,"['presentation', 'material']","['presentation', 'material', 'presented']",['c css'],presentation materials presented at c and and now
+2074345,"['terminal', 'plugin', 'quick', 'access', 'terminal', 'window', 'quake', 'style']","['terminal', 'plugin', 'quick', 'access', 'terminal', 'window', 'quake', 'style']",['c c++'],terminal app plugin for quick access to terminal window quake style
+1848993,"['simple', 'virtual', 'console']","['simple', 'virtual', 'console']",['java shell'],a simple virtual game console
+436646,"['webgl', 'graphic', 'library']","['webgl', 'graphic', 'library']",['c python shell'],a javascript webgl graphics library
+18793593,"['private', 'openssl', 'vulnerability']","['extracting', 'server', 'private', 'using', 'heartbleed', 'openssl', 'vulnerability']",['javascript python'],extracting server private key using heartbleed openssl vulnerability
+191204,"['engine', 'lightweight', 'comet', 'server', 'support', 'server', 'module']","['engine', 'lightweight', 'streaming', 'server', 'fully', 'written', 'provides', 'making', 'faster', 'comet', 'server', 'support', 'server', 'module', 'spidermonkey']",['c++ perl shell'],ajax push engine lightweight http streaming server fully written in c it provides best making it the faster comet server to date ape now support server side javascript modules through spidermonkey
+4955809,['language'],['language'],['c++ perl shell'],a new language for the web
+26303982,"['kernel', 'driver', 'example', 'exploit', 'public', 'technique']","['kernel', 'driver', 'practice', 'writing', 'exploit', 'example', 'exploit', 'using', 'public', 'technique']",['c objective-c'],a kernel driver to practice writing exploits as well as some example exploits using public techniques
+10223466,['ember'],"['framework', 'keeping', 'ember']",['ruby shell'],a framework for keeping your ember js apps in sync
+19210035,"['wrapper', 'native']","['wrapper', 'chartjs', 'easily', 'build', 'animated', 'chart', 'leveraging', 'power', 'native']",['javascript ruby'],an ios wrapper for chartjs easily build animated charts by leveraging the power of native obj c code
+7973883,"['hacker', 'minimalistic']","['hacky', 'provides', 'browsing', 'hacker', 'clean', 'minimalistic']",['css javascript'],hacky for mac provides browsing hacker news in a clean and minimalistic way
+15382504,['science'],"['start', 'science', 'minute']",['ruby shell'],start doing data science in minutes
+10067521,['visualization'],['visualization'],['css perl shell'],big data visualization on the web
+1433212,"['developer', 'network', 'bonjour']","['iphone', 'developer', 'easier', 'share', 'network', 'bonjour', 'configuration', 'needed']",['c ruby'],a tool that will make a lot of iphone and ipad developers life easier it shares your app over the air in a wifi network bonjour is used and no configuration is needed
+7378221,"['control', 'presentation']","['control', 'presentation']",['css php'],control html presentations with node js
+21110642,"['navigation', 'viewer']","['twitter', 'navigation', 'viewer']",['c ruby shell'],a twitter like navigation page viewer
+4155910,"['powerful', 'framework']","['powerful', 'framework', 'android']",['perl shell'],a powerful test framework for android
+14538298,"['dynamic', 'dalvik', 'instrumentation', 'toolkit']","['dynamic', 'dalvik', 'instrumentation', 'toolkit']",['java shell'],ddi dynamic dalvik instrumentation toolkit
+517799,"['wrapper', 'iphone', 'simulator', 'binary']","['wrapper', 'iphone', 'simulator', 'binary']",['c shell'],gui mac wrapper for iphone simulator binaries
+6846202,"['opengl', 'iphone', 'tutorial']","['opengl', 'iphone', 'tutorial']",['c objective-c'],opengl es iphone tutorial
+5430985,"['toaster', 'accessory', 'sample']","['toaster', 'accessory', 'sample']",['c c++'],talk to your toaster accessory sample code
+3959739,[],['based'],['coffeescript css'],a web based clojure ide
+4492414,"['iphone', 'controller', 'control', 'music', 'playback']","['iphone', 'controller', 'visualize', 'control', 'music', 'playback']",['css ruby shell'],an iphone view controller to visualize and control music playback
+37399,"['slick', 'visualization', 'source']","['slick', 'visualization', 'source']",['python shell'],a fork of a slick visualization for your source code
+19249207,"['simple', 'basic', 'usage', 'animation', 'framework']","['simple', 'demonstrating', 'basic', 'usage', 'animation', 'framework']",['c++ objective-c'],a simple app demonstrating basic usage of the pop animation framework
+809939,"['reference', 'release', 'objective']","['zeroing', 'reference', 'retain', 'release', 'objective']",['c python'],zeroing weak references for retain and release objective c
+11345218,"['steganography', 'service']","['steganography', 'service']",['css python'],jpeg steganography web service
+2710214,"['masonry', 'layout']","['deprecated', 'masonry', 'layout', 'without', 'framework']",['css shell'],deprecated masonry layouts without any frameworks
+2217648,"['django', 'integration']","['django', 'integration']",['groovy shell'],drop in neoj and django integration
+24029504,"['beautiful', 'color']","['beautiful', 'color', 'uigradients']",['ruby shell'],ios beautiful colors from uigradients
+19141566,"['netgrafio', 'visualize']","['netgrafio', 'visualize', 'network']",['css python'],netgrafio visualize your network
+26640587,"['runtime', 'interface']","['based', 'profiler', 'runtime', 'interface']",['css shell'],gui based profiler and runtime interface for node js
+1266256,['browser'],"['exercise', 'browser', 'condition']",['css shell'],exercise web browsers under game like conditions
+15954494,"['management', 'application', 'wordpress', 'manager']","['ordering', 'management', 'application', 'wordpress', 'manager']",['javascript perl'],menu ordering and management application like wordpress menu manager
+12450345,"['github', 'smarty', 'readme']","['github', 'laruence', 'smarty', 'readme']",['javascript shell'],yaf https and and github com and laruence and php yaf smarty readme md
+3776758,"['static', 'generator']","['jekyll', 'inspired', 'static', 'generator']",['css javascript'],jekyll inspired static site generator in clojure
+5125104,"['webrtc', 'audio', 'jingle', 'protocol']","['webrtc', 'audio', 'jingle', 'protocol', 'brought', 'android']",['c++ python shell'],webrtc audio and jingle protocol brought to ios and android
+1357575,"['performance', 'server', 'click', 'installer']","['nginx', 'percona', 'performance', 'server', 'click', 'installer']",['perl python shell'],mac and nginx and percona and php a high performance web server in a one click installer
+4564589,"['young', 'child']","['programming', 'language', 'young', 'child']",['css javascript'],a programming language for young children
+20227249,"['collection', 'layout']","['collection', 'layout', 'something', 'percent', 'driven', 'parallax', 'image']",['c ruby shell'],dead a collection view layout and cell that can do something percent driven parallax for image
+3084067,"['xuggle', 'xuggler']","['xuggle', 'xuggler', 'video', 'deprecated']",['c++ perl shell'],xuggle s xuggler java api for video deprecated
+6118476,"['application', 'bootstrap', 'template']","['bootstrappers', 'application', 'using', 'bootstrap', 'template', 'goody']",['css javascript'],bootstrappers is the base rails application using bootstrap template and other goodies
+569717,"['fullcalendar', 'jquery', 'plugin', 'arshaw', 'backend', 'resize', 'event']","['using', 'fullcalendar', 'jquery', 'plugin', 'arshaw', 'fullcalendar', 'backend', 'resize', 'event']",['css ruby'],using fullcalendar jquery plugin http and and arshaw com and fullcalendar and with rails backend you can resize events
+2473165,"['anonymous', 'overlay']","['provably', 'anonymous', 'overlay']",['c python shell'],provably anonymous overlay
+10259153,"['uncover', 'refactor', 'opportunity']","['inside', 'uncover', 'refactor', 'opportunity']",['css javascript'],peek inside css to uncover refactor opportunities
+4603961,"['project', 'management', 'sprintapp']","['longer', 'maintained', 'project', 'management', 'tracking', 'sprintapp', 'simple', 'simple', 'elegant', 'making', 'organization']",['css javascript'],no longer maintained project management and time tracking should be easy sprintapp is simple to simple to and elegant making you look like a hero in your organization
+20664165,"['source', 'engine']","['source', 'engine']",['css php'],source code from the book html game engines
+7146668,"['aware', 'elasticsearch', 'front']","['aware', 'elasticsearch', 'front']",['css shell'],a json aware elasticsearch front end
+1052582,"['admin', 'interface', 'builder']","['admin', 'interface', 'builder']",['css ruby'],admin interface builder
+3978374,"['mysql', 'syncer', 'parse', 'mysql', 'binlog']","['mysql', 'syncer', 'project', 'parse', 'mysql', 'binlog', 'mongodb', 'database']",['c++ shell'],mysql syncer is a project which parse mysql binlog and sync to other such as mongodb and any other databases
+9270423,"['jekyll', 'login', 'admin']","['blogging', 'interface', 'jekyll', 'login', 'admin', 'admin']",['javascript ruby'],zen like blogging interface for jekyll login admin and admin
+11489122,"['library', 'oculus']","['utility', 'library', 'oculus']",['css javascript'],a utility and javascript library to link the oculus rift with the web
+392480,"['static', 'generator']","['static', 'generator']",['css javascript shell'],a tiny static web site generator
+78489,"['source', 'billing']","['source', 'billing', 'invoicing']",['perl python shell'],open source billing and invoicing
+2409552,"['source', 'codecampo']","['closed', 'source', 'codecampo']",['css javascript'],closed source code of http and and codecampo com
+23485024,"['example', 'swarm']","['example', 'swarm', 'react', 'project']",['css shell'],an example swarm and react project
+5174736,"['objective', 'compiler']","['objective', 'compiler']",['objective-c shell'],clojure to objective c compiler
+18184579,"['friendly', 'library', 'animate', 'button', 'bounce', 'effect', 'project', 'example', 'various', 'implementation']","['asoanimatedbutton', 'storyboard', 'friendly', 'library', 'animate', 'button', 'state', 'bounce', 'effect', 'refer', 'project', 'example', 'various', 'implementation']",['c ruby shell'],asoanimatedbutton is a storyboard friendly library to animate button to have a two state or bounce effect refer to its project examples for its various implementations
+18970475,"['borderless', 'multi', 'engine', 'player']","['borderless', 'multi', 'engine', 'player']",['css python shell'],borderless multi engine player
+2856799,"['toolkit', 'official']","['toolkit', 'twitter', 'official']",['javascript ruby'],and js toolkit from twitter official sass port
+490514,"['iphone', 'application']","['serving', 'statistic', 'iphone', 'application', 'solaris', 'freebsd']",['c shell'],serving statistics to the iphone application from solaris and freebsd
+11489368,"['research', 'prototype', 'dryadlinq', 'parallel', 'framework', 'hadoop']","['research', 'prototype', 'dryad', 'dryadlinq', 'parallel', 'framework', 'running', 'hadoop']",['c++ objective-c'],this is a research prototype of the dryad and dryadlinq data parallel processing frameworks running on hadoop yarn
+5619641,"['enterprise', 'development', 'mobile']","['reilly', 'enterprise', 'development', 'desktop', 'mobile']",['javascript ruby shell'],this is repo of the o reilly s enterprise web development from desktop to mobile book
+15947924,"['awesome', 'ionicons']","['ioniconview', 'based', 'awesome', 'provided', 'ionicons']",['groovy shell'],ioniconview based on the awesome icons provided by ionicons com
+6473894,"['powerful', 'android', 'dictionary']","['powerful', 'android', 'dictionary']",['groovy shell'],this will be the most powerful android dictionary
+9170177,"['mirror', 'behaviour', 'google', 'cloud', 'endpoint', 'enable', 'glass', 'explorer']","['trying', 'reproduce', 'mirror', 'behaviour', 'using', 'google', 'cloud', 'endpoint', 'enable', 'glass', 'explorer', 'possible']",['css javascript'],trying to reproduce the mirror api behaviour using google cloud endpoints to enable non glass explorers to get an idea of what will be possible
+28255830,"['access', 'xiaomi', 'miband']","['access', 'xiaomi', 'miband', 'android', 'bluetooth']",['c c++'],access xiaomi miband from android and via bluetooth le
+2793055,"['desura', 'client', 'github', 'desura', 'client']","['desura', 'client', 'potentially', 'github', 'desura', 'desura', 'newest', 'client']",['css javascript shell'],lgpl repo for desura client potentially out of date see https and and github com and desura and desura app for newest lgpl client
+1759706,"['official', 'libmv', 'codebase']","['official', 'libmv', 'codebase']",['c python shell'],official libmv codebase
+3167115,"['sencha', 'touch', 'facebook', 'mobile']","['sliding', 'sencha', 'touch', 'inspired', 'facebook', 'mobile']",['css ruby'],sliding side menu for sencha touch apps inspired by facebook s mobile app menu
+17685412,['ember'],"['ember', 'instead']",['css ruby'],see ember cli instead
+20036674,"['collection', 'subclass']","['collection', 'subclass', 'present', 'skewed', 'image']",['c ruby shell'],an ios collection view subclass to present a list of skewed images
+346863,"['source', 'repository', 'flexunit', 'project']","['source', 'repository', 'flexunit', 'project', 'project']",['css javascript'],open source repository for flexunit project for actionscript and flex projects
+11630463,"['extreme', 'scale', 'transaction']","['extreme', 'scale', 'distributed', 'transaction']",['perl python shell'],extreme scale distributed transaction processing
+11835299,"['everyday', 'rspec', 'edition']","['everyday', 'testing', 'rspec', 'edition']",['css javascript'],everyday rails testing with rspec rails edition
+2900119,"['project', 'requirejs', 'modular', 'htmlboilerplate']","['project', 'combining', 'angularjs', 'requirejs', 'modular', 'htmlboilerplate']",['css ruby shell'],a seed project combining angularjs as the app requirejs for modular htmlboilerplate for good with sass to make css fun
+14001976,"['visualization', 'convolutional', 'network']","['visualization', 'convolutional', 'network']",['css python shell'],visualization tools for deep convolutional networks
+16273548,"['experimental', 'gradle', 'plugin', 'generates', 'compile', 'format', 'string', 'builder']","['experimental', 'gradle', 'plugin', 'generates', 'compile', 'format', 'string', 'builder']",['groovy shell'],an experimental gradle plugin which generates compile safe format string builders
+6557129,"['postgres', 'visibility']","['postgres', 'visibility']",['css ruby'],postgres visibility
+3732720,"['graph', 'analytics', 'engine']","['graph', 'analytics', 'engine']",['groovy shell'],graph analytics engine
+565834,['rubinius'],"['object', 'oriented', 'programming', 'language', 'inspired', 'rubinius']",['javascript ruby'],fancy is a object oriented programming language inspired by io and erlang that runs on the rubinius vm
+15572279,['raspberry'],"['implementation', 'miracast', 'raspberry']",['perl python shell'],an implementation of miracast on the raspberry pi
+155943,"['standard', 'serializer', 'check', 'github', 'freshest', 'version']","['igbinary', 'replacement', 'standard', 'serializer', 'check', 'github', 'igbinary', 'igbinary', 'freshest', 'version']",['php shell'],igbinary is a drop in replacement for the standard php serializer check https and and github com and igbinary and igbinary for the freshest version
+162380,"['personal', 'emacs', 'configuration']","['personal', 'emacs', 'configuration']",['c c++ shell'],my personal emacs configuration
+17558629,['framework'],"['framework', 'gentleman']",['javascript ruby'],sass framework for gentlemen
+15803047,"['experimental', 'application', 'logic']","['experimental', 'application', 'explore', 'decoupling', 'logic']",['javascript ruby'],experimental rails application to explore decoupling app logic from rails
+22482112,"['effective', 'wordpress']","['rocket', 'easiest', 'effective', 'parse', 'wordpress']",['c ruby'],rocket the easiest and most effective way to parse your wordpress blog s feed on ios
+1526137,"['powerful', 'runner', 'application', 'process', 'orchestration', 'framework', 'integration', 'process', 'dependency']","['whiskey', 'powerful', 'runner', 'application', 'process', 'orchestration', 'framework', 'running', 'integration', 'service', 'process', 'dependency', 'easier']",['css shell'],whiskey is a powerful test runner for node js applications and a process orchestration framework which makes running integration tests with a lot of service and process dependencies easier
+1106865,['example'],"['example', 'using', 'backbone', 'jquery', 'mobile']",['coffeescript css'],example app of using backbone with jquery mobile
+1291643,"['render', 'tappable', 'hyperlink']","['render', 'using', 'tappable', 'hyperlink', 'without', 'webview']",['c c++'],an ios view that renders text using core text with tappable hyperlinks without a webview
+236374,"['touch', 'popular', 'qbasic']","['iphone', 'touch', 'popular', 'qbasic', 'spunk']",['javascript ruby shell'],an iphone or ipod touch port of the popular old qbasic game with spunk
+1013534,"['static', 'generator', 'gollum', 'wikis']","['static', 'generator', 'gollum', 'wikis']",['css javascript'],static site generator for gollum wikis
+5863090,"['companion', 'library']","['companion', 'library', 'simplecv']",['css python'],a javascript and coffeescript companion library to simplecv
+726492,"['source', 'server']","['railo', 'source', 'server']",['css perl shell'],railo is an open source cfml server
+1787327,['creation'],"['webgl', 'focus', 'creation', 'shaders']",['c python shell'],glow is a webgl which focuses on easy creation and use of shaders
+943145,"['early', 'actor', 'framework']","['early', 'actor', 'framework', 'since', 'abandoned']",['javascript ruby shell'],an early actor framework for long since abandoned by me
+1361937,"['lightweight', 'server', 'bundler']","['goldberg', 'lightweight', 'server', 'written', 'worry', 'bundler']",['css javascript shell'],goldberg is a lightweight ci server written in ruby which worries about bundler rvm so that you don t have to
+3536276,"['model', 'handler', 'framework', 'modern', 'development']","['object', 'oriented', 'model', 'handler', 'framework', 'modern', 'development']",['ruby shell'],a object oriented model view handler framework for modern web development in net
+4276813,"['delay', 'single', 'multi', 'sensor', 'fusion', 'framework']","['delay', 'single', 'multi', 'sensor', 'fusion', 'framework', 'based']",['c shell'],time delay single and multi sensor fusion framework based on an ekf
+8495284,"['objective', 'framework', 'application']","['objective', 'framework', 'building', 'application']",['c ruby shell'],objective c framework for building app net applications on ios and os x
+6116408,"['scalable', 'standard', 'court', 'image']","['scalable', 'based', 'playing', 'standard', 'court', 'image']",['coffeescript css'],scalable css based playing cards with standard court images for face cards
+701272,['system'],['system'],['c++ ruby'],an unix like toy system
+14055973,"['custom', 'implementation']","['custom', 'implementation', 'shareactionprovider', 'google', 'allows', 'sharing', 'dynamically', 'generated']",['groovy shell'],custom implementation of the shareactionprovider by google which allows sharing of dynamically generated data
+3393947,"['lightweight', 'framework', 'openresty', 'openresty']","['moochine', 'simple', 'lightweight', 'framework', 'based', 'openresty', 'openresty']",['python shell'],moochine a simple and lightweight web framework based on openresty http and and openresty org
+57220,"['launchd', 'darwin', 'system']","['launchd', 'darwin', 'system']",['c++ shell'],a launchd port for non darwin systems
+1972573,"['joshfire', 'framework']","['joshfire', 'framework']",['css python shell'],the joshfire framework
+6982392,"['visual', 'sedimentation', 'novel', 'design', 'metaphor', 'update', 'visualization', 'physical', 'sedimentation', 'compact', 'layer', 'sedimentation', 'visible', 'result', 'process']","['visual', 'sedimentation', 'novel', 'design', 'metaphor', 'progressively', 'generates', 'update', 'visualization', 'streaming', 'inspired', 'process', 'physical', 'sedimentation', 'process', 'result', 'object', 'falling', 'gravity', 'aggregate', 'compact', 'layer', 'process', 'understood', 'since', 'environment', 'shaped', 'sedimentation', 'river', 'visible', 'result', 'process']",['css php'],visual sedimentation is a novel design metaphor that progressively generates and updates visualizations of streaming inspired by the process of physical sedimentation this process is the result of objects falling due to gravity that aggregate into compact layers over time the process is well understood since our environment is shaped by sedimentation hills or rivers are the visible result of this long process
+3338650,['inline'],"['terminal', 'supporting', 'inline']",['css python'],terminal supporting inline html
+11584509,"['litecoin', 'scrypt', 'miner', 'memory']","['litecoin', 'scrypt', 'miner', 'implemented', 'memory']",['c python shell'],a litecoin scrypt miner implemented with fpga on chip memory
+9929721,"['idiomatic', 'sample', 'application']","['idiomatic', 'sample', 'application']",['css javascript'],idiomatic ruby port of the ddd sample application
+2748766,['webgl'],"['webgl', 'landscaping', 'erosion']",['c css'],webgl gpu landscaping and erosion
+16929186,"['client', 'kandan', 'kandanapp']","['clojurescript', 'client', 'kandan', 'kandanapp']",['css javascript shell'],clojurescript and om client for kandan http and and kandanapp com and
+479583,['release'],"['storytlr', 'opensource', 'lifestreaming', 'microblogging', 'platform', 'written', 'default', 'branch', 'master', 'development', 'stable', 'release', 'downloads']",['css perl shell'],storytlr is an opensource lifestreaming and microblogging platform written in php note the default branch master is the development if you need a stable see the release xx or downloads
+1695817,"['quicklook', 'plugin', 'generate', 'thumbnail', 'image']","['deprecated', 'quicklook', 'plugin', 'generate', 'thumbnail', 'preview', 'image']",['c++ objective-c'],deprecated quicklook plugin to generate thumbnails and previews for webp images
+2981523,"['marionette', 'reference', 'basic', 'gmail']","['deprecated', 'marionette', 'reference', 'cloning', 'basic', 'gmail', 'feature']",['css ruby'],deprecated a marionette js reference cloning basic gmail features
+8209367,"['development', 'environment']","['handcraft', 'development', 'environment']",['javascript ruby shell'],handcraft your development environment
+4061543,"['toggle', 'framework']","['spicy', 'feature', 'toggle', 'framework']",['css javascript'],the spicy feature toggle framework for rails
+1876011,"['torch', 'state', 'machine', 'learning', 'algorithm']","['torch', 'state', 'machine', 'learning', 'algorithm']",['javascript ruby shell'],torch state of the art machine learning algorithms
+13670842,"['generation', 'bitcoin', 'miner', 'public', 'domain']","['second', 'generation', 'bitcoin', 'miner', 'public', 'domain']",['c++ python shell'],second generation bitcoin miner gplv and public domain
+1570880,"['portable', 'distribution', 'binding']","['portable', 'distribution', 'luajit', 'precompiled', 'library', 'binding']",['c++ perl shell'],portable distribution of luajit with precompiled libraries and ffi bindings
+10490779,"['social', 'network']","['video', 'social', 'network', 'built', 'jquery']",['css javascript'],a video social network built with ruby on and jquery
+1638055,"['contains', 'example', 'laird', 'blake', 'meike', 'masumi', 'nakamura']","['contains', 'example', 'reilly', 'programming', 'android', 'zigured', 'laird', 'blake', 'meike', 'masumi', 'nakamura']",['c perl shell'],this repo contains example code for o reilly s programming android by zigured laird blake meike and masumi nakamura
+4732913,['google'],"['presentation', 'google']",['javascript ruby shell'],my the web can do that presentation from google i and o
+4584770,"['sublime', 'plugin', 'remote']","['sublime', 'plugin', 'remote', 'programming']",['c shell'],sublime text plugin for remote pair programming
+12973366,"['cockburn', 'hexagonal']","['sandbox', 'experimenting', 'cockburn', 'hexagonal', 'symfony']",['ruby shell'],sandbox for experimenting with cockburn s hexagonal ideas with symfony
+15805755,"['natural', 'selection']","['natural', 'selection']",['css perl shell'],natural selection mod for half life
+2553402,['example'],"['referred', 'example', 'written', 'learning', 'purpose']",['css python shell'],this repo has code which can be referred as example code these code have been written for learning purpose
+18152810,"['hotel', 'management', 'software']","['hotel', 'management', 'software']",['css javascript'],hotel management software
+7567351,"['source', 'raspberry']","['source', 'raspberry']",['css javascript shell'],source code for raspberry io
+775437,"['simple', 'jslint', 'textmate']","['simple', 'jslint', 'jshint', 'textmate', 'feeling', 'style', 'development', 'branch', 'latest']",['css ruby'],simple jslint or jshint in textmate hurt your feelings in style see the development branch for the latest
+996607,"['modal', 'datepicker']","['modal', 'datepicker']",['ruby shell'],semi modal view datepicker for ios
+5506831,"['information', 'visualization']","['information', 'visualization']",['css shell'],information visualization
+8407151,"['flash', 'video']","['based', 'flash', 'video', 'provides', 'needed', 'functionality', 'nowadays']",['css shell'],osmf and flex based flash video which provides most needed functionality in nowadays
+4168869,"['source', 'nanotech']","['source', 'nanotech']",['c++ perl shell'],open source nanotech cad
+19958672,"['collaborative', 'editor']","['backed', 'collaborative', 'editor', 'built', 'meteor']",['css javascript'],git backed real time collaborative editor built with meteor
+13437311,['device'],"['transfer', 'using', 'microphone', 'speaker', 'device']",['c c++'],transfer data using microphone and speaker on ios devices
+16272883,"['active', 'record', 'implementation']","['lightweight', 'active', 'record', 'implementation']",['c ruby shell'],a lightweight active record implementation for core data
+10716140,"['admin', 'panel']","['admin', 'panel', 'laravel']",['php shell'],admin panel for laravel
+7576377,['protocol'],"['helpful', 'robot', 'written', 'support', 'different', 'messaging', 'protocol']",['javascript ruby shell'],ybot is a helpful chat robot written with erlang which supports different messaging protocols xax
+10783411,"['program', 'analysis', 'machine']","['implementation', 'program', 'analysis', 'focus', 'machine']",['perl python'],implementations of program analysis tools with a focus on machine code
+9554600,"['hotspot', 'dashboard']","['hotspot', 'dashboard', 'graphite']",['css ruby'],hotspot dashboard for graphite
+4740741,"['unity', 'sysfont', 'unityd', 'plugin', 'dynamic', 'mobile', 'device']","['unity', 'sysfont', 'unityd', 'plugin', 'rendering', 'dynamic', 'using', 'available', 'mobile', 'device', 'computer']",['javascript ruby'],unity sysfont is a unityd plugin for rendering dynamic text using the fonts available on the mobile device and computer
+15691424,"['photoshop', 'image', 'pngquant', 'compression']","['photoshop', 'saving', 'image', 'pngquant', 'compression']",['c objective-c'],photoshop plug in for saving png images with pngquant compression
+4377845,['writer'],"['writer', 'ported', 'webkit']",['css ruby'],ia writer ported to javascript for webkit
+1911136,"['wordpress', 'framework']","['wordpress', 'framework']",['css javascript'],an html wordpress framework
+19217144,['instant'],"['platform', 'behind', 'instant']",['css python shell'],the platform behind a free instant pdf host
+42235,"['rmmseg', 'interface']","['rmmseg', 'interface']",['c python'],rmmseg cpp with python interface
+9499422,"['apache', 'flink']","['stratosphere', 'apache', 'flink']",['css javascript shell'],stratosphere is now apache flink
+9285941,"['display', 'navigable']","['display', 'navigable']",['css php'],displays xkcd time in a navigable way
+2366684,"['personal', 'android']","['personal', 'android', 'official']",['c++ objective-c shell'],a personal repo for work on vlc android not official
+2932378,['realtime'],"['realtime', 'notification']",['javascript ruby shell'],html realtime push notifications

@@ -1,0 +1,51 @@
+label_id,repository_count,cluster_topics,languages,combinations
+6,3,['source'],"['c', 'shell', 'javascript']","{'javascript shell': 2, 'c shell': 1}"
+30,3,['server'],"['javascript', 'shell', 'objective-c', 'perl']","{'javascript shell': 2, 'objective-c perl shell': 1}"
+7,3,['android'],"['assembly', 'c++', 'shell', 'javascript', 'java']","{'assembly c++ shell': 1, 'javascript shell': 1, 'java shell': 1}"
+45,1,['textmate plugin cocoa'],"['c', 'perl']",{'c perl': 1}
+33,1,['reverse engineer'],"['c', 'objective-c']",{'c objective-c': 1}
+12,53,['collection stanford online introduction artificial intelligence class'],"['python', 'shell', 'c', 'ruby', 'perl', 'objective-c', 'c++', 'java', 'javascript', 'coffeescript', 'php']","{'c c++': 6, 'python shell': 5, 'ruby shell': 5, 'perl shell': 3, 'c objective-c shell': 3, 'javascript perl shell': 3, 'c shell': 3, 'objective-c perl shell': 3, 'c java': 2, 'javascript shell': 2, 'c++ java': 2, 'javascript python': 2, 'c ruby': 1, 'javascript ruby': 1, 'c objective-c perl': 1, 'coffeescript javascript': 1, 'c++ shell': 1, 'c++ javascript': 1, 'c javascript shell': 1, 'c javascript': 1, 'c objective-c': 1, 'php shell': 1, 'c perl shell': 1, 'java javascript shell': 1, 'c python': 1, 'perl python': 1}"
+47,8,['hookable server'],"['ruby', 'shell', 'python', 'perl', 'php', 'c', 'javascript']","{'ruby shell': 2, 'python ruby shell': 1, 'perl python shell': 1, 'perl ruby': 1, 'python shell': 1, 'php ruby': 1, 'c javascript': 1}"
+0,1,['server cloudera hadoop distribution'],"['python', 'shell']",{'python shell': 1}
+41,1,['service remote service'],"['c', 'ruby']",{'c ruby': 1}
+16,1,['desktop hardware'],"['c', 'javascript', 'python']",{'c javascript python': 1}
+10,7,['multitouch framework'],"['php', 'ruby', 'c', 'c++', 'shell', 'python', 'javascript']","{'php ruby': 1, 'c c++ shell': 1, 'php shell': 1, 'c ruby': 1, 'python shell': 1, 'javascript python': 1, 'c shell': 1}"
+25,1,['flask'],"['coffeescript', 'javascript']",{'coffeescript javascript': 1}
+5,4,['headless webkit browser interface'],"['javascript', 'ruby', 'c', 'shell', 'python']","{'javascript ruby': 1, 'c shell': 1, 'python ruby shell': 1, 'c javascript python': 1}"
+38,2,['packet sniffer'],"['c', 'c++', 'shell']","{'c c++ shell': 1, 'c c++': 1}"
+35,1,['imagemagick library'],"['c++', 'perl', 'shell']",{'c++ perl shell': 1}
+48,1,['historical repository'],"['javascript', 'shell']",{'javascript shell': 1}
+31,1,['opencv'],"['c', 'ruby']",{'c ruby': 1}
+9,3,['common function application'],"['c', 'perl', 'shell', 'java', 'javascript', 'php', 'python']","{'c perl shell': 1, 'java javascript': 1, 'php python': 1}"
+14,1,['debug'],"['c', 'shell']",{'c shell': 1}
+22,1,['runtime'],"['javascript', 'shell']",{'javascript shell': 1}
+4,4,['actor graphicl database'],"['javascript', 'shell', 'c', 'c++', 'coffeescript']","{'javascript shell': 2, 'c c++': 1, 'coffeescript javascript': 1}"
+43,3,['iphone opengl tutorial series'],"['javascript', 'ruby', 'c', 'python']","{'javascript ruby': 1, 'c ruby': 1, 'c python': 1}"
+2,2,['compiler'],"['java', 'javascript', 'shell', 'coffeescript']","{'java javascript shell': 1, 'coffeescript javascript': 1}"
+1,1,['language'],"['python', 'ruby', 'shell']",{'python ruby shell': 1}
+27,1,['luajit'],"['c++', 'perl', 'shell']",{'c++ perl shell': 1}
+46,2,['google engine'],"['javascript', 'shell', 'python']","{'javascript shell': 1, 'python shell': 1}"
+42,1,['github repository github'],"['php', 'ruby']",{'php ruby': 1}
+34,1,['framework'],"['javascript', 'ruby']",{'javascript ruby': 1}
+23,1,['pilgrim'],"['python', 'shell']",{'python shell': 1}
+19,1,['training'],"['c', 'python']",{'c python': 1}
+37,1,['application'],"['perl', 'ruby']",{'perl ruby': 1}
+20,1,['package'],"['c', 'javascript']",{'c javascript': 1}
+8,1,['browser'],"['c', 'shell']",{'c shell': 1}
+49,2,['shiftspace project'],"['python', 'shell']",{'python shell': 2}
+21,1,['motion toolkit'],"['c++', 'shell']",{'c++ shell': 1}
+39,2,['simple framework'],"['java', 'javascript', 'shell']","{'java javascript': 1, 'java javascript shell': 1}"
+36,1,['simple cocosd'],"['c', 'c++']",{'c c++': 1}
+11,1,['native'],"['c', 'objective-c']",{'c objective-c': 1}
+15,1,['device'],"['c', 'javascript', 'python']",{'c javascript python': 1}
+17,1,['cramp'],"['python', 'ruby', 'shell']",{'python ruby shell': 1}
+40,1,['openal'],"['c', 'shell']",{'c shell': 1}
+32,1,['default configuration'],"['python', 'ruby', 'shell']",{'python ruby shell': 1}
+3,1,['example'],"['python', 'shell']",{'python shell': 1}
+29,1,['system'],"['c++', 'objective-c', 'shell']",{'c++ objective-c shell': 1}
+13,1,['tokyotyrant'],"['c', 'shell']",{'c shell': 1}
+26,1,['backbone'],"['ruby', 'shell']",{'ruby shell': 1}
+28,1,['editor'],"['c', 'c++']",{'c c++': 1}
+24,1,['canvas library'],"['java', 'shell']",{'java shell': 1}
+44,1,['template'],"['coffeescript', 'javascript']",{'coffeescript javascript': 1}
+18,1,['convenience class'],"['c', 'shell']",{'c shell': 1}

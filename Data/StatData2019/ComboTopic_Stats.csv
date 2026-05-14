@@ -1,0 +1,101 @@
+label_id,repository_count,cluster_topics,languages,combinations
+0,1,['toastr'],"['css', 'javascript']",{'css javascript': 1}
+1,7,['library'],"['javascript', 'css', 'html', 'objective-c', 'ruby', 'swift', 'php', 'go']","{'objective-c ruby swift': 3, 'javascript': 1, 'css html javascript': 1, 'php': 1, 'go': 1}"
+2,1,['wechat public'],"['dockerfile', 'makefile', 'shell']",{'dockerfile makefile shell': 1}
+3,2,['calendar'],"['objective-c', 'ruby', 'swift']",{'objective-c ruby swift': 2}
+4,6,['framework'],"['javascript', 'makefile', 'python', 'shell', 'objective-c', 'ruby', 'swift', 'html', 'c', 'go']","{'javascript': 1, 'makefile python shell': 1, 'objective-c ruby swift': 1, 'html javascript': 1, 'c makefile': 1, 'go shell': 1}"
+5,8,['material'],"['css', 'html', 'javascript', 'typescript', 'java', 'shell']","{'css html javascript': 4, 'css html javascript typescript': 1, 'css': 1, 'java': 1, 'shell': 1}"
+6,1,['modern front'],['javascript'],{'javascript': 1}
+7,1,['permission manager'],['java'],{'java': 1}
+8,1,['complex'],"['css', 'javascript', 'typescript']",{'css javascript typescript': 1}
+9,1,['researcher'],"['python', 'shell']",{'python shell': 1}
+10,6,['component'],"['javascript', 'python', 'html', 'css', 'objective-c', 'ruby']","{'css html javascript': 2, 'javascript python': 1, 'html javascript': 1, 'javascript': 1, 'objective-c ruby': 1}"
+11,3,['medium'],"['css', 'javascript', 'html']","{'css html javascript': 2, 'css javascript': 1}"
+12,1,['essential'],"['html', 'java']",{'html java': 1}
+13,1,['source seashore'],['python'],{'python': 1}
+14,5,['toolkit'],"['css', 'html', 'javascript', 'makefile', 'python', 'shell']","{'css html javascript makefile': 2, 'makefile python shell': 1, 'shell': 1, 'css html javascript shell': 1}"
+15,1,['dashboard'],"['css', 'html', 'javascript', 'shell']",{'css html javascript shell': 1}
+16,291,['simple'],"['css', 'html', 'javascript', 'shell', 'makefile', 'typescript', 'c++', 'python', 'ruby', 'swift', 'go', 'java', 'php', 'objective-c', 'cmake', 'dockerfile', 'c', 'batchfile']","{'javascript': 34, 'css html javascript': 33, 'python': 22, 'css html javascript typescript': 18, 'java': 18, 'makefile python shell': 14, 'css html javascript shell': 13, 'objective-c ruby swift': 13, 'shell': 8, 'python shell': 8, 'c++ python': 6, 'css javascript': 6, 'html javascript': 5, 'css html javascript python': 5, 'swift': 4, 'ruby shell': 4, 'css html javascript makefile': 4, 'dockerfile makefile shell': 4, 'c c++': 4, 'css html': 3, 'javascript python shell': 3, 'go shell': 3, 'cmake': 3, 'makefile shell': 3, 'javascript typescript': 3, 'go': 3, 'html python shell': 3, 'makefile python': 2, 'go makefile': 2, 'javascript makefile shell': 2, 'typescript': 2, 'html javascript shell': 2, 'java shell': 2, 'php': 2, 'html javascript python': 2, 'ruby': 2, 'c++ shell': 2, 'javascript python': 2, 'javascript makefile': 1, 'html typescript': 1, 'ruby swift': 1, 'css javascript makefile': 1, 'javascript php': 1, 'css html python': 1, 'makefile': 1, 'objective-c': 1, 'javascript shell': 1, 'html java': 1, 'objective-c ruby': 1, 'c++ makefile shell': 1, 'dockerfile python shell': 1, 'dockerfile': 1, 'c++': 1, 'c python': 1, 'batchfile': 1, 'c makefile shell': 1, 'html': 1, 'c': 1, 'c objective-c': 1, 'html javascript typescript': 1}"
+17,2,['implementation'],"['css', 'javascript', 'php']","{'css javascript': 1, 'javascript php': 1}"
+18,3,['learning environment'],"['python', 'dockerfile']","{'python': 2, 'dockerfile python': 1}"
+19,3,['interface'],"['css', 'python', 'shell', 'html', 'javascript', 'makefile']","{'css': 1, 'python shell': 1, 'css html javascript makefile': 1}"
+20,1,['image'],"['dockerfile', 'shell']",{'dockerfile shell': 1}
+21,10,['android'],"['java', 'javascript', 'css', 'html', 'c', 'python', 'objective-c', 'ruby', 'swift', 'shell']","{'java': 4, 'css html javascript': 2, 'java javascript': 1, 'c python': 1, 'objective-c ruby swift': 1, 'shell': 1}"
+22,2,['nodejs'],"['css', 'javascript']","{'css javascript': 1, 'javascript': 1}"
+23,2,['event'],"['php', 'python']","{'php': 1, 'python': 1}"
+24,2,['blocker'],"['css', 'html', 'javascript', 'shell', 'objective-c']","{'css html javascript shell': 1, 'objective-c': 1}"
+25,2,['hacker'],"['javascript', 'shell']","{'javascript': 1, 'shell': 1}"
+26,2,['database management'],"['css', 'javascript', 'typescript', 'html', 'makefile', 'shell']","{'css javascript typescript': 1, 'html makefile shell': 1}"
+27,2,['command'],"['makefile', 'python', 'shell', 'javascript']","{'makefile python shell': 1, 'javascript': 1}"
+28,5,['application'],"['css', 'html', 'javascript', 'typescript', 'objective-c', 'ruby', 'swift', 'dockerfile']","{'css html javascript typescript': 2, 'css html': 1, 'objective-c ruby swift': 1, 'css dockerfile html javascript': 1}"
+29,2,['tensorflow'],"['python', 'shell']","{'python shell': 1, 'python': 1}"
+30,2,['laravel'],"['javascript', 'php', 'css', 'html']","{'javascript php': 1, 'css html javascript': 1}"
+31,2,['rxjava'],['java'],{'java': 2}
+32,2,['bootstrap admin'],"['css', 'html', 'javascript']",{'css html javascript': 2}
+33,3,['solution'],"['css', 'html', 'javascript', 'shell', 'java']","{'css html javascript shell': 1, 'java': 1, 'css html javascript': 1}"
+34,3,['lightweight'],"['css', 'html', 'javascript', 'typescript']","{'css html javascript': 1, 'css javascript': 1, 'javascript typescript': 1}"
+35,3,['mobile'],"['css', 'html', 'javascript', 'shell', 'dockerfile', 'python']","{'css html javascript shell': 1, 'css html javascript': 1, 'dockerfile python shell': 1}"
+36,2,['source'],"['makefile', 'python', 'shell', 'cmake']","{'makefile python shell': 1, 'cmake': 1}"
+37,1,['quality friendly'],"['css', 'html', 'javascript']",{'css html javascript': 1}
+38,3,['development'],"['html', 'java', 'shell', 'javascript', 'makefile']","{'html java': 1, 'java shell': 1, 'html javascript makefile': 1}"
+39,2,['element'],"['javascript', 'typescript']","{'javascript': 1, 'typescript': 1}"
+40,1,['bundle'],"['css', 'html', 'javascript', 'shell']",{'css html javascript shell': 1}
+41,2,['version'],"['css', 'html', 'javascript', 'shell', 'java']","{'css html javascript shell': 1, 'java': 1}"
+42,3,['tensorflow implementation'],"['css', 'html', 'javascript', 'python']","{'css html javascript python': 1, 'python': 1, 'html python': 1}"
+43,3,['spring'],"['html', 'java', 'css', 'javascript', 'shell']","{'html java': 2, 'css html javascript shell': 1}"
+44,1,['readmes'],['python'],{'python': 1}
+45,1,['primitive'],['python'],{'python': 1}
+46,2,['reinforcement'],"['html', 'python']","{'html python': 1, 'python': 1}"
+47,4,['image'],"['php', 'css', 'html', 'javascript', 'shell', 'typescript']","{'php': 1, 'css html javascript': 1, 'css html javascript shell': 1, 'typescript': 1}"
+48,1,['simple restful'],"['dockerfile', 'javascript']",{'dockerfile javascript': 1}
+49,2,['plugin'],"['css', 'java', 'javascript']","{'css java': 1, 'javascript': 1}"
+50,3,['interview'],"['javascript', 'html', 'shell']","{'javascript': 1, 'html': 1, 'javascript shell': 1}"
+51,3,['neural network'],"['makefile', 'python', 'shell']","{'python': 2, 'makefile python shell': 1}"
+52,2,['reverse engineering'],"['html', 'python', 'java', 'shell']","{'html python': 1, 'java shell': 1}"
+53,1,['plugin plain'],"['html', 'javascript', 'shell']",{'html javascript shell': 1}
+54,1,['network scene'],"['python', 'shell']",{'python shell': 1}
+55,2,['learning'],"['python', 'shell']","{'python': 1, 'python shell': 1}"
+56,4,['theme'],"['css', 'javascript', 'html']","{'css html javascript': 2, 'css javascript': 1, 'javascript': 1}"
+57,5,['modern'],"['javascript', 'css', 'html', 'shell', 'java']","{'css html javascript shell': 2, 'javascript': 1, 'css html javascript': 1, 'java javascript': 1}"
+58,4,['github'],"['css', 'javascript', 'go', 'shell', 'makefile', 'python', 'html']","{'css javascript': 1, 'go shell': 1, 'makefile python shell': 1, 'html': 1}"
+59,3,['layout'],"['makefile', 'javascript', 'objective-c', 'ruby', 'swift']","{'makefile': 1, 'javascript': 1, 'objective-c ruby swift': 1}"
+60,3,['runtime'],"['objective-c', 'ruby', 'swift']","{'objective-c ruby': 1, 'objective-c swift': 1, 'swift': 1}"
+61,2,['sublime'],"['javascript', 'python', 'shell']","{'javascript python shell': 1, 'javascript': 1}"
+62,1,['arduino'],"['c++', 'shell']",{'c++ shell': 1}
+63,4,['chinese'],"['python', 'shell', 'html', 'css', 'javascript']","{'python': 1, 'python shell': 1, 'html': 1, 'css html javascript': 1}"
+64,2,['aware image'],"['html', 'javascript', 'shell', 'makefile']","{'html javascript shell': 1, 'makefile shell': 1}"
+65,2,['linux'],"['dockerfile', 'python', 'shell']","{'dockerfile python shell': 1, 'shell': 1}"
+66,1,['modern standard'],"['html', 'javascript']",{'html javascript': 1}
+67,3,['docker'],"['dockerfile', 'makefile', 'shell', 'css', 'html', 'javascript']","{'dockerfile makefile shell': 1, 'css html javascript shell': 1, 'makefile shell': 1}"
+68,1,['pythonic'],"['makefile', 'python']",{'makefile python': 1}
+69,1,['validation plugin'],"['html', 'javascript']",{'html javascript': 1}
+70,1,['preprocessor'],"['c++', 'makefile']",{'c++ makefile': 1}
+71,3,['scanner'],"['python', 'go', 'makefile', 'html', 'shell']","{'python': 1, 'go makefile': 1, 'html shell': 1}"
+72,2,['design pattern'],"['swift', 'css', 'html', 'javascript']","{'swift': 1, 'css html javascript': 1}"
+73,1,['mutation library'],"['css', 'html', 'javascript']",{'css html javascript': 1}
+74,2,['native'],"['javascript', 'typescript', 'java']","{'javascript typescript': 1, 'java javascript': 1}"
+75,2,['webpack'],['javascript'],{'javascript': 2}
+76,2,['authentication'],"['html', 'ruby', 'shell']","{'html': 1, 'ruby shell': 1}"
+77,2,['engine'],"['javascript', 'go']","{'javascript': 1, 'go': 1}"
+78,1,['utility application'],"['javascript', 'shell']",{'javascript shell': 1}
+79,2,['paper'],['python'],{'python': 2}
+80,2,['label'],"['css', 'python', 'shell']","{'css python': 1, 'python shell': 1}"
+81,1,['concept'],['java'],{'java': 1}
+82,1,['movie recommender'],"['python', 'shell']",{'python shell': 1}
+83,1,['window driver'],"['c++', 'makefile', 'shell']",{'c++ makefile shell': 1}
+84,2,['devtools'],"['html', 'javascript', 'css']","{'html javascript': 1, 'css html javascript': 1}"
+85,1,['graph'],['java'],{'java': 1}
+86,1,['dependency'],"['javascript', 'makefile', 'shell']",{'javascript makefile shell': 1}
+87,1,['standard sdksdk'],['batchfile'],{'batchfile': 1}
+88,3,['spring'],"['css', 'dockerfile', 'html', 'javascript']","{'css dockerfile html': 1, 'css html javascript': 1, 'css dockerfile html javascript': 1}"
+89,2,['object'],"['javascript', 'python']","{'javascript': 1, 'python': 1}"
+90,1,['edition'],"['css', 'html', 'javascript', 'shell']",{'css html javascript shell': 1}
+91,2,['angular'],"['css', 'html', 'javascript', 'typescript']","{'css html javascript typescript': 1, 'javascript typescript': 1}"
+92,2,['responsive'],"['css', 'dockerfile', 'html', 'javascript', 'typescript']","{'css dockerfile html javascript': 1, 'css html javascript typescript': 1}"
+93,1,['technology codec'],['shell'],{'shell': 1}
+94,3,['client'],"['html', 'javascript', 'typescript', 'css', 'shell', 'python']","{'html javascript typescript': 1, 'css html javascript shell': 1, 'python': 1}"
+95,1,['store command'],"['objective-c', 'ruby', 'swift']",{'objective-c ruby swift': 1}
+96,5,['project'],"['css', 'html', 'javascript', 'ruby', 'swift', 'makefile', 'python', 'shell']","{'css html javascript': 1, 'javascript': 1, 'ruby swift': 1, 'swift': 1, 'makefile python shell': 1}"
+97,1,['flutter'],"['objective-c', 'ruby', 'swift']",{'objective-c ruby swift': 1}
+98,2,['config'],"['css', 'html', 'javascript', 'shell', 'dockerfile', 'makefile']","{'css html javascript shell': 1, 'dockerfile makefile': 1}"
+99,1,['object encryption'],['shell'],{'shell': 1}

@@ -1,0 +1,51 @@
+label_id,repository_count,cluster_topics,languages,combinations
+2,9,['mobile websocket example'],"['css', 'html', 'javascript', 'shell', 'makefile', 'python', 'ruby']","{'css javascript shell': 2, 'css html shell': 2, 'css html': 1, 'makefile python shell': 1, 'css javascript python': 1, 'css html javascript shell': 1, 'javascript ruby': 1}"
+13,80,['libde decoder'],"['css', 'html', 'shell', 'javascript', 'coffeescript', 'makefile', 'python', 'ruby', 'c', 'c++', 'java']","{'css html': 14, 'css html javascript shell': 6, 'css html shell': 5, 'html javascript': 5, 'css shell': 4, 'coffeescript css html': 3, 'javascript ruby': 3, 'css javascript': 3, 'c++ ruby': 3, 'c ruby shell': 3, 'css html javascript': 2, 'makefile python shell': 2, 'css javascript python': 2, 'makefile shell': 2, 'c ruby': 2, 'c++ makefile shell': 2, 'html python': 2, 'c makefile': 2, 'c c++ makefile': 1, 'html ruby': 1, 'html javascript shell': 1, 'css javascript shell': 1, 'html makefile': 1, 'coffeescript css': 1, 'c c++ shell': 1, 'python shell': 1, 'css java': 1, 'css ruby': 1, 'ruby shell': 1, 'c makefile shell': 1, 'c++ makefile python': 1, 'c c++': 1, 'html shell': 1}"
+26,12,['transparent layer search'],"['c', 'c++', 'shell', 'css', 'html', 'ruby', 'makefile']","{'css html shell': 3, 'css html': 3, 'c c++ shell': 1, 'css shell': 1, 'c ruby shell': 1, 'c ruby': 1, 'ruby shell': 1, 'makefile shell': 1}"
+12,7,['simple emulator hypervisor framework'],"['css', 'html', 'ruby', 'shell', 'c', 'python', 'javascript', 'coffeescript', 'c++', 'makefile']","{'css html': 1, 'ruby shell': 1, 'c python shell': 1, 'css ruby': 1, 'css html javascript shell': 1, 'coffeescript css': 1, 'c++ makefile': 1}"
+33,57,['training material'],"['html', 'shell', 'css', 'javascript', 'makefile', 'c', 'c++', 'ruby', 'python', 'java']","{'css html': 9, 'css javascript': 4, 'html javascript': 4, 'c ruby shell': 4, 'html shell': 3, 'makefile python shell': 3, 'css html makefile': 2, 'css html shell': 2, 'css html javascript': 2, 'c++ makefile shell': 2, 'ruby shell': 2, 'python shell': 2, 'c++ makefile python': 2, 'css html javascript shell': 2, 'makefile shell': 2, 'c++ python': 2, 'c c++ shell': 1, 'javascript ruby': 1, 'c c++': 1, 'css java': 1, 'css shell': 1, 'css javascript python': 1, 'c++ shell': 1, 'css javascript makefile': 1, 'javascript python': 1, 'css python': 1}"
+35,8,['github follower'],"['makefile', 'shell', 'css', 'html', 'python', 'javascript', 'ruby', 'c', 'c++']","{'css html': 2, 'makefile shell': 1, 'makefile python shell': 1, 'css javascript shell': 1, 'ruby shell': 1, 'c makefile shell': 1, 'c++ ruby': 1}"
+8,7,['container controller'],"['c', 'ruby', 'shell', 'css', 'javascript', 'makefile', 'python', 'html']","{'css html': 2, 'c ruby shell': 1, 'css javascript': 1, 'makefile python shell': 1, 'c shell': 1, 'ruby shell': 1}"
+16,2,['front developer'],"['css', 'html', 'python']","{'css html': 1, 'css python': 1}"
+17,2,['implementation'],"['c', 'ruby', 'makefile', 'shell']","{'c ruby': 1, 'makefile shell': 1}"
+23,32,['chainable publish'],"['html', 'shell', 'python', 'javascript', 'makefile', 'css', 'c++', 'ruby', 'c', 'coffeescript', 'java']","{'css html': 10, 'css javascript': 4, 'css html shell': 3, 'css html javascript': 2, 'html javascript': 2, 'html shell': 1, 'python shell': 1, 'javascript makefile': 1, 'c++ ruby': 1, 'c c++ shell': 1, 'css javascript shell': 1, 'css ruby': 1, 'javascript shell': 1, 'c ruby': 1, 'coffeescript html': 1, 'css java': 1}"
+22,1,['value'],"['c', 'ruby', 'shell']",{'c ruby shell': 1}
+11,4,['client'],"['css', 'html', 'shell', 'makefile', 'c++']","{'makefile shell': 2, 'css html shell': 1, 'c++ makefile shell': 1}"
+9,8,['objective library'],"['html', 'makefile', 'javascript', 'css', 'c', 'c++', 'shell', 'ruby']","{'css html': 2, 'c c++': 2, 'html makefile': 1, 'html javascript': 1, 'css shell': 1, 'ruby shell': 1}"
+41,1,['series'],"['html', 'javascript']",{'html javascript': 1}
+36,2,['raspberry'],"['css', 'html', 'makefile', 'shell']","{'css html': 1, 'makefile shell': 1}"
+3,3,['calendar component'],"['python', 'shell', 'css', 'html', 'javascript', 'c', 'ruby']","{'python shell': 1, 'css html javascript shell': 1, 'c ruby': 1}"
+40,1,['toolkit'],"['css', 'html']",{'css html': 1}
+7,7,['editor'],"['css', 'html', 'coffeescript', 'shell']","{'css html': 4, 'css html shell': 2, 'coffeescript css': 1}"
+46,2,['linux process'],"['css', 'python', 'shell']","{'css python': 1, 'python shell': 1}"
+4,2,['application'],"['css', 'html', 'makefile', 'javascript']","{'css html makefile': 1, 'css javascript': 1}"
+20,1,['digital'],"['css', 'html']",{'css html': 1}
+31,4,['google'],"['css', 'html', 'makefile', 'python', 'shell', 'javascript', 'c++']","{'css html': 1, 'makefile python shell': 1, 'css html javascript': 1, 'c++ shell': 1}"
+6,7,['slack integration server'],"['css', 'javascript', 'python', 'c', 'ruby', 'shell', 'html', 'c++', 'objective-c']","{'css javascript python': 1, 'c ruby shell': 1, 'css html javascript': 1, 'html javascript shell': 1, 'c++ objective-c': 1, 'css javascript': 1, 'css html': 1}"
+39,1,['snooze'],"['css', 'html']",{'css html': 1}
+21,1,['interactive'],"['css', 'java']",{'css java': 1}
+32,1,['neural'],"['python', 'shell']",{'python shell': 1}
+5,3,['firefox simulator environment firefox firefox mobile phone'],"['css', 'shell', 'html', 'python']","{'css shell': 1, 'css html': 1, 'css python': 1}"
+45,1,['connection'],"['css', 'javascript', 'makefile']",{'css javascript makefile': 1}
+10,3,['various example chamber'],"['html', 'javascript', 'css', 'shell']","{'html javascript': 1, 'css javascript shell': 1, 'css html': 1}"
+14,3,['source'],"['css', 'javascript', 'shell', 'c++', 'html']","{'css javascript shell': 1, 'c++ shell': 1, 'html javascript': 1}"
+25,1,['functional'],"['c++', 'ruby']",{'c++ ruby': 1}
+27,1,['compiler'],"['makefile', 'python', 'shell']",{'makefile python shell': 1}
+1,3,['malware analysis'],"['html', 'makefile', 'css', 'javascript']","{'html makefile': 1, 'css html': 1, 'css javascript': 1}"
+34,1,['essential'],"['ruby', 'shell']",{'ruby shell': 1}
+15,1,['raphael'],"['html', 'makefile']",{'html makefile': 1}
+29,2,['preprocessor'],"['css', 'html', 'makefile', 'c++', 'shell']","{'css html makefile': 1, 'c++ makefile shell': 1}"
+0,1,['photoshop panel'],"['css', 'html', 'javascript']",{'css html javascript': 1}
+48,1,['design'],"['css', 'html']",{'css html': 1}
+28,2,['leetcode solution'],"['css', 'html', 'makefile', 'shell']","{'css html makefile': 1, 'css html shell': 1}"
+18,1,['practice'],"['coffeescript', 'css', 'html']",{'coffeescript css html': 1}
+24,2,['nvidia binding'],"['c++', 'makefile', 'python', 'javascript']","{'c++ makefile python': 1, 'javascript python': 1}"
+37,1,['ascii'],"['c', 'ruby', 'shell']",{'c ruby shell': 1}
+47,1,['simulate paper'],"['c', 'c++']",{'c c++': 1}
+42,1,['starter'],"['css', 'html', 'javascript']",{'css html javascript': 1}
+19,1,['openpilot github mirror'],"['c++', 'makefile', 'python']",{'c++ makefile python': 1}
+38,1,['canvas'],"['css', 'shell']",{'css shell': 1}
+30,1,['pebble'],"['c', 'ruby', 'shell']",{'c ruby shell': 1}
+49,1,['angularjs'],"['css', 'html']",{'css html': 1}
+44,1,['cursos'],"['css', 'javascript', 'python']",{'css javascript python': 1}
+43,1,['attack'],"['c', 'makefile']",{'c makefile': 1}

@@ -1,0 +1,10 @@
+antecedents,consequents,confidience,cluster_topics
+c++_objective-c,6,1.0,['slack integration server']
+c++_makefile,12,1.0,['simple emulator hypervisor framework']
+c_makefile,13,0.6666666666666666,['libde decoder']
+html_ruby,13,1.0,['libde decoder']
+javascript_ruby,13,0.6000000000000001,['libde decoder']
+html_python,13,1.0,['libde decoder']
+javascript_shell,23,1.0,['chainable publish']
+coffeescript_html,23,1.0,['chainable publish']
+javascript_makefile,23,1.0,['chainable publish']

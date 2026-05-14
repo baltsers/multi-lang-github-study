@@ -1,0 +1,10 @@
+antecedents,consequents,confidience,cluster_topics
+php_python,9,1.0,['common function application']
+c_java,12,1.0,['collection stanford online introduction artificial intelligence class']
+javascript_python,12,0.6666666666666666,['collection stanford online introduction artificial intelligence class']
+c++_java,12,1.0,['collection stanford online introduction artificial intelligence class']
+ruby_shell,12,0.625,['collection stanford online introduction artificial intelligence class']
+perl_python,12,1.0,['collection stanford online introduction artificial intelligence class']
+c++_javascript,12,1.0,['collection stanford online introduction artificial intelligence class']
+c_c++,12,0.6,['collection stanford online introduction artificial intelligence class']
+perl_shell,12,0.6666666666666667,['collection stanford online introduction artificial intelligence class']

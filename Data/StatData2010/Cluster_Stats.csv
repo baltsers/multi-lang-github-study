@@ -1,0 +1,51 @@
+label_id,repository_count,cluster_topics,languages,combinations
+15,3,['cocoa touch'],"['c', 'ruby', 'shell', 'javascript']","{'c ruby shell': 1, 'c javascript': 1, 'c shell': 1}"
+5,12,['application personal scalability experiment'],"['perl', 'python', 'shell', 'c', 'ruby', 'javascript', 'java']","{'c shell': 3, 'perl python shell': 2, 'ruby shell': 2, 'c ruby': 1, 'perl shell': 1, 'javascript python shell': 1, 'java javascript': 1, 'javascript shell': 1}"
+47,1,['google android'],"['c', 'java']",{'c java': 1}
+8,24,[''],"['javascript', 'python', 'ruby', 'c', 'shell', 'c++', 'php', 'objective-c', 'perl']","{'php python ruby': 3, 'javascript python shell': 3, 'c++ shell': 2, 'javascript ruby': 2, 'ruby shell': 2, 'perl python shell': 2, 'javascript python ruby': 1, 'c shell': 1, 'c javascript python': 1, 'c javascript': 1, 'objective-c shell': 1, 'javascript shell': 1, 'c++ javascript shell': 1, 'python shell': 1, 'c c++': 1, 'c perl shell': 1}"
+27,1,['rapid development'],"['c', 'javascript']",{'c javascript': 1}
+41,1,['suicide mission'],"['c', 'python', 'shell']",{'c python shell': 1}
+6,4,['macruby textmate bundle'],"['javascript', 'ruby', 'shell', 'python']","{'javascript ruby': 2, 'ruby shell': 1, 'python shell': 1}"
+7,1,['description'],"['objective-c', 'python']",{'objective-c python': 1}
+29,2,['capistrano plugins'],"['perl', 'ruby', 'javascript', 'shell']","{'perl ruby': 1, 'javascript shell': 1}"
+20,9,['content management framework'],"['ruby', 'shell', 'c++', 'perl', 'python', 'php', 'c', 'javascript', 'objective-c']","{'php python ruby': 2, 'ruby shell': 1, 'c++ shell': 1, 'perl python shell': 1, 'c javascript': 1, 'javascript perl python': 1, 'c objective-c': 1, 'php ruby': 1}"
+35,1,['reference implementation schema language'],"['perl', 'ruby']",{'perl ruby': 1}
+14,1,['content resolver'],"['perl', 'python', 'shell']",{'perl python shell': 1}
+21,2,['natural language processing'],"['perl', 'shell']",{'perl shell': 2}
+13,2,['drupal github'],"['c++', 'python', 'shell', 'javascript']","{'c++ python shell': 1, 'javascript shell': 1}"
+45,1,['pivotal tracker'],"['javascript', 'ruby']",{'javascript ruby': 1}
+18,1,['jailbreakme'],"['python', 'shell']",{'python shell': 1}
+39,1,['groupe clone'],"['python', 'shell']",{'python shell': 1}
+42,1,['photo mobile device'],"['java', 'javascript', 'shell']",{'java javascript shell': 1}
+22,5,['customization multitouch support'],"['c', 'javascript', 'shell', 'c++']","{'c javascript': 2, 'javascript shell': 1, 'c c++': 1, 'c shell': 1}"
+32,1,['diceshaker'],"['java', 'javascript', 'shell']",{'java javascript shell': 1}
+17,1,['jquery'],"['python', 'shell']",{'python shell': 1}
+12,1,['compiler'],"['perl', 'shell']",{'perl shell': 1}
+4,1,['emacs enhance development experience'],"['php', 'python', 'ruby']",{'php python ruby': 1}
+1,1,['flexible database'],"['php', 'python', 'ruby']",{'php python ruby': 1}
+44,2,['admob module mobile iphone'],"['objective-c', 'python', 'c', 'javascript']","{'objective-c python': 1, 'c javascript python': 1}"
+3,3,['binding cocosd iphone iphone'],"['c', 'objective-c', 'perl', 'python', 'shell']","{'c objective-c': 2, 'perl python shell': 1}"
+49,1,['language group'],"['c', 'python', 'shell']",{'c python shell': 1}
+10,1,['browser'],"['python', 'shell']",{'python shell': 1}
+16,1,['store'],"['perl', 'php']",{'perl php': 1}
+43,1,['value storage system'],"['python', 'shell']",{'python shell': 1}
+2,2,['dataists recommendation system contest'],"['c', 'shell', 'perl', 'ruby']","{'c shell': 1, 'perl ruby': 1}"
+37,1,['source receiver'],"['objective-c', 'shell']",{'objective-c shell': 1}
+0,1,['enterprise edition'],"['perl', 'python', 'shell']",{'perl python shell': 1}
+24,1,['current clipboard'],"['c', 'c++', 'python']",{'c c++ python': 1}
+36,1,['email handler'],"['c', 'objective-c']",{'c objective-c': 1}
+31,1,['global illumination renderer'],"['javascript', 'python', 'shell']",{'javascript python shell': 1}
+19,1,['neato lidar'],"['c', 'python']",{'c python': 1}
+9,1,['eschulte'],"['javascript', 'ruby']",{'javascript ruby': 1}
+28,1,['reader'],"['c++', 'javascript', 'shell']",{'c++ javascript shell': 1}
+23,1,['google super'],"['javascript', 'python', 'ruby']",{'javascript python ruby': 1}
+25,1,['gnustep'],"['c', 'shell']",{'c shell': 1}
+34,1,['value store'],"['c', 'ruby', 'shell']",{'c ruby shell': 1}
+48,1,['frill merbivore'],"['c', 'javascript']",{'c javascript': 1}
+11,1,['setting'],"['c', 'python', 'ruby']",{'c python ruby': 1}
+26,1,['florenzano django'],"['python', 'shell']",{'python shell': 1}
+40,1,['objective'],"['perl', 'python', 'ruby']",{'perl python ruby': 1}
+38,1,['friendly abstraction'],"['c', 'shell']",{'c shell': 1}
+46,1,['christian borgelt apriori'],"['ruby', 'shell']",{'ruby shell': 1}
+33,1,['simplegeo geohash'],"['c', 'python']",{'c python': 1}
+30,1,['twitter'],"['php', 'python', 'ruby']",{'php python ruby': 1}

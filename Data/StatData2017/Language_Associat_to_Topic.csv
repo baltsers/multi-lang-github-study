@@ -1,0 +1,12 @@
+antecedents,consequents,confidience,cluster_topics
+java_shell,6,1.0,['application archive executable application']
+java_python,7,0.6666666666666666,['ckeditor editor flexible image uploads']
+javascript_shell,7,0.75,['ckeditor editor flexible image uploads']
+coffeescript_html,7,1.0,['ckeditor editor flexible image uploads']
+c_python,7,1.0,['ckeditor editor flexible image uploads']
+batchfile_html,7,1.0,['ckeditor editor flexible image uploads']
+c_makefile,7,1.0,['ckeditor editor flexible image uploads']
+css_php,7,0.6,['ckeditor editor flexible image uploads']
+html_python,7,1.0,['ckeditor editor flexible image uploads']
+css_python,26,1.0,['dirty literate']
+coffeescript_css,31,1.0,['package manager']

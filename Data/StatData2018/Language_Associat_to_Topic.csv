@@ -1,0 +1,11 @@
+antecedents,consequents,confidience,cluster_topics
+c_makefile,2,1.0,['official chain']
+c++_shell,2,0.6666666666666667,['official chain']
+html_makefile,15,0.6,['legacy browser application integration keepass password github browser addon version']
+objective-c_shell,15,1.0,['legacy browser application integration keepass password github browser addon version']
+makefile_python,15,0.6666666666666667,['legacy browser application integration keepass password github browser addon version']
+c_shell,15,0.6666666666666667,['legacy browser application integration keepass password github browser addon version']
+batchfile_shell,15,1.0,['legacy browser application integration keepass password github browser addon version']
+html_python,15,0.75,['legacy browser application integration keepass password github browser addon version']
+css_makefile,24,1.0,['themekraft starter theme']
+c_javascript,33,1.0,['runtime']

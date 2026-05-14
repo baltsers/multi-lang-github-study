@@ -1,0 +1,8 @@
+antecedents,consequents,confidience,cluster_topics
+c++_css,4,1.0,['apache flink']
+perl_python,4,1.0,['apache flink']
+c++_objective-c,4,0.6000000000000001,['apache flink']
+c_c++,4,0.6000000000000001,['apache flink']
+javascript_python,15,0.6666666666666666,['display navigable']
+c_python,15,0.6666666666666666,['display navigable']
+java_shell,46,0.6666666666666666,['photoshop image pngquant compression']

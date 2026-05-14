@@ -1,0 +1,1046 @@
+combo_id,combination,count,distribution
+0,css html,131,0.100846805234796
+1,css javascript,60,0.046189376443418015
+2,css shell,59,0.04541955350269438
+3,html shell,52,0.04003079291762895
+4,html javascript,46,0.03541185527328714
+5,makefile shell,42,0.03233256351039261
+6,c shell,40,0.030792917628945343
+7,css html shell,35,0.026943802925327175
+8,c c++,35,0.026943802925327175
+9,ruby shell,35,0.026943802925327175
+10,python shell,32,0.024634334103156273
+11,c ruby,31,0.02386451116243264
+12,c++ shell,30,0.023094688221709007
+13,javascript shell,30,0.023094688221709007
+14,css html javascript,27,0.020785219399538105
+15,c++ makefile,26,0.020015396458814474
+16,css python,25,0.01924557351809084
+17,makefile python,24,0.018475750577367205
+18,css makefile,24,0.018475750577367205
+19,html makefile,24,0.018475750577367205
+20,css javascript shell,23,0.01770592763664357
+21,coffeescript css,22,0.016936104695919937
+22,c makefile,22,0.016936104695919937
+23,c++ python,21,0.016166281755196306
+24,css ruby,20,0.015396458814472672
+25,c python,19,0.014626635873749037
+26,c ruby shell,19,0.014626635873749037
+27,javascript python,19,0.014626635873749037
+28,c c++ shell,18,0.013856812933025405
+29,coffeescript html,16,0.012317167051578136
+30,javascript ruby,16,0.012317167051578136
+31,html javascript shell,16,0.012317167051578136
+32,c makefile shell,15,0.011547344110854504
+33,css html makefile,15,0.011547344110854504
+34,c++ makefile shell,15,0.011547344110854504
+35,javascript makefile,15,0.011547344110854504
+36,makefile python shell,14,0.01077752117013087
+37,c++ makefile python,14,0.01077752117013087
+38,css java,14,0.01077752117013087
+39,css javascript makefile,14,0.01077752117013087
+40,html ruby,14,0.01077752117013087
+41,c++ ruby,14,0.01077752117013087
+42,css html javascript shell,14,0.01077752117013087
+43,html python,14,0.01077752117013087
+44,c python shell,13,0.010007698229407237
+45,c++ css,13,0.010007698229407237
+46,c++ objective-c,13,0.010007698229407237
+47,c css,13,0.010007698229407237
+48,coffeescript css html,12,0.009237875288683603
+49,c c++ makefile,12,0.009237875288683603
+50,css javascript python,12,0.009237875288683603
+51,css ruby shell,12,0.0
+52,c++ html,12,0.0
+53,c makefile python,11,0.0
+54,c++ javascript,11,0.0
+55,c c++ python,11,0.0
+56,c c++ ruby,11,0.0
+57,css javascript ruby,10,0.0
+58,c++ css javascript,10,0.0
+59,c++ python shell,10,0.0
+60,java shell,10,0.0
+61,objective-c shell,10,0.0
+62,makefile ruby,10,0.0
+63,css perl,10,0.0
+64,python ruby,10,0.0
+65,css python shell,10,0.0
+66,css makefile shell,10,0.0
+67,html makefile shell,10,0.0
+68,coffeescript shell,10,0.0
+69,c javascript,10,0.0
+70,java javascript,9,0.0
+71,css makefile python,9,0.0
+72,javascript ruby shell,9,0.0
+73,c css shell,9,0.0
+74,python ruby shell,9,0.0
+75,coffeescript javascript,9,0.0
+76,javascript python shell,9,0.0
+77,html ruby shell,9,0.0
+78,c makefile python shell,8,0.0
+79,css php,8,0.0
+80,c c++ makefile shell,8,0.0
+81,c++ css makefile,8,0.0
+82,javascript makefile python,8,0.0
+83,css javascript makefile python,8,0.0
+84,css html ruby,8,0.0
+85,css html python,8,0.0
+86,html java,8,0.0
+87,assembly shell,8,0.0
+88,c c++ css,8,0.0
+89,c html,8,0.0
+90,php shell,7,0.0
+91,css objective-c,7,0.0
+92,c objective-c,7,0.0
+93,groff makefile,7,0.0
+94,c c++ makefile python,7,0.0
+95,java python,7,0.0
+96,c++ css python,7,0.0
+97,c++ javascript python,7,0.0
+98,javascript php,7,0.0
+99,css javascript ruby shell,7,0.0
+100,objective-c ruby,7,0.0
+101,perl shell,7,0.0
+102,c python ruby,7,0.0
+103,html javascript makefile,7,0.0
+104,javascript makefile shell,7,0.0
+105,css html javascript makefile,7,0.0
+106,css html makefile shell,7,0.0
+107,css javascript makefile shell,7,0.0
+108,html python shell,7,0.0
+109,c++ html makefile,7,0.0
+110,assembly c++,7,0.0
+111,c c++ javascript,7,0.0
+112,c javascript shell,7,0.0
+113,c css javascript,7,0.0
+114,apacheconf html,6,0.0
+115,html php,6,0.0
+116,c++ groff,6,0.0
+117,javascript objective-c,6,0.0
+118,batchfile shell,6,0.0
+119,groff shell,6,0.0
+120,groff makefile shell,6,0.0
+121,c c++ python shell,6,0.0
+122,c++ makefile python shell,6,0.0
+123,css java shell,6,0.0
+124,c++ objective-c shell,6,0.0
+125,c++ java,6,0.0
+126,java objective-c,6,0.0
+127,c++ javascript makefile,6,0.0
+128,css java javascript,6,0.0
+129,css java python,6,0.0
+130,java javascript python,6,0.0
+131,c++ css javascript makefile,6,0.0
+132,c++ css javascript python,6,0.0
+133,html objective-c,6,0.0
+134,c css python,6,0.0
+135,css perl shell,6,0.0
+136,css python ruby,6,0.0
+137,c python ruby shell,6,0.0
+138,c objective-c++,6,0.0
+139,c++ ruby shell,6,0.0
+140,c c++ ruby shell,6,0.0
+141,html javascript python,6,0.0
+142,assembly makefile,6,0.0
+143,assembly c++ shell,6,0.0
+144,coffeescript css javascript,6,0.0
+145,coffeescript css shell,6,0.0
+146,c javascript python,6,0.0
+147,javascript python ruby,6,0.0
+148,c html javascript,6,0.0
+149,c c++ css javascript,6,0.0
+150,coffeescript html shell,6,0.0
+151,java ruby,6,0.0
+152,coffeescript ruby,5,0.0
+153,cmake shell,5,0.0
+154,cmake makefile,5,0.0
+155,makefile protocol buffer,5,0.0
+156,protocol buffer shell,5,0.0
+157,css handlebars,5,0.0
+158,handlebars html,5,0.0
+159,css handlebars html,5,0.0
+160,apacheconf css,5,0.0
+161,css php shell,5,0.0
+162,c++ objective-c++,5,0.0
+163,makefile objective-c,5,0.0
+164,c++ css java,5,0.0
+165,c++ makefile objective-c,5,0.0
+166,c++ css makefile python,5,0.0
+167,css java javascript python,5,0.0
+168,php ruby,5,0.0
+169,perl python,5,0.0
+170,css python ruby shell,5,0.0
+171,html javascript makefile shell,5,0.0
+172,css html javascript makefile shell,5,0.0
+173,batchfile css,5,0.0
+174,batchfile html,5,0.0
+175,makefile ruby shell,5,0.0
+176,javascript perl,5,0.0
+177,css javascript perl,5,0.0
+178,coffeescript makefile,5,0.0
+179,c++ css html,5,0.0
+180,c++ html javascript,5,0.0
+181,c++ html python,5,0.0
+182,css html java,5,0.0
+183,html java javascript,5,0.0
+184,c++ css html javascript,5,0.0
+185,c# css,5,0.0
+186,assembly c++ makefile,5,0.0
+187,assembly makefile shell,5,0.0
+188,c css makefile,5,0.0
+189,c++ css shell,5,0.0
+190,c c++ css makefile,5,0.0
+191,c c++ css shell,5,0.0
+192,css javascript python shell,5,0.0
+193,c javascript ruby,5,0.0
+194,c++ javascript shell,5,0.0
+195,c c++ javascript shell,5,0.0
+196,javascript python ruby shell,5,0.0
+197,c c++ html,5,0.0
+198,c css html,5,0.0
+199,c css html javascript,5,0.0
+200,c++ html shell,5,0.0
+201,c css javascript shell,5,0.0
+202,puppet shell,5,0.0
+203,apacheconf javascript,5,0.0
+204,java javascript ruby,5,0.0
+205,html javascript ruby,5,0.0
+206,css html ruby shell,5,0.0
+207,go makefile,4,0.0
+208,go shell,4,0.0
+209,go makefile shell,4,0.0
+210,shell xslt,4,0.0
+211,actionscript css,4,0.0
+212,apacheconf css html,4,0.0
+213,c++ css objective-c,4,0.0
+214,batchfile python,4,0.0
+215,c++ groff makefile,4,0.0
+216,c++ groff shell,4,0.0
+217,c++ groff makefile shell,4,0.0
+218,c c++ makefile python shell,4,0.0
+219,emacs lisp shell,4,0.0
+220,java makefile,4,0.0
+221,c++ java javascript,4,0.0
+222,css java objective-c,4,0.0
+223,c++ css java javascript,4,0.0
+224,c++ javascript makefile python,4,0.0
+225,c++ css javascript makefile python,4,0.0
+226,c++ perl,4,0.0
+227,html perl,4,0.0
+228,perl ruby,4,0.0
+229,coffeescript python,4,0.0
+230,c css ruby,4,0.0
+231,css perl python,4,0.0
+232,c css python shell,4,0.0
+233,batchfile css html,4,0.0
+234,batchfile css shell,4,0.0
+235,batchfile html shell,4,0.0
+236,css html python shell,4,0.0
+237,awk shell,4,0.0
+238,c makefile ruby,4,0.0
+239,c++ python ruby,4,0.0
+240,c c++ python ruby,4,0.0
+241,c makefile ruby shell,4,0.0
+242,css smarty,4,0.0
+243,html smarty,4,0.0
+244,css html smarty,4,0.0
+245,handlebars javascript,4,0.0
+246,c matlab,4,0.0
+247,cuda python,4,0.0
+248,makefile matlab,4,0.0
+249,matlab python,4,0.0
+250,matlab shell,4,0.0
+251,c matlab shell,4,0.0
+252,c++ html java,4,0.0
+253,html makefile python,4,0.0
+254,css html java javascript,4,0.0
+255,css html javascript python,4,0.0
+256,java python shell,4,0.0
+257,assembly c,4,0.0
+258,c c#,4,0.0
+259,c# shell,4,0.0
+260,assembly c shell,4,0.0
+261,assembly c++ makefile shell,4,0.0
+262,c css makefile shell,4,0.0
+263,c++ css makefile shell,4,0.0
+264,c c++ css makefile shell,4,0.0
+265,coffeescript html javascript,4,0.0
+266,coffeescript javascript shell,4,0.0
+267,c++ javascript ruby,4,0.0
+268,c c++ javascript python,4,0.0
+269,c c++ javascript ruby,4,0.0
+270,c javascript python ruby,4,0.0
+271,c javascript python shell,4,0.0
+272,c javascript ruby shell,4,0.0
+273,c java,4,0.0
+274,c c++ css html,4,0.0
+275,c c++ html javascript,4,0.0
+276,c c++ css html javascript,4,0.0
+277,assembly html,4,0.0
+278,c++ html makefile shell,4,0.0
+279,c html shell,4,0.0
+280,html puppet,4,0.0
+281,html puppet shell,4,0.0
+282,java python ruby,4,0.0
+283,java ruby shell,4,0.0
+284,css javascript python ruby,4,0.0
+285,java javascript python ruby,4,0.0
+286,apacheconf html javascript,4,0.0
+287,c++ css javascript shell,4,0.0
+288,css html javascript ruby,4,0.0
+289,c c++ css javascript shell,4,0.0
+290,c c++ css python,4,0.0
+291,cmake html,3,0.0
+292,c protocol buffer,3,0.0
+293,cmake python,3,0.0
+294,go python,3,0.0
+295,c protocol buffer shell,3,0.0
+296,cmake makefile python,3,0.0
+297,cmake makefile shell,3,0.0
+298,go makefile python,3,0.0
+299,go python shell,3,0.0
+300,makefile protocol buffer shell,3,0.0
+301,go makefile python shell,3,0.0
+302,nginx shell,3,0.0
+303,apacheconf php,3,0.0
+304,apacheconf shell,3,0.0
+305,apacheconf css shell,3,0.0
+306,apacheconf html php,3,0.0
+307,css html php,3,0.0
+308,css groff,3,0.0
+309,groff javascript,3,0.0
+310,c++ javascript objective-c,3,0.0
+311,css groff javascript,3,0.0
+312,css javascript objective-c,3,0.0
+313,c++ css javascript objective-c,3,0.0
+314,c groff,3,0.0
+315,batchfile python shell,3,0.0
+316,c c++ groff,3,0.0
+317,c++ emacs lisp,3,0.0
+318,c c++ objective-c,3,0.0
+319,c++ emacs lisp shell,3,0.0
+320,gherkin html,3,0.0
+321,objective-c python,3,0.0
+322,c++ java makefile,3,0.0
+323,c++ java objective-c,3,0.0
+324,c++ java python,3,0.0
+325,c++ objective-c python,3,0.0
+326,css java makefile,3,0.0
+327,java javascript makefile,3,0.0
+328,java makefile python,3,0.0
+329,c++ css java objective-c,3,0.0
+330,c++ css java python,3,0.0
+331,c++ java javascript python,3,0.0
+332,css java javascript makefile,3,0.0
+333,css java makefile python,3,0.0
+334,java javascript makefile python,3,0.0
+335,c++ css java javascript python,3,0.0
+336,css java javascript makefile python,3,0.0
+337,css makefile ruby,3,0.0
+338,css javascript php,3,0.0
+339,css php ruby,3,0.0
+340,javascript php ruby,3,0.0
+341,javascript php shell,3,0.0
+342,css javascript php ruby,3,0.0
+343,html nginx,3,0.0
+344,c++ html objective-c,3,0.0
+345,c++ html ruby,3,0.0
+346,coffeescript css python,3,0.0
+347,c perl,3,0.0
+348,c css perl,3,0.0
+349,c perl shell,3,0.0
+350,css perl ruby,3,0.0
+351,c css perl shell,3,0.0
+352,c css python ruby,3,0.0
+353,c css ruby shell,3,0.0
+354,css powershell,3,0.0
+355,powershell shell,3,0.0
+356,css powershell shell,3,0.0
+357,batchfile css html shell,3,0.0
+358,objective-c++ ruby,3,0.0
+359,objective-c++ shell,3,0.0
+360,c c++ objective-c++,3,0.0
+361,awk swift,3,0.0
+362,shell swift,3,0.0
+363,awk shell swift,3,0.0
+364,makefile python ruby,3,0.0
+365,c++ python ruby shell,3,0.0
+366,makefile python ruby shell,3,0.0
+367,c c++ python ruby shell,3,0.0
+368,javascript smarty,3,0.0
+369,shell smarty,3,0.0
+370,css javascript smarty,3,0.0
+371,css shell smarty,3,0.0
+372,html javascript smarty,3,0.0
+373,html shell smarty,3,0.0
+374,javascript shell smarty,3,0.0
+375,css html javascript smarty,3,0.0
+376,css html shell smarty,3,0.0
+377,css javascript shell smarty,3,0.0
+378,html javascript shell smarty,3,0.0
+379,css html javascript shell smarty,3,0.0
+380,php python,3,0.0
+381,cuda makefile,3,0.0
+382,cuda matlab,3,0.0
+383,c makefile matlab,3,0.0
+384,c matlab python,3,0.0
+385,cuda makefile matlab,3,0.0
+386,cuda makefile python,3,0.0
+387,cuda matlab python,3,0.0
+388,makefile matlab python,3,0.0
+389,makefile matlab shell,3,0.0
+390,matlab python shell,3,0.0
+391,c makefile matlab shell,3,0.0
+392,c matlab python shell,3,0.0
+393,cuda makefile matlab python,3,0.0
+394,makefile r,3,0.0
+395,css lua,3,0.0
+396,lua python,3,0.0
+397,coffeescript css makefile,3,0.0
+398,html java python,3,0.0
+399,c++ css html java,3,0.0
+400,c++ css html makefile,3,0.0
+401,c++ html java javascript,3,0.0
+402,c++ html javascript makefile,3,0.0
+403,c++ html makefile python,3,0.0
+404,css html java python,3,0.0
+405,html java javascript python,3,0.0
+406,c++ css html java javascript,3,0.0
+407,c++ css html javascript makefile,3,0.0
+408,css html java javascript python,3,0.0
+409,css java python shell,3,0.0
+410,assembly css,3,0.0
+411,c# c++,3,0.0
+412,assembly c makefile,3,0.0
+413,c# css shell,3,0.0
+414,c++ perl shell,3,0.0
+415,assembly c makefile shell,3,0.0
+416,html javascript python shell,3,0.0
+417,coffeescript css html javascript,3,0.0
+418,glsl html,3,0.0
+419,groff html,3,0.0
+420,groff html makefile,3,0.0
+421,groff html shell,3,0.0
+422,css makefile python shell,3,0.0
+423,groff html makefile shell,3,0.0
+424,javascript makefile python shell,3,0.0
+425,css javascript makefile python shell,3,0.0
+426,coffeescript ruby shell,3,0.0
+427,coffeescript css javascript shell,3,0.0
+428,c++ javascript python ruby,3,0.0
+429,c++ javascript python shell,3,0.0
+430,c++ javascript ruby shell,3,0.0
+431,c c++ javascript python ruby,3,0.0
+432,c c++ javascript python shell,3,0.0
+433,c c++ javascript ruby shell,3,0.0
+434,c javascript python ruby shell,3,0.0
+435,c css java,3,0.0
+436,c java javascript,3,0.0
+437,assembly objective-c,3,0.0
+438,assembly c++ html,3,0.0
+439,assembly c++ objective-c,3,0.0
+440,assembly html makefile,3,0.0
+441,assembly html shell,3,0.0
+442,assembly objective-c shell,3,0.0
+443,makefile objective-c shell,3,0.0
+444,assembly c++ html makefile,3,0.0
+445,assembly c++ objective-c shell,3,0.0
+446,c++ makefile objective-c shell,3,0.0
+447,c html makefile,3,0.0
+448,c html python,3,0.0
+449,c c++ html makefile,3,0.0
+450,c css html shell,3,0.0
+451,c html javascript shell,3,0.0
+452,c css html javascript shell,3,0.0
+453,css puppet,3,0.0
+454,css puppet shell,3,0.0
+455,batchfile javascript,3,0.0
+456,apacheconf css javascript,3,0.0
+457,batchfile css javascript,3,0.0
+458,batchfile javascript shell,3,0.0
+459,batchfile css javascript shell,3,0.0
+460,gherkin shell,3,0.0
+461,coffeescript css html shell,3,0.0
+462,css java ruby,3,0.0
+463,java javascript shell,3,0.0
+464,css java javascript ruby,3,0.0
+465,css java python ruby,3,0.0
+466,java javascript python shell,3,0.0
+467,java javascript ruby shell,3,0.0
+468,java python ruby shell,3,0.0
+469,css java javascript python ruby,3,0.0
+470,css javascript python ruby shell,3,0.0
+471,java javascript python ruby shell,3,0.0
+472,html javascript php,3,0.0
+473,asp c#,3,0.0
+474,asp css,3,0.0
+475,asp c# css,3,0.0
+476,c html ruby,3,0.0
+477,c javascript makefile,3,0.0
+478,c++ css ruby,3,0.0
+479,c c++ css ruby,3,0.0
+480,c c++ javascript makefile,3,0.0
+481,c css javascript makefile,3,0.0
+482,c css javascript ruby,3,0.0
+483,c javascript makefile shell,3,0.0
+484,c++ css javascript ruby,3,0.0
+485,c++ javascript makefile shell,3,0.0
+486,html javascript ruby shell,3,0.0
+487,c c++ css javascript makefile,3,0.0
+488,c c++ css javascript ruby,3,0.0
+489,c c++ javascript makefile shell,3,0.0
+490,c css javascript makefile shell,3,0.0
+491,c++ css javascript makefile shell,3,0.0
+492,css html javascript ruby shell,3,0.0
+493,c c++ css javascript makefile shell,3,0.0
+494,html python ruby,3,0.0
+495,css html python ruby,3,0.0
+496,c css javascript python,3,0.0
+497,c c++ css javascript python,3,0.0
+498,html java shell,3,0.0
+499,css html perl,3,0.0
+500,html perl shell,3,0.0
+501,css html perl shell,3,0.0
+502,html java ruby,3,0.0
+503,cmake html shell,2,0.0
+504,protocol buffer python,2,0.0
+505,c makefile protocol buffer,2,0.0
+506,cmake python shell,2,0.0
+507,protocol buffer python shell,2,0.0
+508,c makefile protocol buffer shell,2,0.0
+509,cmake makefile python shell,2,0.0
+510,html xslt,2,0.0
+511,html shell xslt,2,0.0
+512,actionscript javascript,2,0.0
+513,actionscript css javascript,2,0.0
+514,coffeescript handlebars,2,0.0
+515,coffeescript css handlebars,2,0.0
+516,coffeescript handlebars html,2,0.0
+517,coffeescript css handlebars html,2,0.0
+518,apacheconf html shell,2,0.0
+519,html php shell,2,0.0
+520,apacheconf css html shell,2,0.0
+521,groff objective-c,2,0.0
+522,c++ css groff,2,0.0
+523,c++ groff javascript,2,0.0
+524,c++ groff objective-c,2,0.0
+525,c++ css groff javascript,2,0.0
+526,batchfile c,2,0.0
+527,batchfile c++,2,0.0
+528,batchfile makefile,2,0.0
+529,groff python,2,0.0
+530,batchfile c c++,2,0.0
+531,batchfile c makefile,2,0.0
+532,batchfile c python,2,0.0
+533,batchfile c++ makefile,2,0.0
+534,batchfile c++ python,2,0.0
+535,batchfile makefile python,2,0.0
+536,c groff makefile,2,0.0
+537,c groff shell,2,0.0
+538,groff makefile python,2,0.0
+539,groff python shell,2,0.0
+540,batchfile c c++ makefile,2,0.0
+541,batchfile c c++ python,2,0.0
+542,batchfile c makefile python,2,0.0
+543,batchfile c++ makefile python,2,0.0
+544,c c++ groff makefile,2,0.0
+545,c c++ groff shell,2,0.0
+546,c groff makefile shell,2,0.0
+547,groff makefile python shell,2,0.0
+548,batchfile c c++ makefile python,2,0.0
+549,c c++ groff makefile shell,2,0.0
+550,handlebars shell,2,0.0
+551,css handlebars shell,2,0.0
+552,handlebars html shell,2,0.0
+553,css handlebars html shell,2,0.0
+554,c emacs lisp,2,0.0
+555,c r,2,0.0
+556,c xslt,2,0.0
+557,c++ r,2,0.0
+558,emacs lisp objective-c,2,0.0
+559,r shell,2,0.0
+560,c c++ emacs lisp,2,0.0
+561,c c++ r,2,0.0
+562,c emacs lisp shell,2,0.0
+563,c shell xslt,2,0.0
+564,c++ emacs lisp objective-c,2,0.0
+565,emacs lisp objective-c shell,2,0.0
+566,c c++ emacs lisp shell,2,0.0
+567,c++ emacs lisp objective-c shell,2,0.0
+568,makefile objective-c++,2,0.0
+569,objective-c objective-c++,2,0.0
+570,java javascript objective-c,2,0.0
+571,makefile objective-c python,2,0.0
+572,c++ css java makefile,2,0.0
+573,c++ java javascript makefile,2,0.0
+574,c++ java javascript objective-c,2,0.0
+575,c++ java makefile python,2,0.0
+576,c++ makefile objective-c python,2,0.0
+577,css java javascript objective-c,2,0.0
+578,c++ css java javascript makefile,2,0.0
+579,c++ css java javascript objective-c,2,0.0
+580,c++ css java makefile python,2,0.0
+581,c++ java javascript makefile python,2,0.0
+582,c++ css java javascript makefile python,2,0.0
+583,html makefile ruby,2,0.0
+584,css html makefile ruby,2,0.0
+585,php ruby shell,2,0.0
+586,css javascript php shell,2,0.0
+587,css php ruby shell,2,0.0
+588,javascript php ruby shell,2,0.0
+589,css javascript php ruby shell,2,0.0
+590,c++ vim script,2,0.0
+591,nginx perl,2,0.0
+592,objective-c perl,2,0.0
+593,objective-c vim script,2,0.0
+594,perl vim script,2,0.0
+595,c++ html perl,2,0.0
+596,c++ objective-c perl,2,0.0
+597,html nginx perl,2,0.0
+598,html objective-c ruby,2,0.0
+599,html perl ruby,2,0.0
+600,html javascript objective-c,2,0.0
+601,perl python ruby,2,0.0
+602,perl python shell,2,0.0
+603,perl ruby shell,2,0.0
+604,css perl python ruby,2,0.0
+605,css perl python shell,2,0.0
+606,css perl ruby shell,2,0.0
+607,perl python ruby shell,2,0.0
+608,c css python ruby shell,2,0.0
+609,css perl python ruby shell,2,0.0
+610,batchfile css python,2,0.0
+611,batchfile html python,2,0.0
+612,batchfile css html python,2,0.0
+613,batchfile css python shell,2,0.0
+614,batchfile html python shell,2,0.0
+615,batchfile css html python shell,2,0.0
+616,c objective-c++ ruby,2,0.0
+617,c objective-c++ shell,2,0.0
+618,c++ objective-c++ ruby,2,0.0
+619,c++ objective-c++ shell,2,0.0
+620,c c++ objective-c++ shell,2,0.0
+621,haskell python,2,0.0
+622,c++ makefile ruby,2,0.0
+623,c c++ makefile ruby,2,0.0
+624,c makefile python ruby,2,0.0
+625,c++ makefile ruby shell,2,0.0
+626,c c++ makefile ruby shell,2,0.0
+627,c makefile python ruby shell,2,0.0
+628,c cuda,2,0.0
+629,cuda shell,2,0.0
+630,c cuda makefile,2,0.0
+631,c cuda matlab,2,0.0
+632,c cuda python,2,0.0
+633,c cuda shell,2,0.0
+634,cuda makefile shell,2,0.0
+635,cuda matlab shell,2,0.0
+636,cuda python shell,2,0.0
+637,c cuda makefile matlab,2,0.0
+638,c cuda makefile python,2,0.0
+639,c cuda makefile shell,2,0.0
+640,c cuda matlab python,2,0.0
+641,c cuda matlab shell,2,0.0
+642,c cuda python shell,2,0.0
+643,c makefile matlab python,2,0.0
+644,cuda makefile matlab shell,2,0.0
+645,cuda makefile python shell,2,0.0
+646,cuda matlab python shell,2,0.0
+647,makefile matlab python shell,2,0.0
+648,c cuda makefile matlab python,2,0.0
+649,c cuda makefile matlab shell,2,0.0
+650,c cuda makefile python shell,2,0.0
+651,c cuda matlab python shell,2,0.0
+652,c makefile matlab python shell,2,0.0
+653,cuda makefile matlab python shell,2,0.0
+654,c cuda makefile matlab python shell,2,0.0
+655,python vim script,2,0.0
+656,coffeescript html makefile,2,0.0
+657,coffeescript css html makefile,2,0.0
+658,c++ logos,2,0.0
+659,logos python,2,0.0
+660,c++ logos python,2,0.0
+661,html java makefile,2,0.0
+662,c++ css html python,2,0.0
+663,c++ html java makefile,2,0.0
+664,c++ html java python,2,0.0
+665,c++ html javascript python,2,0.0
+666,css html makefile python,2,0.0
+667,html javascript makefile python,2,0.0
+668,c++ css html java python,2,0.0
+669,c++ css html javascript python,2,0.0
+670,c++ html java javascript python,2,0.0
+671,css html javascript makefile python,2,0.0
+672,c++ css html java javascript python,2,0.0
+673,assembly perl,2,0.0
+674,c php,2,0.0
+675,c# php,2,0.0
+676,c++ php,2,0.0
+677,makefile perl,2,0.0
+678,makefile php,2,0.0
+679,assembly c c++,2,0.0
+680,assembly c css,2,0.0
+681,assembly c++ perl,2,0.0
+682,assembly css shell,2,0.0
+683,assembly perl shell,2,0.0
+684,c c# c++,2,0.0
+685,c c++ perl,2,0.0
+686,c c++ php,2,0.0
+687,c css php,2,0.0
+688,c makefile perl,2,0.0
+689,c# c++ css,2,0.0
+690,c# css php,2,0.0
+691,c# php shell,2,0.0
+692,c++ css perl,2,0.0
+693,c++ css php,2,0.0
+694,c++ makefile perl,2,0.0
+695,css makefile perl,2,0.0
+696,css makefile php,2,0.0
+697,makefile perl shell,2,0.0
+698,makefile php shell,2,0.0
+699,assembly c c++ makefile,2,0.0
+700,assembly c c++ shell,2,0.0
+701,assembly c css shell,2,0.0
+702,assembly c++ perl shell,2,0.0
+703,c c++ css perl,2,0.0
+704,c c++ css php,2,0.0
+705,c c++ makefile perl,2,0.0
+706,c c++ perl shell,2,0.0
+707,c css makefile perl,2,0.0
+708,c makefile perl shell,2,0.0
+709,c# css php shell,2,0.0
+710,c++ css makefile perl,2,0.0
+711,c++ css perl shell,2,0.0
+712,c++ makefile perl shell,2,0.0
+713,css makefile perl shell,2,0.0
+714,css makefile php shell,2,0.0
+715,assembly c c++ makefile shell,2,0.0
+716,c c++ css makefile perl,2,0.0
+717,c c++ css perl shell,2,0.0
+718,c c++ makefile perl shell,2,0.0
+719,c css makefile perl shell,2,0.0
+720,c++ css makefile perl shell,2,0.0
+721,c c++ css makefile perl shell,2,0.0
+722,batchfile java,2,0.0
+723,css xslt,2,0.0
+724,css shell xslt,2,0.0
+725,css groff html,2,0.0
+726,css groff makefile,2,0.0
+727,css groff shell,2,0.0
+728,groff html javascript,2,0.0
+729,groff javascript makefile,2,0.0
+730,groff javascript shell,2,0.0
+731,css groff html javascript,2,0.0
+732,css groff html makefile,2,0.0
+733,css groff html shell,2,0.0
+734,css groff javascript makefile,2,0.0
+735,css groff javascript shell,2,0.0
+736,css groff makefile shell,2,0.0
+737,groff html javascript makefile,2,0.0
+738,groff html javascript shell,2,0.0
+739,groff javascript makefile shell,2,0.0
+740,css groff html javascript makefile,2,0.0
+741,css groff html javascript shell,2,0.0
+742,css groff html makefile shell,2,0.0
+743,css groff javascript makefile shell,2,0.0
+744,css html javascript python shell,2,0.0
+745,groff html javascript makefile shell,2,0.0
+746,css groff html javascript makefile shell,2,0.0
+747,c# objective-c,2,0.0
+748,c++ javascript python ruby shell,2,0.0
+749,c c++ javascript python ruby shell,2,0.0
+750,c css objective-c,2,0.0
+751,c java objective-c,2,0.0
+752,c css java objective-c,2,0.0
+753,c lua,2,0.0
+754,gherkin java,2,0.0
+755,gherkin objective-c,2,0.0
+756,html lua,2,0.0
+757,javascript lua,2,0.0
+758,c c++ java,2,0.0
+759,c css lua,2,0.0
+760,c html java,2,0.0
+761,c html lua,2,0.0
+762,c javascript lua,2,0.0
+763,css html lua,2,0.0
+764,css html objective-c,2,0.0
+765,css javascript lua,2,0.0
+766,gherkin html java,2,0.0
+767,gherkin html objective-c,2,0.0
+768,gherkin java objective-c,2,0.0
+769,html java objective-c,2,0.0
+770,html javascript lua,2,0.0
+771,c c++ css java,2,0.0
+772,c c++ html java,2,0.0
+773,c c++ java javascript,2,0.0
+774,c css html java,2,0.0
+775,c css html lua,2,0.0
+776,c css java javascript,2,0.0
+777,c css javascript lua,2,0.0
+778,c html java javascript,2,0.0
+779,c html javascript lua,2,0.0
+780,css html javascript lua,2,0.0
+781,gherkin html java objective-c,2,0.0
+782,c c++ css html java,2,0.0
+783,c c++ css java javascript,2,0.0
+784,c c++ html java javascript,2,0.0
+785,c css html java javascript,2,0.0
+786,c css html javascript lua,2,0.0
+787,c c++ css html java javascript,2,0.0
+788,java scala,2,0.0
+789,html objective-c shell,2,0.0
+790,assembly c++ html shell,2,0.0
+791,assembly html makefile shell,2,0.0
+792,assembly c++ html makefile shell,2,0.0
+793,c c++ html python,2,0.0
+794,assembly javascript,2,0.0
+795,assembly qmake,2,0.0
+796,html qmake,2,0.0
+797,lua protocol buffer,2,0.0
+798,lua shell,2,0.0
+799,assembly css javascript,2,0.0
+800,assembly html qmake,2,0.0
+801,lua protocol buffer shell,2,0.0
+802,assembly python,2,0.0
+803,assembly makefile python,2,0.0
+804,javascript puppet,2,0.0
+805,puppet smarty,2,0.0
+806,css html puppet,2,0.0
+807,css javascript puppet,2,0.0
+808,css puppet smarty,2,0.0
+809,html javascript puppet,2,0.0
+810,html puppet smarty,2,0.0
+811,javascript puppet shell,2,0.0
+812,javascript puppet smarty,2,0.0
+813,puppet shell smarty,2,0.0
+814,css html javascript puppet,2,0.0
+815,css html puppet shell,2,0.0
+816,css html puppet smarty,2,0.0
+817,css javascript puppet shell,2,0.0
+818,css javascript puppet smarty,2,0.0
+819,css puppet shell smarty,2,0.0
+820,html javascript puppet shell,2,0.0
+821,html javascript puppet smarty,2,0.0
+822,html puppet shell smarty,2,0.0
+823,javascript puppet shell smarty,2,0.0
+824,css html javascript puppet shell,2,0.0
+825,css html javascript puppet smarty,2,0.0
+826,css html puppet shell smarty,2,0.0
+827,css javascript puppet shell smarty,2,0.0
+828,html javascript puppet shell smarty,2,0.0
+829,css html javascript puppet shell smarty,2,0.0
+830,apacheconf javascript shell,2,0.0
+831,apacheconf css javascript shell,2,0.0
+832,gherkin ruby,2,0.0
+833,gherkin ruby shell,2,0.0
+834,coffeescript html javascript shell,2,0.0
+835,shell vim script,2,0.0
+836,java php,2,0.0
+837,css java php,2,0.0
+838,css php python,2,0.0
+839,java javascript php,2,0.0
+840,java makefile shell,2,0.0
+841,java php python,2,0.0
+842,java php ruby,2,0.0
+843,javascript makefile ruby,2,0.0
+844,javascript php python,2,0.0
+845,php python ruby,2,0.0
+846,css java javascript php,2,0.0
+847,css java javascript shell,2,0.0
+848,css java php python,2,0.0
+849,css java php ruby,2,0.0
+850,css java ruby shell,2,0.0
+851,css javascript makefile ruby,2,0.0
+852,css javascript php python,2,0.0
+853,css makefile ruby shell,2,0.0
+854,css php python ruby,2,0.0
+855,java javascript php python,2,0.0
+856,java javascript php ruby,2,0.0
+857,java php python ruby,2,0.0
+858,javascript makefile ruby shell,2,0.0
+859,javascript php python ruby,2,0.0
+860,css java javascript php python,2,0.0
+861,css java javascript php ruby,2,0.0
+862,css java javascript python shell,2,0.0
+863,css java javascript ruby shell,2,0.0
+864,css java php python ruby,2,0.0
+865,css java python ruby shell,2,0.0
+866,css javascript makefile ruby shell,2,0.0
+867,css javascript php python ruby,2,0.0
+868,java javascript php python ruby,2,0.0
+869,css java javascript php python ruby,2,0.0
+870,css java javascript python ruby shell,2,0.0
+871,css nginx,2,0.0
+872,css html nginx,2,0.0
+873,css nginx shell,2,0.0
+874,html nginx shell,2,0.0
+875,css html nginx shell,2,0.0
+876,apacheconf javascript php,2,0.0
+877,apacheconf html javascript php,2,0.0
+878,asp powershell,2,0.0
+879,asp shell,2,0.0
+880,c# java,2,0.0
+881,c# powershell,2,0.0
+882,css typescript,2,0.0
+883,java puppet,2,0.0
+884,asp c# powershell,2,0.0
+885,asp c# shell,2,0.0
+886,asp css powershell,2,0.0
+887,asp css shell,2,0.0
+888,asp powershell shell,2,0.0
+889,c# css java,2,0.0
+890,c# css powershell,2,0.0
+891,c# powershell shell,2,0.0
+892,java puppet shell,2,0.0
+893,asp c# css powershell,2,0.0
+894,asp c# css shell,2,0.0
+895,asp c# powershell shell,2,0.0
+896,asp css powershell shell,2,0.0
+897,c# css powershell shell,2,0.0
+898,asp c# css powershell shell,2,0.0
+899,javascript perl python,2,0.0
+900,css javascript perl python,2,0.0
+901,javascript perl ruby,2,0.0
+902,css javascript perl ruby,2,0.0
+903,c c++ html ruby,2,0.0
+904,c c++ html shell,2,0.0
+905,c css html makefile,2,0.0
+906,c css html ruby,2,0.0
+907,c html javascript makefile,2,0.0
+908,c html javascript ruby,2,0.0
+909,c html makefile shell,2,0.0
+910,c html ruby shell,2,0.0
+911,c++ css html ruby,2,0.0
+912,c++ css html shell,2,0.0
+913,c++ css ruby shell,2,0.0
+914,c++ html javascript ruby,2,0.0
+915,c++ html javascript shell,2,0.0
+916,c c++ css html makefile,2,0.0
+917,c c++ css html ruby,2,0.0
+918,c c++ css html shell,2,0.0
+919,c c++ css ruby shell,2,0.0
+920,c c++ html javascript makefile,2,0.0
+921,c c++ html javascript ruby,2,0.0
+922,c c++ html javascript shell,2,0.0
+923,c c++ html makefile shell,2,0.0
+924,c css html javascript makefile,2,0.0
+925,c css html javascript ruby,2,0.0
+926,c css html makefile shell,2,0.0
+927,c css javascript ruby shell,2,0.0
+928,c html javascript makefile shell,2,0.0
+929,c++ css html javascript ruby,2,0.0
+930,c++ css html javascript shell,2,0.0
+931,c++ css html makefile shell,2,0.0
+932,c++ css javascript ruby shell,2,0.0
+933,c++ html javascript makefile shell,2,0.0
+934,c c++ css html javascript makefile,2,0.0
+935,c c++ css html javascript ruby,2,0.0
+936,c c++ css html javascript shell,2,0.0
+937,c c++ css html makefile shell,2,0.0
+938,c c++ css javascript ruby shell,2,0.0
+939,c c++ html javascript makefile shell,2,0.0
+940,c css html javascript makefile shell,2,0.0
+941,c++ css html javascript makefile shell,2,0.0
+942,c c++ css html javascript makefile shell,2,0.0
+943,applescript html,2,0.0
+944,applescript ruby,2,0.0
+945,applescript shell,2,0.0
+946,applescript html ruby,2,0.0
+947,applescript html shell,2,0.0
+948,applescript ruby shell,2,0.0
+949,applescript html ruby shell,2,0.0
+950,html python ruby shell,2,0.0
+951,css html python ruby shell,2,0.0
+952,c m,2,0.0
+953,c++ m,2,0.0
+954,c++ matlab,2,0.0
+955,css matlab,2,0.0
+956,javascript matlab,2,0.0
+957,m python,2,0.0
+958,c c++ m,2,0.0
+959,c m python,2,0.0
+960,c++ css matlab,2,0.0
+961,c++ javascript matlab,2,0.0
+962,c++ m python,2,0.0
+963,c++ matlab python,2,0.0
+964,css javascript matlab,2,0.0
+965,css matlab python,2,0.0
+966,javascript matlab python,2,0.0
+967,c c++ m python,2,0.0
+968,c++ css javascript matlab,2,0.0
+969,c++ css matlab python,2,0.0
+970,c++ css python ruby,2,0.0
+971,c++ css python shell,2,0.0
+972,c++ javascript matlab python,2,0.0
+973,css javascript matlab python,2,0.0
+974,c c++ css python ruby,2,0.0
+975,c c++ css python shell,2,0.0
+976,c css javascript python ruby,2,0.0
+977,c css javascript python shell,2,0.0
+978,c++ css javascript matlab python,2,0.0
+979,c++ css javascript python ruby,2,0.0
+980,c++ css javascript python shell,2,0.0
+981,c c++ css javascript python ruby,2,0.0
+982,c c++ css javascript python shell,2,0.0
+983,actionscript html,2,0.0
+984,actionscript css html,2,0.0
+985,batchfile html javascript,2,0.0
+986,batchfile css html javascript,2,0.0
+987,batchfile html javascript shell,2,0.0
+988,batchfile css html javascript shell,2,0.0
+989,assembly cmake,2,0.0
+990,c++ cmake,2,0.0
+991,assembly c++ cmake,2,0.0
+992,assembly cmake html,2,0.0
+993,assembly cmake makefile,2,0.0
+994,c++ cmake html,2,0.0
+995,c++ cmake makefile,2,0.0
+996,c++ groff html,2,0.0
+997,cmake html makefile,2,0.0
+998,assembly c++ cmake html,2,0.0
+999,assembly c++ cmake makefile,2,0.0
+1000,assembly cmake html makefile,2,0.0
+1001,c++ cmake html makefile,2,0.0
+1002,c++ groff html makefile,2,0.0
+1003,c++ groff html shell,2,0.0
+1004,assembly c++ cmake html makefile,2,0.0
+1005,c++ groff html makefile shell,2,0.0
+1006,cuda javascript,2,0.0
+1007,cuda javascript python,2,0.0
+1008,groff ruby,2,0.0
+1009,html javascript perl,2,0.0
+1010,javascript perl shell,2,0.0
+1011,css html javascript perl,2,0.0
+1012,css javascript perl shell,2,0.0
+1013,html javascript perl shell,2,0.0
+1014,css html javascript perl shell,2,0.0
+1015,batchfile ruby,2,0.0
+1016,batchfile html ruby,2,0.0
+1017,batchfile ruby shell,2,0.0
+1018,coffeescript html ruby,2,0.0
+1019,batchfile html ruby shell,2,0.0
+1020,coffeescript html ruby shell,2,0.0
+1021,emacs lisp perl,2,0.0
+1022,emacs lisp perl shell,2,0.0
+1023,objective-c ruby shell,2,0.0
+1024,html java ruby shell,2,0.0
+1025,c css makefile python,2,0.0
+1026,c c++ css makefile python,2,0.0
+1027,c html javascript python,2,0.0
+1028,apacheconf ruby,2,0.0
+1029,apacheconf css html javascript,2,0.0
+1030,c java python,2,0.0
+1031,c java ruby,2,0.0
+1032,c java javascript python,2,0.0
+1033,c java javascript ruby,2,0.0
+1034,c java python ruby,2,0.0
+1035,c java javascript python ruby,2,0.0
+1036,css html java ruby,2,0.0
+1037,html java javascript ruby,2,0.0
+1038,html java python ruby,2,0.0
+1039,html javascript python ruby,2,0.0
+1040,css html java javascript ruby,2,0.0
+1041,css html java python ruby,2,0.0
+1042,css html javascript python ruby,2,0.0
+1043,html java javascript python ruby,2,0.0
+1044,css html java javascript python ruby,2,0.0
