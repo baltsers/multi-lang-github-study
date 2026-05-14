@@ -17,3 +17,21 @@ This repository was created automatically. The contents under this
 directory mirror what was downloaded from the original artifact link
 above; refer to that source for the authoritative version, licensing,
 and any updates.
+
+---
+
+## Original `README.md` (from the upstream artifact)
+
+# environment
+1. enable sqlite extensions
+
+apt-get install libsqlite3-dev
+./configure --enable-loadable-sqlite-extensions && make && make install
+
+2. python libs install
+pip install progressbar
+pip install nltk
+pip install textblob
+pip install sklearn
+pip install matplotlib
+pip install plotly
